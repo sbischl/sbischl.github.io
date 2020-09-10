@@ -1,10 +1,99 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>MVPF Plot</title>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.11/jquery.csv.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.0.0-alpha.2/chart.min.js"></script>
+
+    <link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
+
+<body style="font-family: Open Sans"></body>
+
+
+<link rel="stylesheet" href="style.css">
 </head>
+
 <body>
+    <div id="headLine">
+        The Value of Government Expenditure in Germany
+    </div>
+
+    <div id="leftSide" onmouseover="openTooltipCurrentProgram()">
+        <div class="barHeadLine">Highlight Program:</div>
+        <div class="plotSettingsBox">
+            <select id="highlightProgram" onchange="highlightProgram(options[this.selectedIndex].value)">
+                <option value="noSelection">Select a Program</option>
+            </select>
+        </div>
+        <div class="barHeadLine">Chart Options:</div>
+        <div class="plotSettingsBox">
+            <label for="yAxis">Y Axis Variable:</label>
+            <br>
+            <select id="yAxis"
+                onchange="updateAxis('y', options[this.selectedIndex].value, options[this.selectedIndex].innerHTML)">
+                <option value="mvpf">Marginal Value of Public Funds</option>
+                <option value="government_net_costs">Government Net Cost</option>
+                <option value="willingness_to_pay">Willingness to Pay</option>
+            </select>
+        </div>
+
+        <div class="plotSettingsBox">
+            <label for="xAxis">X Axis Variable:</label>
+            <br>
+            <select id="xAxis"
+                onchange="updateAxis('x', options[this.selectedIndex].value, options[this.selectedIndex].innerHTML)">
+                <option value="year">Year</option>
+                <option value="average_age_beneficiary">Average Age of Beneficiaries</option>
+                <option value="average_earnings_beneficiary">Average Earnings of Beneficiaries</option>
+            </select>
+        </div>
+
+        <div class="barHeadLine">Assumptions:</div>
+        <div class="plotSettingsBox">
+            <label for="taxRateAssumption">Tax Rate Assumption:</label>
+            <br>
+            <select id="taxRateAssumption" onchange="updateGraphAssumptions()">
+                <option value="tax_rate0">0%</option>
+                <option value="tax_rate15">15%</option>
+                <option value="tax_rate30">30%</option>
+                <option value="tax_rate45">45%</option>
+                <option value="tax_rate60">60%</option>
+                <option value="tax_ratenonlinear">German Tax System</option>
+                <option value="tax_rateincometaxonly">Only Income Tax</option>
+            </select>
+        </div>
+
+        <div class="plotSettingsBox">
+            <label for="discountRateAssumption">Discount Rate Assumption:</label>
+            <br>
+            <select id="discountRateAssumption" onchange="updateGraphAssumptions()">
+                <option value="discount_rate7">7%</option>
+                <option value="discount_rate3">3%</option>
+                <option value="discount_rate1">1%</option>
+            </select>
+        </div>
+    </div>
+
+    <div id="content">
+        <div id="mvpfChartDiv">
+            <canvas id="mvpfChart"></canvas>
+        </div>
+        <div id="barChartDiv" onmouseover="openTooltipCurrentProgram()">
+            <br>
+            <br>
+            <br>
+            <strong>Hint:</strong> <span style="color:grey;">Click on one of the datapoints in the Chart to reveal more
+                information about the program</span>
+        </div>
+    </div>
+    <script src="plot.js"></script>
 </body>
+
 </html>
