@@ -197,13 +197,13 @@ var variable_mapping = [
             cost_increased_travel_time: "Cost of Longer Travel Time",
             private_safer_traffic_valuation: "Private Valuation of fewer Accidents",
             private_fuel_cost_saving: "Lower Fuel Consumption",
-            local_emission_reduction: "Less local Emissions",
+            local_emission_reduction: "Less Local Emissions",
             co2_emission_reducation: "Less CO2 Emissions"
         },
         government_net_costs: {
             public_safer_traffic_valuation: "Public Valuation of fewer Accidents",
             energy_tax_loss: "Energy Tax Loss",
-            value_added_tax_loss: "VAT Tax Loss"
+            value_added_tax_loss: "VAT Loss"
         }
     },
     {
@@ -212,13 +212,13 @@ var variable_mapping = [
             cost_increased_travel_time: "Cost of Longer Travel Time",
             private_safer_traffic_valuation: "Private Valuation of fewer Accidents",
             private_fuel_cost_saving: "Lower Fuel Consumption",
-            local_emission_reduction: "Less local Emissions",
+            local_emission_reduction: "Less Local Emissions",
             co2_emission_reducation: "Less CO2 Emissions"
         },
         government_net_costs: {
             public_safer_traffic_valuation: "Public Valuation of fewer Accidents",
             energy_tax_loss: "Energy Tax Loss",
-            value_added_tax_loss: "VAT Tax Loss"
+            value_added_tax_loss: "VAT Loss"
         }
     },
     {
@@ -253,6 +253,175 @@ var variable_mapping = [
             tax_revenue_increase: "Tax Revenue Increase",
             benefit_receipt: "Effect on Welfare Benefits"
         }
+    },
+    {
+        program: "bicycleHelmet",
+        willingness_to_pay: {
+            private_safer_traffic_valuation: "Private Valuation of less severe Accidents",
+            utility_loss_helmet: "Utility loss of wearing helmet",
+            helmet_cost: "Cost of Buying Helmets",
+            co2_emission_reducation: "More CO2 Emissions",
+            private_health_cost: "Health Effect of Less cycling"
+        },
+        government_net_costs: {
+            public_safer_traffic_valuation: "Public Valuation of less severe Accidents",
+            public_health_cost: "Health Effect of Less cycling",
+            value_added_tax_loss: "VAT Gain"
+        }
+    },
+    {
+        program: "maternityBenefit79",
+        willingness_to_pay: {
+            benefit_receipt: "Valuation of additional Maternity Benefit",
+            net_income_increase: "Net Income Effect on Children"
+        },
+        government_net_costs: {
+            program_cost: "Cost of Paying Maternity Benefit",
+            tax_revenue_increase: "Effect on Tax Revenue from Mothers",
+            tax_revenue_increase_children: "Effect on Tax Revenue from Children"
+        }
+    },
+    {
+        program: "maternityBenefit86",
+        willingness_to_pay: {
+            benefit_receipt: "Valuation of additional Maternity Benefit",
+            net_income_increase: "Net Income Effect on Children"
+        },
+        government_net_costs: {
+            program_cost: "Cost of Paying Maternity Benefit",
+            tax_revenue_increase: "Effect on Tax Revenue from Mothers",
+            tax_revenue_increase_children: "Effect on Tax Revenue from Children",
+            education_cost: "Education Cost Differenceost "
+        }
+    },
+    {
+        program: "maternityBenefit92",
+        willingness_to_pay: {
+            net_income_increase: "Net Income Effect on Children"
+        },
+        government_net_costs: {
+            tax_revenue_increase: "Effect on Tax Revenue from Mothers",
+            tax_revenue_increase_children: "Effect on Tax Revenue from Children",
+            education_cost: "Education Cost Differenceost "
+        }
+    },
+    {
+        program: "homeCareSubsidy",
+        willingness_to_pay: {
+            willingness_to_pay: "Valuation of the home care subsidy"
+        },
+        government_net_costs: {
+            program_cost: "Cost of paying the subsidy",
+            child_care_cost_reduction: "Lower take-up of subsidized child care",
+            tax_revenue_increase: "Effect on Tax Revenue from Mothers"
+        }
+    },
+    {
+        program: "parentalLeave2007",
+        willingness_to_pay: {
+            willingness_to_pay: "Valuation of the increased benefit payment"
+        },
+        government_net_costs: {
+            program_cost: "Cost of paying the benefits",
+            tax_revenue_increase: "Effect on Tax Revenue from Mothers"
+        }
+    },
+    {
+        program: "Bafög Repayment Reform",
+        willingness_to_pay: {
+            net_income_increase: "Lifteime Effect on Net Income",
+            bafoeg_valuation: "Reduced Repayment"
+        },
+        government_net_costs: {
+            program_cost: "Bafög Repayment",
+            tax_revenue_increase: "Lifteime Tax Revenue Increase",
+            education_cost: "Education Cost Difference",
+            bafoeg_cost: "Additional Bafög Recipients",
+        }
+    },
+    {
+        program: "unemploymentBenefits42",
+        willingness_to_pay: {
+            program_cost: "Benefit Payment",
+            valuation_reduced_risk: "Valuation of Lower Risk"
+        },
+        government_net_costs: {
+            program_cost: "Benefit Payment",
+            fiscal_externality: "Fiscal Externality due to longer unemployment"
+        }
+    },
+    {
+        program: "unemploymentBenefits44",
+        willingness_to_pay: {
+            program_cost: "Benefit Payment",
+            valuation_reduced_risk: "Valuation of Lower Risk"
+        },
+        government_net_costs: {
+            program_cost: "Benefit Payment",
+            fiscal_externality: "Fiscal Externality due to longer unemployment"
+        }
+    },
+    {
+        program: "unemploymentBenefits49",
+        willingness_to_pay: {
+            program_cost: "Benefit Payment",
+            valuation_reduced_risk: "Valuation of Lower Risk"
+        },
+        government_net_costs: {
+            program_cost: "Benefit Payment",
+            fiscal_externality: "Fiscal Externality due to longer unemployment"
+        }
+    },
+    {
+        program: "unemploymentBenefits2002",
+        willingness_to_pay: {
+            program_cost: "Benefit Payment",
+            valuation_reduced_risk: "Valuation of Lower Risk"
+        },
+        government_net_costs: {
+            program_cost: "Benefit Payment",
+            fiscal_externality: "Fiscal Externality due to longer unemployment"
+        }
+    },
+    {
+        program: "jobSearchInformation",
+        willingness_to_pay: {
+            net_income_increase: "Effect on Net Income"
+        },
+        government_net_costs: {
+            program_cost: "Training Cost",
+            tax_revenue_increase: "Tax Revenue Increase"
+        }
+    },
+    {
+        program: "relocationAssistance",
+        willingness_to_pay: {
+            net_income_increase: "Effect on Net Income"
+        },
+        government_net_costs: {
+            program_cost: "Subsidy Cost",
+            tax_revenue_increase: "Tax Revenue Increase"
+        }
+    },
+    {
+        program: "sportsExpenditure",
+        willingness_to_pay: {
+            net_income_increase: "Effect on Net Income"
+        },
+        government_net_costs: {
+            program_cost: "Sports Expenditure",
+            tax_revenue_increase: "Tax Revenue Increase"
+        }
+    },
+    {
+        program: "sportsExpenditure",
+        willingness_to_pay: {
+            reform_valuation: "Valuation of Transfer"
+        },
+        government_net_costs: {
+            program_cost: "Sports Expenditure",
+            tax_revenue_increase: "Tax Revenue Effect"
+        }
     }
 ]
 
@@ -263,14 +432,27 @@ var unmodified_dataset;
 var category_counter_mvpf = 0;
 var bar_counter = 1;
 
+async function loadVariableMappingJSON() {
+    // Skipped. Just store the Javascript Object at the beginning of the script.....
+}
+
 async function readcsv(csv_location) {
     var csv_as_array;
+
+    // This fixes the broken Umlaute: Thx @https://stackoverflow.com/questions/15333711/specials-chars-from-csv-to-javascript
+    jQuery.ajaxSetup({
+        'beforeSend' : function(xhr) {
+            xhr.overrideMimeType('text/html; charset=iso-8859-1');
+        }
+    });
+
     await jQuery.get(csv_location, function (data) {
         // Calling toObject. Javascript's typeof() function calls the resulting "thing" a object. But to me this looks like an array that contains key-value pairs (= objects??).
         // When calling toArrays. We would loose the key for each of the values and would have to infer the key from the position in the array.
         // -> Would be inconvenient
         csv_as_array = jQuery.csv.toObjects(data);
     });
+    //This stores a copy of the dataset
     unmodified_dataset = JSON.parse(JSON.stringify(csv_as_array));
     return csv_as_array;
 }
@@ -344,7 +526,11 @@ function generateEmptyDataset(datasetLabel) {
 
 async function updateGraphAssumptions() {
     var csvLocation = getCSVLocation(getGraphAssumptions());
-    readcsv(csvLocation).then(csv => updateGraphDataSet(csv));
+    readcsv(csvLocation).then(function (csv) {
+        updateGraphDataSet(csv);
+        openTooltipCurrentProgram();
+    });
+    
 
     // We also have to update the HTML on the right side
 }
@@ -365,7 +551,7 @@ function updateAxis(axis, value, label) {
 function getScales(variable,
     xLab = mvpfChart.options.scales.x.scaleLabel.labelString,
     yLab = mvpfChart.options.scales.y.scaleLabel.labelString) {
-    if (variable == "mvpf") {
+    if (variable == "mvpf" | yLab == "Marginal Value of Public Funds") {
         return ({
             y: {
                 display: true,
@@ -515,8 +701,8 @@ function getCSVLocation(specifiedAssumptions) {
 function getGraphAssumptions() {
     // The assumption Select Box Ids have to be in the correct order!!
     // The correct order is given by order of the assumptions in the csv files
-    var assumptionSelectBoxesIds = ["discountRateAssumption", "taxRateAssumption"]
-    var specifiedAssumptions = []
+    var assumptionSelectBoxesIds = ["discountRateAssumption", "taxRateAssumption", "returnsToSchoolingAssumption"];
+    var specifiedAssumptions = [];
 
     var i;
     for (i = 0; i < assumptionSelectBoxesIds.length; i++) {
@@ -532,6 +718,7 @@ function highlightProgram(program) {
 }
 
 function openTooltipCurrentProgram() {
+    console.log("triggered");
     if (currently_displayed_program) {
         openTooltip(currently_displayed_program);
     }
@@ -801,6 +988,7 @@ function drawBarChart(csv_as_array, variable_to_plot, program, chartElement) {
         options: {
             indexAxis: 'y',
             responsive: true,
+            maintainAspectRatio: false,
             aspectRatio: smallscreen ? 2 : 4,
             legend: {
                 position: 'bottom',
@@ -857,6 +1045,7 @@ function drawMVPFChart(csv_as_array) {
         },
         options: {
             responsive: true,
+            maintainAspectRatio: false,
             aspectRatio: 1.4,
             parsing: {
                 yAxisKey: 'mvpf',
@@ -894,7 +1083,7 @@ function drawMVPFChart(csv_as_array) {
                             tooltip.push(program_name + ":");
                         }
 
-                        tooltip.push("Willingness to Pay:" + +parseFloat(unmodified_datapoint["willingness_to_pay"]).toFixed(2));
+                        tooltip.push("Willingness to Pay: " + +parseFloat(unmodified_datapoint["willingness_to_pay"]).toFixed(2));
                         tooltip.push("Government Net Cost: " + +parseFloat(unmodified_datapoint["government_net_costs"]).toFixed(2));
                         tooltip.push("MVPF: " + (mvpfIsInfinity ? "∞" : +parseFloat(unmodified_datapoint["mvpf"]).toFixed(2)));
 
@@ -913,7 +1102,7 @@ function drawMVPFChart(csv_as_array) {
         //But it works now!!!!!
         var activePoints = mvpfChart.getElementsAtEventForMode(evt, 'point', mvpfChart.options);
         var firstPoint = activePoints[0];
-        // activePoints is undefined in case no point is pressed. if(undefined) is false, hence this if condition prevents, 
+        // activePoints is undefined in case no point is pressed. if(undefined) is false, this if condition prevents
         // the code from being executed if nothing is clicked.
         if (activePoints[0]) {
             var clicked_program = mvpfChart.data.datasets[firstPoint.datasetIndex].data[firstPoint.index].program;
@@ -925,6 +1114,14 @@ function drawMVPFChart(csv_as_array) {
 function changeBarChartProgram(program) {
     currently_displayed_program = program;
     generateLeftSideHTMLCharts(program);
+
+    // Update Highlighted Program on left side panel:
+    var selection = document.querySelector('#highlightProgram');
+    for (var i = 0; i < selection.options.length; i++) {
+        if (selection.options[i].value == program) {
+            selection.selectedIndex = i;
+        }
+    }
     /*
     currently_displayed_program = program;
 
@@ -992,6 +1189,7 @@ function generateSingleProgramHTML(program) {
     singleProgramDiv.appendChild(programHeadLine);
 
     //Description
+    console.log(program_data.short_description);
     var programDescription = document.createElement('p');
     programHeadLine.className = "programDescription";
     programDescription.innerHTML = "<strong>Short Description:</strong> <br>" + program_data.short_description;
@@ -1055,7 +1253,7 @@ function populatePrograms() {
 
 function main() {
     readcsv(document_root.concat("/csv/default.csv")).then(function (csv) {
-        drawMVPFChart(csv); populatePrograms();
+        drawMVPFChart(csv);
         populatePrograms();
         //generateLeftSideHTMLCharts("taxReform1990");
     });

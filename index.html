@@ -17,7 +17,7 @@
 <body style="font-family: Open Sans"></body>
 
 
-<link rel="stylesheet" href="style.css">
+<link id="stylesheet" rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -43,7 +43,7 @@
                 <option value="willingness_to_pay">Willingness to Pay</option>
             </select>
         </div>
-
+    
         <div class="plotSettingsBox">
             <label for="xAxis">X Axis Variable:</label>
             <br>
@@ -54,10 +54,10 @@
                 <option value="average_earnings_beneficiary">Average Earnings of Beneficiaries</option>
             </select>
         </div>
-
+    
         <div class="barHeadLine">Assumptions:</div>
         <div class="plotSettingsBox">
-            <label for="taxRateAssumption">Tax Rate Assumption:</label>
+            <label for="taxRateAssumption">Tax Rate:</label>
             <br>
             <select id="taxRateAssumption" onchange="updateGraphAssumptions()">
                 <option value="tax_rate0">0%</option>
@@ -69,9 +69,9 @@
                 <option value="tax_rateincometaxonly">Only Income Tax</option>
             </select>
         </div>
-
+    
         <div class="plotSettingsBox">
-            <label for="discountRateAssumption">Discount Rate Assumption:</label>
+            <label for="discountRateAssumption">Discount Rate:</label>
             <br>
             <select id="discountRateAssumption" onchange="updateGraphAssumptions()">
                 <option value="discount_rate7">7%</option>
@@ -79,20 +79,29 @@
                 <option value="discount_rate1">1%</option>
             </select>
         </div>
+    
+        <div class="plotSettingsBox">
+            <label for="returnsToSchoolingAssumption">Return to additional year of schooling:</label>
+            <br>
+            <select id="returnsToSchoolingAssumption" onchange="updateGraphAssumptions()">
+                <option value="returns_to_schooling5">5%</option>
+                <option value="returns_to_schooling10">10%</option>
+                <option value="discount_rateIAB">IAB Data</option>
+            </select>
+        </div>
+    </div>
+    
+    <div id="mvpfChartDiv">
+        <canvas id="mvpfChart"></canvas>
+    </div>
+    <div id="barChartDiv" onmouseover="openTooltipCurrentProgram()">
+        <br>
+        <br>
+        <br>
+        <strong>Hint:</strong> <span style="color:grey;">Click on one of the datapoints in the Chart to reveal more
+            information about the program</span>
     </div>
 
-    <div id="content">
-        <div id="mvpfChartDiv">
-            <canvas id="mvpfChart"></canvas>
-        </div>
-        <div id="barChartDiv" onmouseover="openTooltipCurrentProgram()">
-            <br>
-            <br>
-            <br>
-            <strong>Hint:</strong> <span style="color:grey;">Click on one of the datapoints in the Chart to reveal more
-                information about the program</span>
-        </div>
-    </div>
     <script src="plot.js"></script>
 </body>
 
