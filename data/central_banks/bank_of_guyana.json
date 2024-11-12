@@ -1,0 +1,78 @@
+{
+    "name": "Bank of Guyana",
+    "country": "GUY",
+    "currency": "Guyana Dollar",
+    "currency_code": "GYD",
+    "advanced": 0.0,
+    "cb_location": "Georgetown",
+    "cb_latitude": 6.8013,
+    "cb_longitude": -58.1551,
+    "number_of_speeches": [
+        2
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Lawrence Williams": 2
+    },
+    "audiences": {
+        "central_bank": 0.5,
+        "financial_market": 0.5
+    },
+    "monetary_dominance": null,
+    "fiscal_dominance_mean": null,
+    "financial_dominance_mean": null,
+    "top_topics": [
+        [
+            "information technology",
+            0.5
+        ],
+        [
+            "central banks",
+            0.5
+        ],
+        [
+            "investments",
+            0.5
+        ],
+        [
+            "it/business alignment",
+            0.5
+        ],
+        [
+            "governance",
+            0.5
+        ],
+        [
+            "data",
+            0.5
+        ],
+        [
+            "strategic value",
+            0.5
+        ],
+        [
+            "business processes",
+            0.5
+        ],
+        [
+            "collaboration",
+            0.5
+        ],
+        [
+            "risk mitigation",
+            0.5
+        ]
+    ],
+    "year": [
+        2012
+    ],
+    "monetary_dominance_yearly": [
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        null
+    ],
+    "financial_dominance_yearly": [
+        null
+    ]
+}

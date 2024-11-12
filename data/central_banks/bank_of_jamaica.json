@@ -1,0 +1,113 @@
+{
+    "name": "Bank of Jamaica",
+    "country": "JAM",
+    "currency": "Jamaican Dollar",
+    "currency_code": "JMD",
+    "advanced": 0.0,
+    "cb_location": "Kingston",
+    "cb_latitude": 18.0179,
+    "cb_longitude": -76.8099,
+    "number_of_speeches": [
+        1,
+        1,
+        2,
+        5,
+        6,
+        4,
+        1
+    ],
+    "number_of_speakers": 4,
+    "speakers": {
+        "Brian Wynter": 15,
+        "Derick Latibeaudiere": 3,
+        "Audrey E Anderson": 1,
+        "Richard Byles": 1
+    },
+    "audiences": {
+        "financial_market": 0.5,
+        "central_bank": 0.3,
+        "academic": 0.1,
+        "political": 0.1
+    },
+    "monetary_dominance": 0.8447255100783558,
+    "fiscal_dominance_mean": 0.12461763603538993,
+    "financial_dominance_mean": 0.030656853886254172,
+    "top_topics": [
+        [
+            "inflation",
+            0.6
+        ],
+        [
+            "monetary policy",
+            0.55
+        ],
+        [
+            "economic growth",
+            0.5
+        ],
+        [
+            "interest rates",
+            0.4
+        ],
+        [
+            "exchange rate",
+            0.25
+        ],
+        [
+            "financial stability",
+            0.25
+        ],
+        [
+            "fiscal consolidation",
+            0.2
+        ],
+        [
+            "risk management",
+            0.15
+        ],
+        [
+            "foreign exchange market",
+            0.15
+        ],
+        [
+            "commodity prices",
+            0.15
+        ]
+    ],
+    "year": [
+        2005,
+        2006,
+        2007,
+        2010,
+        2011,
+        2013,
+        2022
+    ],
+    "monetary_dominance_yearly": [
+        null,
+        1.0,
+        0.0,
+        0.9395770392749244,
+        0.7489034202524152,
+        0.875,
+        1.0
+    ],
+    "fiscal_dominance_yearly": [
+        null,
+        0.0,
+        0.0,
+        0.03021148036253776,
+        0.24334651920023687,
+        0.0546875,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        null,
+        0.0,
+        1.0,
+        0.03021148036253776,
+        0.007750060547348027,
+        0.0703125,
+        0.0
+    ]
+}

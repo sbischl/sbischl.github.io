@@ -1,0 +1,109 @@
+{
+    "name": "Central Bank of the United Arab Emirates",
+    "country": "ARE",
+    "currency": "UAE Dirham",
+    "currency_code": "AED",
+    "advanced": 0.0,
+    "cb_location": "Abu Dhabi",
+    "cb_latitude": 24.4539,
+    "cb_longitude": 54.3773,
+    "number_of_speeches": [
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+    ],
+    "number_of_speakers": 2,
+    "speakers": {
+        "Sultan Bin Nasser Al-Suwaidi": 8,
+        "Mubarak Rashed Al Mansoori": 2
+    },
+    "audiences": {
+        "financial_market": 0.5,
+        "central_bank": 0.5
+    },
+    "monetary_dominance": 0.03184713375796178,
+    "fiscal_dominance_mean": 0.07006369426751592,
+    "financial_dominance_mean": 0.8980891719745223,
+    "top_topics": [
+        [
+            "financial stability",
+            0.3
+        ],
+        [
+            "money laundering",
+            0.2
+        ],
+        [
+            "international cooperation",
+            0.2
+        ],
+        [
+            "risk management",
+            0.2
+        ],
+        [
+            "basel iii",
+            0.2
+        ],
+        [
+            "financial inclusion",
+            0.2
+        ],
+        [
+            "expected bank's performance in 2006",
+            0.1
+        ],
+        [
+            "uae economy",
+            0.1
+        ],
+        [
+            "exchange rate policy of the uae",
+            0.1
+        ],
+        [
+            "central bank's issues and projects",
+            0.1
+        ]
+    ],
+    "year": [
+        2006,
+        2007,
+        2009,
+        2010,
+        2012,
+        2013,
+        2018
+    ],
+    "monetary_dominance_yearly": [
+        0.0,
+        null,
+        0.0,
+        null,
+        null,
+        null,
+        0.19999999999999998
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        null,
+        0.5,
+        null,
+        null,
+        null,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        1.0,
+        null,
+        0.5,
+        null,
+        null,
+        null,
+        0.7999999999999999
+    ]
+}

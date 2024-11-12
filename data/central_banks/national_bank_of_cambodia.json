@@ -1,0 +1,84 @@
+{
+    "name": "National Bank of Cambodia",
+    "country": "KHM",
+    "currency": "Riel",
+    "currency_code": "KHR",
+    "advanced": 0.0,
+    "cb_location": "Phnom Penh",
+    "cb_latitude": 11.5564,
+    "cb_longitude": 104.9282,
+    "number_of_speeches": [
+        1,
+        1
+    ],
+    "number_of_speakers": 2,
+    "speakers": {
+        "H.E. Chea Chanto": 1,
+        "Dr Serey Chea": 1
+    },
+    "audiences": {
+        "central_bank": 0.5,
+        "academic": 0.5
+    },
+    "monetary_dominance": 0.5,
+    "fiscal_dominance_mean": 0.0,
+    "financial_dominance_mean": 0.5,
+    "top_topics": [
+        [
+            "reserve management",
+            0.5
+        ],
+        [
+            "capacity building",
+            0.5
+        ],
+        [
+            "financial crisis",
+            0.5
+        ],
+        [
+            "economic development",
+            0.5
+        ],
+        [
+            "banking sector",
+            0.5
+        ],
+        [
+            "risk management",
+            0.5
+        ],
+        [
+            "investment",
+            0.5
+        ],
+        [
+            "diversification",
+            0.5
+        ],
+        [
+            "safety",
+            0.5
+        ],
+        [
+            "liquidity",
+            0.5
+        ]
+    ],
+    "year": [
+        2009,
+        2022
+    ],
+    "monetary_dominance_yearly": [
+        null,
+        0.5
+    ],
+    "fiscal_dominance_yearly": [
+        null,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        null,
+        0.5
+    ]
+}

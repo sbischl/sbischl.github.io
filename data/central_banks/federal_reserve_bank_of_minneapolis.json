@@ -1,0 +1,89 @@
+{
+    "name": "Federal Reserve Bank of Minneapolis",
+    "country": "USA",
+    "currency": "US Dollar",
+    "currency_code": "USD",
+    "advanced": 1.0,
+    "cb_location": "Minneapolis",
+    "cb_latitude": 44.9778,
+    "cb_longitude": -93.265,
+    "number_of_speeches": [
+        9,
+        1,
+        13
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Narayana Kocherlakota": 23
+    },
+    "audiences": {
+        "financial_market": 0.5217391304347826,
+        "academic": 0.43478260869565216,
+        "central_bank": 0.043478260869565216
+    },
+    "monetary_dominance": 0.8074328377751812,
+    "fiscal_dominance_mean": 0.039776034340340646,
+    "financial_dominance_mean": 0.1527911278844782,
+    "top_topics": [
+        [
+            "monetary policy",
+            0.826086956521739
+        ],
+        [
+            "inflation",
+            0.6956521739130435
+        ],
+        [
+            "fomc",
+            0.43478260869565216
+        ],
+        [
+            "price stability",
+            0.34782608695652173
+        ],
+        [
+            "employment",
+            0.34782608695652173
+        ],
+        [
+            "communication",
+            0.30434782608695654
+        ],
+        [
+            "federal reserve system",
+            0.2608695652173913
+        ],
+        [
+            "maximum employment",
+            0.2608695652173913
+        ],
+        [
+            "unemployment",
+            0.21739130434782608
+        ],
+        [
+            "federal reserve",
+            0.21739130434782608
+        ]
+    ],
+    "year": [
+        2011,
+        2012,
+        2014
+    ],
+    "monetary_dominance_yearly": [
+        0.6583209570462849,
+        1.0,
+        0.9211337030191004
+    ],
+    "fiscal_dominance_yearly": [
+        0.08649315254162913,
+        0.0,
+        0.002464571780653111
+    ],
+    "financial_dominance_yearly": [
+        0.25518589041208595,
+        0.0,
+        0.07640172520024645
+    ]
+}

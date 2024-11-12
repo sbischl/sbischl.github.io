@@ -1,0 +1,114 @@
+{
+    "name": "Central Bank of Brazil",
+    "country": "BRA",
+    "currency": "Brazilian Real",
+    "currency_code": "BRL",
+    "advanced": 0.0,
+    "cb_location": "Bras\u00edlia",
+    "cb_latitude": -15.7942,
+    "cb_longitude": -47.8822,
+    "number_of_speeches": [
+        1,
+        1,
+        1,
+        4,
+        2,
+        1,
+        1
+    ],
+    "number_of_speakers": 5,
+    "speakers": {
+        "Henrique Meirelles": 6,
+        "Alexandre Antonio Tombini": 2,
+        "Francisco L. Lopes": 1,
+        "Henrique de Campos Meirelles": 1,
+        "Paulo Sergio Cavalheiro": 1
+    },
+    "audiences": {
+        "financial_market": 0.36363636363636365,
+        "central_bank": 0.2727272727272727,
+        "political": 0.18181818181818182,
+        "academic": 0.18181818181818182
+    },
+    "monetary_dominance": 0.8392929118443023,
+    "fiscal_dominance_mean": 0.04675534058847238,
+    "financial_dominance_mean": 0.11395174756722519,
+    "top_topics": [
+        [
+            "monetary policy",
+            0.5454545454545454
+        ],
+        [
+            "inflation targeting",
+            0.4545454545454546
+        ],
+        [
+            "financial stability",
+            0.36363636363636365
+        ],
+        [
+            "inflation",
+            0.2727272727272727
+        ],
+        [
+            "economic growth",
+            0.2727272727272727
+        ],
+        [
+            "central bank",
+            0.2727272727272727
+        ],
+        [
+            "global financial crisis",
+            0.2727272727272727
+        ],
+        [
+            "exchange rate",
+            0.18181818181818182
+        ],
+        [
+            "fiscal policy",
+            0.18181818181818182
+        ],
+        [
+            "price stability",
+            0.18181818181818182
+        ]
+    ],
+    "year": [
+        1999,
+        2003,
+        2004,
+        2008,
+        2009,
+        2013,
+        2015
+    ],
+    "monetary_dominance_yearly": [
+        0.6111111111111112,
+        0.9452054794520548,
+        null,
+        1.0,
+        0.6666666666666666,
+        0.3478260869565217,
+        1.0
+    ],
+    "fiscal_dominance_yearly": [
+        0.2777777777777778,
+        0.0410958904109589,
+        null,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.1111111111111111,
+        0.013698630136986302,
+        null,
+        0.0,
+        0.3333333333333333,
+        0.6521739130434782,
+        0.0
+    ]
+}

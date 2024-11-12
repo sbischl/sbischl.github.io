@@ -1,0 +1,82 @@
+{
+    "name": "Maldives Monetary Authority",
+    "country": "MDV",
+    "currency": "Rufiyaa",
+    "currency_code": "MVR",
+    "advanced": 0.0,
+    "cb_location": "Mal\u00e9",
+    "cb_latitude": 4.1755,
+    "cb_longitude": 73.5093,
+    "number_of_speeches": [
+        3,
+        1
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Ahmed Naseer": 4
+    },
+    "audiences": {
+        "financial_market": 1.0
+    },
+    "monetary_dominance": null,
+    "fiscal_dominance_mean": null,
+    "financial_dominance_mean": null,
+    "top_topics": [
+        [
+            "economic growth",
+            0.5
+        ],
+        [
+            "financial technology",
+            0.5
+        ],
+        [
+            "blockchain",
+            0.5
+        ],
+        [
+            "financial inclusion",
+            0.5
+        ],
+        [
+            "fund management practices",
+            0.25
+        ],
+        [
+            "retirement pension scheme",
+            0.25
+        ],
+        [
+            "foreign direct investment",
+            0.25
+        ],
+        [
+            "sovereign wealth fund",
+            0.25
+        ],
+        [
+            "debt",
+            0.25
+        ],
+        [
+            "inflation",
+            0.25
+        ]
+    ],
+    "year": [
+        2018,
+        2019
+    ],
+    "monetary_dominance_yearly": [
+        null,
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        null,
+        null
+    ],
+    "financial_dominance_yearly": [
+        null,
+        null
+    ]
+}

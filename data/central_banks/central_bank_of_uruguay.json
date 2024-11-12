@@ -1,0 +1,77 @@
+{
+    "name": "Central Bank of Uruguay",
+    "country": "URY",
+    "currency": "Peso Uruguayo",
+    "currency_code": "UYU",
+    "advanced": 0.0,
+    "cb_location": "Montevideo",
+    "cb_latitude": -34.9011,
+    "cb_longitude": -56.1645,
+    "number_of_speeches": [
+        1
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Mario Bergara": 1
+    },
+    "audiences": {
+        "central_bank": 1.0
+    },
+    "monetary_dominance": 0.0,
+    "fiscal_dominance_mean": 0.03571428571428572,
+    "financial_dominance_mean": 0.9642857142857143,
+    "top_topics": [
+        [
+            "financial stability",
+            1.0
+        ],
+        [
+            "microprudential",
+            1.0
+        ],
+        [
+            "macroprudential",
+            1.0
+        ],
+        [
+            "financial safety net",
+            1.0
+        ],
+        [
+            "systemic risk",
+            1.0
+        ],
+        [
+            "regulatory arbitrage",
+            1.0
+        ],
+        [
+            "financial crisis",
+            1.0
+        ],
+        [
+            "financial stability committee",
+            1.0
+        ],
+        [
+            "risk management",
+            1.0
+        ],
+        [
+            "microeconomic policy",
+            1.0
+        ]
+    ],
+    "year": [
+        2012
+    ],
+    "monetary_dominance_yearly": [
+        0.0
+    ],
+    "fiscal_dominance_yearly": [
+        0.03571428571428572
+    ],
+    "financial_dominance_yearly": [
+        0.9642857142857143
+    ]
+}

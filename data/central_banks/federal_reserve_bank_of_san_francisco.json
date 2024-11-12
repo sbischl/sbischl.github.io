@@ -1,0 +1,91 @@
+{
+    "name": "Federal Reserve Bank of San Francisco",
+    "country": "USA",
+    "currency": "US Dollar",
+    "currency_code": "USD",
+    "advanced": 1.0,
+    "cb_location": "San Francisco",
+    "cb_latitude": 37.7749,
+    "cb_longitude": -122.4194,
+    "number_of_speeches": [
+        1,
+        1,
+        1
+    ],
+    "number_of_speakers": 3,
+    "speakers": {
+        "Robert T Parry": 1,
+        "Janet L Yellen": 1,
+        "John C Williams": 1
+    },
+    "audiences": {
+        "academic": 0.3333333333333333,
+        "political": 0.3333333333333333,
+        "financial_market": 0.3333333333333333
+    },
+    "monetary_dominance": 0.6852589641434264,
+    "fiscal_dominance_mean": 0.0,
+    "financial_dominance_mean": 0.3147410358565737,
+    "top_topics": [
+        [
+            "monetary policy",
+            1.0
+        ],
+        [
+            "inflation",
+            1.0
+        ],
+        [
+            "interest rates",
+            0.6666666666666666
+        ],
+        [
+            "economic growth",
+            0.6666666666666666
+        ],
+        [
+            "financial change",
+            0.3333333333333333
+        ],
+        [
+            "technology shock",
+            0.3333333333333333
+        ],
+        [
+            "monetary aggregates",
+            0.3333333333333333
+        ],
+        [
+            "productivity",
+            0.3333333333333333
+        ],
+        [
+            "uncertainty",
+            0.3333333333333333
+        ],
+        [
+            "central bank credibility",
+            0.3333333333333333
+        ]
+    ],
+    "year": [
+        2000,
+        2005,
+        2012
+    ],
+    "monetary_dominance_yearly": [
+        0.7619047619047619,
+        0.875,
+        0.3333333333333333
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.23809523809523808,
+        0.125,
+        0.6666666666666666
+    ]
+}

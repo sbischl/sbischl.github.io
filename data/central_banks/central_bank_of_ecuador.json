@@ -1,0 +1,77 @@
+{
+    "name": "Central Bank of Ecuador",
+    "country": "ECU",
+    "currency": "US Dollar",
+    "currency_code": "USD",
+    "advanced": 0.0,
+    "cb_location": "Quito",
+    "cb_latitude": -0.1807,
+    "cb_longitude": -78.4678,
+    "number_of_speeches": [
+        1
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Polibio Cordoba": 1
+    },
+    "audiences": {
+        "central_bank": 1.0
+    },
+    "monetary_dominance": 1.0,
+    "fiscal_dominance_mean": 0.0,
+    "financial_dominance_mean": 0.0,
+    "top_topics": [
+        [
+            "central bank operations",
+            1.0
+        ],
+        [
+            "collateral",
+            1.0
+        ],
+        [
+            "guarantees",
+            1.0
+        ],
+        [
+            "monetary policy",
+            1.0
+        ],
+        [
+            "financial stability",
+            1.0
+        ],
+        [
+            "lender of last resort",
+            1.0
+        ],
+        [
+            "dollarization",
+            1.0
+        ],
+        [
+            "liquidity",
+            1.0
+        ],
+        [
+            "economic growth",
+            1.0
+        ],
+        [
+            "financial system",
+            1.0
+        ]
+    ],
+    "year": [
+        2005
+    ],
+    "monetary_dominance_yearly": [
+        1.0
+    ],
+    "fiscal_dominance_yearly": [
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.0
+    ]
+}

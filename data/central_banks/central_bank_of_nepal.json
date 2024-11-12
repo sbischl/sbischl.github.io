@@ -1,0 +1,111 @@
+{
+    "name": "Central Bank of Nepal",
+    "country": "NPL",
+    "currency": "Nepalese Rupee",
+    "currency_code": "NPR",
+    "advanced": 0.0,
+    "cb_location": "Kathmandu",
+    "cb_latitude": 27.7172,
+    "cb_longitude": 85.324,
+    "number_of_speeches": [
+        1,
+        4,
+        1,
+        6,
+        1,
+        1,
+        1
+    ],
+    "number_of_speakers": 3,
+    "speakers": {
+        "Chiranjibi Nepal": 9,
+        "Yuba Raj Khatiwada": 5,
+        "Maha Prasad Adhikari": 1
+    },
+    "audiences": {
+        "central_bank": 0.5333333333333333,
+        "financial_market": 0.26666666666666666,
+        "academic": 0.2
+    },
+    "monetary_dominance": 0.15873015873015872,
+    "fiscal_dominance_mean": 0.07936507936507936,
+    "financial_dominance_mean": 0.761904761904762,
+    "top_topics": [
+        [
+            "financial stability",
+            0.5333333333333333
+        ],
+        [
+            "monetary policy",
+            0.4
+        ],
+        [
+            "economic growth",
+            0.4
+        ],
+        [
+            "financial inclusion",
+            0.26666666666666666
+        ],
+        [
+            "financial institutions",
+            0.2
+        ],
+        [
+            "financial integration",
+            0.13333333333333333
+        ],
+        [
+            "financial innovation",
+            0.13333333333333333
+        ],
+        [
+            "fiscal policy",
+            0.13333333333333333
+        ],
+        [
+            "financial services",
+            0.13333333333333333
+        ],
+        [
+            "mobile banking",
+            0.13333333333333333
+        ]
+    ],
+    "year": [
+        2013,
+        2014,
+        2016,
+        2017,
+        2018,
+        2019,
+        2023
+    ],
+    "monetary_dominance_yearly": [
+        0.5,
+        0.0,
+        null,
+        0.0,
+        null,
+        null,
+        0.0
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        1.0,
+        null,
+        0.0,
+        null,
+        null,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.5,
+        0.0,
+        null,
+        1.0,
+        null,
+        null,
+        1.0
+    ]
+}

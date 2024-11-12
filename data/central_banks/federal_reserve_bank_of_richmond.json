@@ -1,0 +1,77 @@
+{
+    "name": "Federal Reserve Bank of Richmond",
+    "country": "USA",
+    "currency": "US Dollar",
+    "currency_code": "USD",
+    "advanced": 1.0,
+    "cb_location": "Richmond",
+    "cb_latitude": 37.5407,
+    "cb_longitude": -77.436,
+    "number_of_speeches": [
+        2
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Jeffrey M Lacker": 2
+    },
+    "audiences": {
+        "financial_market": 1.0
+    },
+    "monetary_dominance": 1.0,
+    "fiscal_dominance_mean": 0.0,
+    "financial_dominance_mean": 0.0,
+    "top_topics": [
+        [
+            "human capital",
+            0.5
+        ],
+        [
+            "innovation",
+            0.5
+        ],
+        [
+            "education",
+            0.5
+        ],
+        [
+            "skills",
+            0.5
+        ],
+        [
+            "college premium",
+            0.5
+        ],
+        [
+            "skill-biased technical change",
+            0.5
+        ],
+        [
+            "early childhood education",
+            0.5
+        ],
+        [
+            "wage inequality",
+            0.5
+        ],
+        [
+            "economic mobility",
+            0.5
+        ],
+        [
+            "non-cognitive skills",
+            0.5
+        ]
+    ],
+    "year": [
+        2015
+    ],
+    "monetary_dominance_yearly": [
+        1.0
+    ],
+    "fiscal_dominance_yearly": [
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.0
+    ]
+}

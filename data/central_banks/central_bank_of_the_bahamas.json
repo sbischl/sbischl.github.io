@@ -1,0 +1,105 @@
+{
+    "name": "Central Bank of the Bahamas",
+    "country": "BHS",
+    "currency": "Bahamian Dollar",
+    "currency_code": "BSD",
+    "advanced": 0.0,
+    "cb_location": "Nassau",
+    "cb_latitude": 25.0343,
+    "cb_longitude": -77.3963,
+    "number_of_speeches": [
+        1,
+        1,
+        7,
+        6,
+        1,
+        1
+    ],
+    "number_of_speakers": 2,
+    "speakers": {
+        "John A Rolle": 16,
+        "Julian W Francis": 1
+    },
+    "audiences": {
+        "financial_market": 0.7058823529411765,
+        "central_bank": 0.17647058823529413,
+        "academic": 0.11764705882352941
+    },
+    "monetary_dominance": 0.5603917468712524,
+    "fiscal_dominance_mean": 0.2194428215614526,
+    "financial_dominance_mean": 0.22016543156729493,
+    "top_topics": [
+        [
+            "financial inclusion",
+            0.29411764705882354
+        ],
+        [
+            "central bank",
+            0.29411764705882354
+        ],
+        [
+            "financial literacy",
+            0.29411764705882354
+        ],
+        [
+            "aml/cft",
+            0.23529411764705882
+        ],
+        [
+            "exchange controls",
+            0.1764705882352941
+        ],
+        [
+            "financial stability",
+            0.1764705882352941
+        ],
+        [
+            "economic growth",
+            0.1764705882352941
+        ],
+        [
+            "fintech",
+            0.1764705882352941
+        ],
+        [
+            "money laundering",
+            0.1764705882352941
+        ],
+        [
+            "financial sector",
+            0.1764705882352941
+        ]
+    ],
+    "year": [
+        2004,
+        2016,
+        2018,
+        2019,
+        2020,
+        2021
+    ],
+    "monetary_dominance_yearly": [
+        1.0,
+        null,
+        0.4794108806732792,
+        0.5714285714285715,
+        0.5,
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        null,
+        0.22663059813645928,
+        0.31428571428571433,
+        0.0,
+        null
+    ],
+    "financial_dominance_yearly": [
+        0.0,
+        null,
+        0.29395852119026145,
+        0.11428571428571428,
+        0.5,
+        null
+    ]
+}

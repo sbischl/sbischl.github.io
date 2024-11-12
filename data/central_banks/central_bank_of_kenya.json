@@ -1,0 +1,165 @@
+{
+    "name": "Central Bank of Kenya",
+    "country": "KEN",
+    "currency": "Kenyan Shilling",
+    "currency_code": "KES",
+    "advanced": 0.0,
+    "cb_location": "Nairobi",
+    "cb_latitude": -1.2864,
+    "cb_longitude": 36.8172,
+    "number_of_speeches": [
+        14,
+        7,
+        16,
+        24,
+        18,
+        18,
+        11,
+        24,
+        8,
+        15,
+        4,
+        1,
+        7,
+        7,
+        5,
+        1,
+        2
+    ],
+    "number_of_speakers": 6,
+    "speakers": {
+        "Njuguna Ndung'u": 133,
+        "Patrick Njoroge": 45,
+        "Jacinta Mwatela": 1,
+        "Hezron O Nyangito": 1,
+        "Haron Sirima": 1,
+        "Sheila M'Mbijjewe": 1
+    },
+    "audiences": {
+        "financial_market": 0.5769230769230769,
+        "central_bank": 0.25274725274725274,
+        "academic": 0.12087912087912088,
+        "political": 0.04945054945054945
+    },
+    "monetary_dominance": 0.6011939143964995,
+    "fiscal_dominance_mean": 0.152698543862316,
+    "financial_dominance_mean": 0.24610754174118454,
+    "top_topics": [
+        [
+            "financial inclusion",
+            0.46703296703296704
+        ],
+        [
+            "financial services",
+            0.2142857142857143
+        ],
+        [
+            "financial stability",
+            0.20879120879120877
+        ],
+        [
+            "monetary policy",
+            0.1703296703296703
+        ],
+        [
+            "economic growth",
+            0.14835164835164835
+        ],
+        [
+            "banking sector",
+            0.14285714285714285
+        ],
+        [
+            "financial sector",
+            0.11538461538461539
+        ],
+        [
+            "credit information sharing",
+            0.11538461538461539
+        ],
+        [
+            "vision 2030",
+            0.09340659340659341
+        ],
+        [
+            "innovation",
+            0.09340659340659341
+        ]
+    ],
+    "year": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+    ],
+    "monetary_dominance_yearly": [
+        0.734107159226327,
+        1.0,
+        0.6179884203879437,
+        0.8714285714285716,
+        1.0,
+        0.0,
+        0.0,
+        0.8885005242922056,
+        0.225,
+        0.708688245315162,
+        null,
+        0.0,
+        0.0,
+        0.0,
+        null,
+        null,
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        0.040906590888257405,
+        0.0,
+        0.15875274593335054,
+        0.12857142857142856,
+        0.0,
+        1.0,
+        0.27272727272727276,
+        0.11149947570779449,
+        0.0,
+        0.10425894378194209,
+        null,
+        0.0,
+        0.0,
+        1.0,
+        null,
+        null,
+        null
+    ],
+    "financial_dominance_yearly": [
+        0.2249862498854157,
+        0.0,
+        0.2232588336787058,
+        0.0,
+        0.0,
+        0.0,
+        0.7272727272727273,
+        0.0,
+        0.775,
+        0.1870528109028961,
+        null,
+        1.0,
+        1.0,
+        0.0,
+        null,
+        null,
+        null
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "name": "Central Bank of Cyprus",
+    "country": "CYP",
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "advanced": 1.0,
+    "cb_location": "Nicosia",
+    "cb_latitude": 35.1856,
+    "cb_longitude": 33.3823,
+    "number_of_speeches": [
+        2,
+        1,
+        6
+    ],
+    "number_of_speakers": 3,
+    "speakers": {
+        "Constantinos Herodotou": 6,
+        "Athanasios Orphanides": 2,
+        "Panicos Demetriades": 1
+    },
+    "audiences": {
+        "financial_market": 0.5555555555555556,
+        "central_bank": 0.2222222222222222,
+        "academic": 0.2222222222222222
+    },
+    "monetary_dominance": 0.7958722634174392,
+    "fiscal_dominance_mean": 0.12126615492784194,
+    "financial_dominance_mean": 0.08286158165471887,
+    "top_topics": [
+        [
+            "financial stability",
+            0.5555555555555556
+        ],
+        [
+            "monetary policy",
+            0.3333333333333333
+        ],
+        [
+            "euro area",
+            0.3333333333333333
+        ],
+        [
+            "fiscal policy",
+            0.22222222222222224
+        ],
+        [
+            "inflation",
+            0.22222222222222224
+        ],
+        [
+            "restructuring",
+            0.22222222222222224
+        ],
+        [
+            "ecb",
+            0.22222222222222224
+        ],
+        [
+            "fintechs",
+            0.22222222222222224
+        ],
+        [
+            "innovation",
+            0.22222222222222224
+        ],
+        [
+            "cybersecurity",
+            0.22222222222222224
+        ]
+    ],
+    "year": [
+        2011,
+        2013,
+        2023
+    ],
+    "monetary_dominance_yearly": [
+        0.7534930139720558,
+        null,
+        0.8319709355131699
+    ],
+    "fiscal_dominance_yearly": [
+        0.16766467065868262,
+        null,
+        0.08174386920980928
+    ],
+    "financial_dominance_yearly": [
+        0.07884231536926148,
+        null,
+        0.08628519527702092
+    ]
+}

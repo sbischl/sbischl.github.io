@@ -1,0 +1,126 @@
+{
+    "name": "Bank of Latvia",
+    "country": "LVA",
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "advanced": 1.0,
+    "cb_location": "Riga",
+    "cb_latitude": 56.9496,
+    "cb_longitude": 24.1052,
+    "number_of_speeches": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "number_of_speakers": 4,
+    "speakers": {
+        "Einars Repse": 4,
+        "Ilmars Rimsevics": 4,
+        "Ilm\u0101rs Rim\u0161\u0113vi\u010ds": 2,
+        "Zoja Razmusa": 1
+    },
+    "audiences": {
+        "central_bank": 0.5454545454545454,
+        "financial_market": 0.45454545454545453
+    },
+    "monetary_dominance": 0.861204128440367,
+    "fiscal_dominance_mean": 0.11354128440366971,
+    "financial_dominance_mean": 0.0252545871559633,
+    "top_topics": [
+        [
+            "monetary policy",
+            0.5454545454545454
+        ],
+        [
+            "inflation",
+            0.5454545454545454
+        ],
+        [
+            "economic growth",
+            0.36363636363636365
+        ],
+        [
+            "banking sector",
+            0.36363636363636365
+        ],
+        [
+            "maastricht criteria",
+            0.36363636363636365
+        ],
+        [
+            "latvia",
+            0.2727272727272727
+        ],
+        [
+            "fiscal policy",
+            0.2727272727272727
+        ],
+        [
+            "price stability",
+            0.18181818181818182
+        ],
+        [
+            "sdr basket",
+            0.18181818181818182
+        ],
+        [
+            "erm ii",
+            0.18181818181818182
+        ]
+    ],
+    "year": [
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2007,
+        2010,
+        2015,
+        2018
+    ],
+    "monetary_dominance_yearly": [
+        1.0,
+        1.0,
+        0.7333333333333333,
+        0.8,
+        0.8571428571428572,
+        1.0,
+        0.9285714285714286,
+        0.5454545454545454,
+        0.5789473684210527,
+        1.0
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        0.0,
+        0.0,
+        0.2,
+        0.14285714285714285,
+        0.0,
+        0.0,
+        0.4545454545454545,
+        0.4210526315789474,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.0,
+        0.0,
+        0.26666666666666666,
+        0.0,
+        0.0,
+        0.0,
+        0.07142857142857142,
+        0.0,
+        0.0,
+        0.0
+    ]
+}

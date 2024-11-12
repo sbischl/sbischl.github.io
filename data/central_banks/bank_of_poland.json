@@ -1,0 +1,90 @@
+{
+    "name": "Bank of Poland",
+    "country": "POL",
+    "currency": "Zloty",
+    "currency_code": "PLN",
+    "advanced": 0.0,
+    "cb_location": "Warsaw",
+    "cb_latitude": 52.2297,
+    "cb_longitude": 21.0122,
+    "number_of_speeches": [
+        1,
+        12,
+        7
+    ],
+    "number_of_speakers": 2,
+    "speakers": {
+        "Krzysztof Rybinski": 19,
+        "Leszek Balcerowicz": 1
+    },
+    "audiences": {
+        "academic": 0.45,
+        "financial_market": 0.35,
+        "political": 0.2
+    },
+    "monetary_dominance": 0.6124637071088767,
+    "fiscal_dominance_mean": 0.0415426881813009,
+    "financial_dominance_mean": 0.3459936047098225,
+    "top_topics": [
+        [
+            "financial markets",
+            0.35000000000000003
+        ],
+        [
+            "global imbalances",
+            0.25
+        ],
+        [
+            "monetary policy",
+            0.25
+        ],
+        [
+            "offshoring",
+            0.25
+        ],
+        [
+            "innovation",
+            0.2
+        ],
+        [
+            "outsourcing",
+            0.2
+        ],
+        [
+            "globalisation",
+            0.2
+        ],
+        [
+            "inflation",
+            0.2
+        ],
+        [
+            "globalization",
+            0.15
+        ],
+        [
+            "global labour market",
+            0.15
+        ]
+    ],
+    "year": [
+        2001,
+        2006,
+        2007
+    ],
+    "monetary_dominance_yearly": [
+        1.0,
+        0.5652707565510209,
+        0.5688868325306526
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        0.04747177229624396,
+        0.04504826599928496
+    ],
+    "financial_dominance_yearly": [
+        0.0,
+        0.38725747115273523,
+        0.38606490147006245
+    ]
+}

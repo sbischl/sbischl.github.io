@@ -1,0 +1,87 @@
+{
+    "name": "Cayman Islands Monetary Authority",
+    "country": "CYM",
+    "currency": "Cayman Dollar+",
+    "currency_code": "KYD",
+    "advanced": 0.0,
+    "cb_location": "George Town",
+    "cb_latitude": 19.2869,
+    "cb_longitude": -81.3674,
+    "number_of_speeches": [
+        1,
+        1,
+        1
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Timothy Ridley": 3
+    },
+    "audiences": {
+        "financial_market": 1.0
+    },
+    "monetary_dominance": 0.5,
+    "fiscal_dominance_mean": 0.5,
+    "financial_dominance_mean": 0.0,
+    "top_topics": [
+        [
+            "financial services",
+            1.0
+        ],
+        [
+            "regulation",
+            0.6666666666666666
+        ],
+        [
+            "cayman islands",
+            0.6666666666666666
+        ],
+        [
+            "anti-money laundering",
+            0.6666666666666666
+        ],
+        [
+            "monetary function",
+            0.3333333333333333
+        ],
+        [
+            "regulatory function",
+            0.3333333333333333
+        ],
+        [
+            "investment",
+            0.3333333333333333
+        ],
+        [
+            "currency",
+            0.3333333333333333
+        ],
+        [
+            "insurance",
+            0.3333333333333333
+        ],
+        [
+            "securities",
+            0.3333333333333333
+        ]
+    ],
+    "year": [
+        2005,
+        2006,
+        2007
+    ],
+    "monetary_dominance_yearly": [
+        1.0,
+        0.0,
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        1.0,
+        null
+    ],
+    "financial_dominance_yearly": [
+        0.0,
+        0.0,
+        null
+    ]
+}

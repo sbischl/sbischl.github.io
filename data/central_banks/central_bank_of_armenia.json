@@ -1,0 +1,77 @@
+{
+    "name": "Central Bank of Armenia",
+    "country": "ARM",
+    "currency": "Armenian Dram",
+    "currency_code": "AMD",
+    "advanced": 0.0,
+    "cb_location": "Yerevan",
+    "cb_latitude": 40.1792,
+    "cb_longitude": 44.4991,
+    "number_of_speeches": [
+        1
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Tigran Sargsyan": 1
+    },
+    "audiences": {
+        "financial_market": 1.0
+    },
+    "monetary_dominance": 0.5,
+    "fiscal_dominance_mean": 0.0,
+    "financial_dominance_mean": 0.5,
+    "top_topics": [
+        [
+            "development",
+            1.0
+        ],
+        [
+            "banking supervision",
+            1.0
+        ],
+        [
+            "banking system",
+            1.0
+        ],
+        [
+            "goals",
+            1.0
+        ],
+        [
+            "phases",
+            1.0
+        ],
+        [
+            "basle ii",
+            1.0
+        ],
+        [
+            "alternatives",
+            1.0
+        ],
+        [
+            "stabilization",
+            1.0
+        ],
+        [
+            "investment",
+            1.0
+        ],
+        [
+            "corruption",
+            1.0
+        ]
+    ],
+    "year": [
+        2006
+    ],
+    "monetary_dominance_yearly": [
+        0.5
+    ],
+    "fiscal_dominance_yearly": [
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.5
+    ]
+}

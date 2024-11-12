@@ -1,0 +1,77 @@
+{
+    "name": "Bank of Tanzania",
+    "country": "TZA",
+    "currency": "Tanzanian Shilling",
+    "currency_code": "TZS",
+    "advanced": 0.0,
+    "cb_location": "Dar es Salaam",
+    "cb_latitude": -6.7924,
+    "cb_longitude": 39.2083,
+    "number_of_speeches": [
+        1
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Benno Ndulu": 1
+    },
+    "audiences": {
+        "financial_market": 1.0
+    },
+    "monetary_dominance": null,
+    "fiscal_dominance_mean": null,
+    "financial_dominance_mean": null,
+    "top_topics": [
+        [
+            "financial inclusion",
+            1.0
+        ],
+        [
+            "tanzania",
+            1.0
+        ],
+        [
+            "mobile financial services",
+            1.0
+        ],
+        [
+            "financial literacy",
+            1.0
+        ],
+        [
+            "financial inclusion framework",
+            1.0
+        ],
+        [
+            "agriculture finance",
+            1.0
+        ],
+        [
+            "micro-finance",
+            1.0
+        ],
+        [
+            "national financial inclusion council",
+            1.0
+        ],
+        [
+            "financial consumer protection",
+            1.0
+        ],
+        [
+            "financial education",
+            1.0
+        ]
+    ],
+    "year": [
+        2013
+    ],
+    "monetary_dominance_yearly": [
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        null
+    ],
+    "financial_dominance_yearly": [
+        null
+    ]
+}

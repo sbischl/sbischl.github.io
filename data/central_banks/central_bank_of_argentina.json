@@ -1,0 +1,129 @@
+{
+    "name": "Central Bank of Argentina",
+    "country": "ARG",
+    "currency": "Argentine Peso",
+    "currency_code": "ARS",
+    "advanced": 0.0,
+    "cb_location": "Buenos Aires",
+    "cb_latitude": -34.6037,
+    "cb_longitude": -58.3816,
+    "number_of_speeches": [
+        2,
+        1,
+        2,
+        9,
+        10,
+        6,
+        1,
+        1,
+        1,
+        1
+    ],
+    "number_of_speakers": 5,
+    "speakers": {
+        "Mart\u00edn Redrado": 29,
+        "Miguel Angel Pesce": 2,
+        "Mart\u00edn P Redrado": 1,
+        "Mercedes Marco del Pont": 1,
+        "Guido Sandleris": 1
+    },
+    "audiences": {
+        "central_bank": 0.4117647058823529,
+        "academic": 0.3235294117647059,
+        "financial_market": 0.17647058823529413,
+        "political": 0.08823529411764706
+    },
+    "monetary_dominance": 0.6293084934705506,
+    "fiscal_dominance_mean": 0.0753638901821214,
+    "financial_dominance_mean": 0.29532761634732796,
+    "top_topics": [
+        [
+            "monetary policy",
+            0.8823529411764707
+        ],
+        [
+            "financial stability",
+            0.5
+        ],
+        [
+            "inflation",
+            0.4117647058823529
+        ],
+        [
+            "economic growth",
+            0.3823529411764706
+        ],
+        [
+            "fiscal policy",
+            0.2647058823529412
+        ],
+        [
+            "financial system",
+            0.23529411764705882
+        ],
+        [
+            "risk management",
+            0.23529411764705882
+        ],
+        [
+            "liquidity",
+            0.23529411764705882
+        ],
+        [
+            "exchange rate",
+            0.1764705882352941
+        ],
+        [
+            "emerging economies",
+            0.1764705882352941
+        ]
+    ],
+    "year": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2019,
+        2021,
+        2023
+    ],
+    "monetary_dominance_yearly": [
+        0.7575757575757576,
+        0.0,
+        0.7836639439906651,
+        0.7838520006144496,
+        0.49720245495847454,
+        0.4553788767591866,
+        0.5,
+        1.0,
+        null,
+        0.875
+    ],
+    "fiscal_dominance_yearly": [
+        0.1111111111111111,
+        0.0,
+        0.14025670945157523,
+        0.07972304431689634,
+        0.09061975560095863,
+        0.05950499498382783,
+        0.0,
+        0.0,
+        null,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.13131313131313133,
+        1.0,
+        0.07607934655775961,
+        0.13642495506865404,
+        0.4121777894405667,
+        0.48511612825698547,
+        0.5,
+        0.0,
+        null,
+        0.125
+    ]
+}

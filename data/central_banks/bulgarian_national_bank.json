@@ -1,0 +1,151 @@
+{
+    "name": "Bulgarian National Bank",
+    "country": "BGR",
+    "currency": "Bulgarian Lev",
+    "currency_code": "BGN",
+    "advanced": 0.0,
+    "cb_location": "Sofia",
+    "cb_latitude": 42.6977,
+    "cb_longitude": 23.3219,
+    "number_of_speeches": [
+        2,
+        2,
+        1,
+        1,
+        4,
+        2,
+        3,
+        4,
+        8,
+        7,
+        2,
+        5,
+        5,
+        1
+    ],
+    "number_of_speakers": 7,
+    "speakers": {
+        "Dimitar Radev": 24,
+        "Ivan Iskrov": 11,
+        "Nina Stoyanova": 8,
+        "Dimiter Kostov": 1,
+        "Radoslav Milenkov": 1,
+        "Kalin Hristov": 1,
+        "Petar Chobanov": 1
+    },
+    "audiences": {
+        "financial_market": 0.5319148936170213,
+        "central_bank": 0.19148936170212766,
+        "academic": 0.1702127659574468,
+        "political": 0.10638297872340426
+    },
+    "monetary_dominance": 0.774483686904974,
+    "fiscal_dominance_mean": 0.08271972534522821,
+    "financial_dominance_mean": 0.14279658774979784,
+    "top_topics": [
+        [
+            "financial stability",
+            0.2978723404255319
+        ],
+        [
+            "banking sector",
+            0.23404255319148937
+        ],
+        [
+            "monetary policy",
+            0.2127659574468085
+        ],
+        [
+            "economic growth",
+            0.1702127659574468
+        ],
+        [
+            "euro area",
+            0.1702127659574468
+        ],
+        [
+            "inflation",
+            0.14893617021276595
+        ],
+        [
+            "banking supervision",
+            0.14893617021276595
+        ],
+        [
+            "bulgarian national bank",
+            0.14893617021276595
+        ],
+        [
+            "currency board",
+            0.1276595744680851
+        ],
+        [
+            "banking system",
+            0.1276595744680851
+        ]
+    ],
+    "year": [
+        2006,
+        2009,
+        2010,
+        2011,
+        2012,
+        2014,
+        2016,
+        2017,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+    ],
+    "monetary_dominance_yearly": [
+        0.75,
+        1.0,
+        1.0,
+        0.8823529411764706,
+        0.6851851851851852,
+        0.6431372549019608,
+        1.0,
+        1.0,
+        0.7001052262364084,
+        0.6844262295081966,
+        null,
+        0.8069738480697385,
+        0.6333333333333333,
+        0.8
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.09722222222222222,
+        0.15294117647058825,
+        0.0,
+        0.0,
+        0.0,
+        0.13524590163934425,
+        null,
+        0.12204234122042343,
+        0.3666666666666667,
+        0.06666666666666668
+    ],
+    "financial_dominance_yearly": [
+        0.25,
+        0.0,
+        0.0,
+        0.1176470588235294,
+        0.21759259259259262,
+        0.203921568627451,
+        0.0,
+        0.0,
+        0.2998947737635917,
+        0.180327868852459,
+        null,
+        0.0709838107098381,
+        0.0,
+        0.13333333333333336
+    ]
+}

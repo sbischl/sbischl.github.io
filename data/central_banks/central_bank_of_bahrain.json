@@ -1,0 +1,122 @@
+{
+    "name": "Central Bank of Bahrain",
+    "country": "BHR",
+    "currency": "Bahraini Dinar",
+    "currency_code": "BHD",
+    "advanced": 0.0,
+    "cb_location": "Manama",
+    "cb_latitude": 26.2235,
+    "cb_longitude": 50.5875,
+    "number_of_speeches": [
+        1,
+        3,
+        10,
+        13,
+        8,
+        9,
+        4,
+        2,
+        1
+    ],
+    "number_of_speakers": 3,
+    "speakers": {
+        "Rasheed Mohammed Al Maraj": 49,
+        "Anwar Khalifa Al Sadah": 1,
+        "Anwar Al-Sadah": 1
+    },
+    "audiences": {
+        "financial_market": 0.7843137254901961,
+        "central_bank": 0.09803921568627451,
+        "academic": 0.09803921568627451,
+        "political": 0.0196078431372549
+    },
+    "monetary_dominance": 0.10972211163309181,
+    "fiscal_dominance_mean": 0.0,
+    "financial_dominance_mean": 0.8902778883669082,
+    "top_topics": [
+        [
+            "islamic finance",
+            0.43137254901960786
+        ],
+        [
+            "risk management",
+            0.3529411764705882
+        ],
+        [
+            "bahrain",
+            0.3333333333333333
+        ],
+        [
+            "corporate governance",
+            0.29411764705882354
+        ],
+        [
+            "regulation",
+            0.2549019607843137
+        ],
+        [
+            "financial crisis",
+            0.19607843137254902
+        ],
+        [
+            "islamic banking",
+            0.1764705882352941
+        ],
+        [
+            "liquidity",
+            0.1764705882352941
+        ],
+        [
+            "regulatory framework",
+            0.1764705882352941
+        ],
+        [
+            "takaful",
+            0.13725490196078433
+        ]
+    ],
+    "year": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2017
+    ],
+    "monetary_dominance_yearly": [
+        null,
+        null,
+        null,
+        0.3415061295971979,
+        0.0,
+        0.0,
+        0.12500000000000003,
+        null,
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        null,
+        null,
+        null,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        null,
+        null
+    ],
+    "financial_dominance_yearly": [
+        null,
+        null,
+        null,
+        0.6584938704028022,
+        1.0,
+        1.0,
+        0.875,
+        null,
+        null
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "name": "Federal Reserve Bank of Dallas",
+    "country": "USA",
+    "currency": "US Dollar",
+    "currency_code": "USD",
+    "advanced": 1.0,
+    "cb_location": "Dallas",
+    "cb_latitude": 32.7767,
+    "cb_longitude": -96.797,
+    "number_of_speeches": [
+        5,
+        3,
+        1,
+        9,
+        1
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Richard W Fisher": 19
+    },
+    "audiences": {
+        "financial_market": 0.7894736842105263,
+        "academic": 0.15789473684210525,
+        "political": 0.05263157894736842
+    },
+    "monetary_dominance": 0.5012475882304402,
+    "fiscal_dominance_mean": 0.21376431192188078,
+    "financial_dominance_mean": 0.28498809984767887,
+    "top_topics": [
+        [
+            "monetary policy",
+            0.8421052631578947
+        ],
+        [
+            "fiscal policy",
+            0.5789473684210527
+        ],
+        [
+            "inflation",
+            0.4736842105263158
+        ],
+        [
+            "job creation",
+            0.3684210526315789
+        ],
+        [
+            "federal reserve",
+            0.3684210526315789
+        ],
+        [
+            "texas economy",
+            0.3157894736842105
+        ],
+        [
+            "quantitative easing",
+            0.3157894736842105
+        ],
+        [
+            "economic growth",
+            0.3157894736842105
+        ],
+        [
+            "unemployment",
+            0.2631578947368421
+        ],
+        [
+            "financial stability",
+            0.21052631578947367
+        ]
+    ],
+    "year": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+    ],
+    "monetary_dominance_yearly": [
+        0.42588405265330453,
+        0.5279124035182193,
+        0.631578947368421,
+        0.40879033240659723,
+        1.0
+    ],
+    "fiscal_dominance_yearly": [
+        0.3015823510526074,
+        0.2976126368695028,
+        0.2105263157894737,
+        0.17230646536923605,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.2725335962940879,
+        0.17447495961227788,
+        0.15789473684210525,
+        0.4189032022241668,
+        0.0
+    ]
+}

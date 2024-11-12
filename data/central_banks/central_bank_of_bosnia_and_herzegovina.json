@@ -1,0 +1,118 @@
+{
+    "name": "Central Bank of Bosnia and Herzegovina",
+    "country": "BIH",
+    "currency": "Convertible Mark",
+    "currency_code": "BAM",
+    "advanced": 0.0,
+    "cb_location": "Sarajevo",
+    "cb_latitude": 43.8563,
+    "cb_longitude": 18.4131,
+    "number_of_speeches": [
+        2,
+        2,
+        1,
+        2,
+        2,
+        1,
+        2,
+        3
+    ],
+    "number_of_speakers": 4,
+    "speakers": {
+        "Senad Softi\u0107": 8,
+        "Peter Nicholl": 4,
+        "Kemal Kozaric": 2,
+        "Vladusic Ljubisa": 1
+    },
+    "audiences": {
+        "central_bank": 0.4666666666666667,
+        "academic": 0.26666666666666666,
+        "financial_market": 0.2,
+        "political": 0.06666666666666667
+    },
+    "monetary_dominance": 0.8376191337040769,
+    "fiscal_dominance_mean": 0.10644496641269174,
+    "financial_dominance_mean": 0.055935899883231374,
+    "top_topics": [
+        [
+            "monetary policy",
+            0.6
+        ],
+        [
+            "financial stability",
+            0.4666666666666667
+        ],
+        [
+            "banking sector",
+            0.4
+        ],
+        [
+            "currency board",
+            0.3333333333333333
+        ],
+        [
+            "european union",
+            0.3333333333333333
+        ],
+        [
+            "central bank",
+            0.26666666666666666
+        ],
+        [
+            "economic growth",
+            0.2
+        ],
+        [
+            "foreign investment",
+            0.13333333333333333
+        ],
+        [
+            "consolidation",
+            0.13333333333333333
+        ],
+        [
+            "foreign banks",
+            0.13333333333333333
+        ]
+    ],
+    "year": [
+        2001,
+        2003,
+        2004,
+        2007,
+        2017,
+        2018,
+        2019,
+        2020
+    ],
+    "monetary_dominance_yearly": [
+        0.8918918918918919,
+        0.962536023054755,
+        null,
+        0.42857142857142855,
+        1.0,
+        1.0,
+        0.6666666666666666,
+        0.68
+    ],
+    "fiscal_dominance_yearly": [
+        0.05405405405405406,
+        0.0,
+        null,
+        0.5714285714285714,
+        0.0,
+        0.0,
+        0.3333333333333333,
+        0.12
+    ],
+    "financial_dominance_yearly": [
+        0.05405405405405406,
+        0.037463976945244955,
+        null,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.2
+    ]
+}

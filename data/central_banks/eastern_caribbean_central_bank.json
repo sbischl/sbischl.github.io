@@ -1,0 +1,126 @@
+{
+    "name": "Eastern Caribbean Central Bank",
+    "country": null,
+    "currency": "East Caribbean Dollar",
+    "currency_code": "XCD",
+    "advanced": 0.0,
+    "cb_location": "Basseterre",
+    "cb_latitude": 17.3026,
+    "cb_longitude": -62.7177,
+    "number_of_speeches": [
+        1,
+        1,
+        4,
+        4,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1
+    ],
+    "number_of_speakers": 2,
+    "speakers": {
+        "K Dwight Venner": 15,
+        "Timothy N J Antoine": 3
+    },
+    "audiences": {
+        "central_bank": 0.4444444444444444,
+        "financial_market": 0.2777777777777778,
+        "academic": 0.16666666666666666,
+        "political": 0.1111111111111111
+    },
+    "monetary_dominance": 0.6430122139907519,
+    "fiscal_dominance_mean": 0.13983686343260227,
+    "financial_dominance_mean": 0.2171509225766459,
+    "top_topics": [
+        [
+            "financial stability",
+            0.3333333333333333
+        ],
+        [
+            "economic development",
+            0.3333333333333333
+        ],
+        [
+            "monetary policy",
+            0.22222222222222224
+        ],
+        [
+            "fiscal policy",
+            0.22222222222222224
+        ],
+        [
+            "debt management",
+            0.22222222222222224
+        ],
+        [
+            "economic union",
+            0.22222222222222224
+        ],
+        [
+            "tourism",
+            0.22222222222222224
+        ],
+        [
+            "economic integration",
+            0.16666666666666666
+        ],
+        [
+            "currency union",
+            0.16666666666666666
+        ],
+        [
+            "monetary stability",
+            0.16666666666666666
+        ]
+    ],
+    "year": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2011,
+        2013,
+        2015,
+        2018,
+        2019,
+        2023
+    ],
+    "monetary_dominance_yearly": [
+        null,
+        0.75,
+        0.5028248587570622,
+        0.7328244274809159,
+        null,
+        0.5,
+        null,
+        null,
+        1.0,
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        null,
+        0.25,
+        0.12429378531073447,
+        0.1984732824427481,
+        null,
+        0.0,
+        null,
+        null,
+        0.0,
+        null
+    ],
+    "financial_dominance_yearly": [
+        null,
+        0.0,
+        0.3728813559322034,
+        0.06870229007633587,
+        null,
+        0.5,
+        null,
+        null,
+        0.0,
+        null
+    ]
+}

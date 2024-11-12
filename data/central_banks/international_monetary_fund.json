@@ -1,0 +1,89 @@
+{
+    "name": "International Monetary Fund",
+    "country": null,
+    "currency": null,
+    "currency_code": null,
+    "advanced": null,
+    "cb_location": "Washington",
+    "cb_latitude": 38.9072,
+    "cb_longitude": -77.0369,
+    "number_of_speeches": [
+        1,
+        1,
+        1
+    ],
+    "number_of_speakers": 2,
+    "speakers": {
+        "M Camdessus": 2,
+        "Rodrigo de Rato": 1
+    },
+    "audiences": {
+        "central_bank": 0.6666666666666666,
+        "academic": 0.3333333333333333
+    },
+    "monetary_dominance": 0.4457142857142857,
+    "fiscal_dominance_mean": 0.0,
+    "financial_dominance_mean": 0.5542857142857142,
+    "top_topics": [
+        [
+            "capital flows",
+            1.0
+        ],
+        [
+            "imf",
+            0.6666666666666666
+        ],
+        [
+            "governance",
+            0.6666666666666666
+        ],
+        [
+            "macroeconomic imbalances",
+            0.3333333333333333
+        ],
+        [
+            "thai crisis",
+            0.3333333333333333
+        ],
+        [
+            "financial sector problems",
+            0.3333333333333333
+        ],
+        [
+            "foreign exchange reserves",
+            0.3333333333333333
+        ],
+        [
+            "exchange rate volatility",
+            0.3333333333333333
+        ],
+        [
+            "prudential supervision",
+            0.3333333333333333
+        ],
+        [
+            "transparency",
+            0.3333333333333333
+        ]
+    ],
+    "year": [
+        1997,
+        1998,
+        2005
+    ],
+    "monetary_dominance_yearly": [
+        0.43750000000000006,
+        0.5,
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        0.0,
+        null
+    ],
+    "financial_dominance_yearly": [
+        0.5625,
+        0.5,
+        null
+    ]
+}

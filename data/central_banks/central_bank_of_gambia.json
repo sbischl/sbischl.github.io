@@ -1,0 +1,77 @@
+{
+    "name": "Central Bank of Gambia",
+    "country": "GMB",
+    "currency": "Dalasi",
+    "currency_code": "GMD",
+    "advanced": 0.0,
+    "cb_location": "Banjul",
+    "cb_latitude": 13.4549,
+    "cb_longitude": -16.579,
+    "number_of_speeches": [
+        1
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Famara L Jatta": 1
+    },
+    "audiences": {
+        "central_bank": 1.0
+    },
+    "monetary_dominance": null,
+    "fiscal_dominance_mean": null,
+    "financial_dominance_mean": null,
+    "top_topics": [
+        [
+            "human resource management",
+            1.0
+        ],
+        [
+            "economic development",
+            1.0
+        ],
+        [
+            "employment creation",
+            1.0
+        ],
+        [
+            "poverty reduction",
+            1.0
+        ],
+        [
+            "macroeconomic policy",
+            1.0
+        ],
+        [
+            "human capital formation",
+            1.0
+        ],
+        [
+            "globalization",
+            1.0
+        ],
+        [
+            "training and development",
+            1.0
+        ],
+        [
+            "productivity",
+            1.0
+        ],
+        [
+            "labor market",
+            1.0
+        ]
+    ],
+    "year": [
+        2006
+    ],
+    "monetary_dominance_yearly": [
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        null
+    ],
+    "financial_dominance_yearly": [
+        null
+    ]
+}

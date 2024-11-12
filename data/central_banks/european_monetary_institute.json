@@ -1,0 +1,78 @@
+{
+    "name": "European Monetary Institute",
+    "country": null,
+    "currency": null,
+    "currency_code": null,
+    "advanced": null,
+    "cb_location": "Frankfurt",
+    "cb_latitude": 50.1109,
+    "cb_longitude": 8.6821,
+    "number_of_speeches": [
+        2
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Alexandre Lamfalussy": 2
+    },
+    "audiences": {
+        "central_bank": 0.5,
+        "academic": 0.5
+    },
+    "monetary_dominance": 0.6971090670170828,
+    "fiscal_dominance_mean": 0.24178712220762155,
+    "financial_dominance_mean": 0.06110381077529566,
+    "top_topics": [
+        [
+            "monetary policy",
+            1.0
+        ],
+        [
+            "inflation",
+            1.0
+        ],
+        [
+            "unemployment",
+            0.5
+        ],
+        [
+            "economic growth",
+            0.5
+        ],
+        [
+            "fiscal policy",
+            0.5
+        ],
+        [
+            "structural policies",
+            0.5
+        ],
+        [
+            "interest rates",
+            0.5
+        ],
+        [
+            "public debt",
+            0.5
+        ],
+        [
+            "central bank independence",
+            0.5
+        ],
+        [
+            "european monetary union",
+            0.5
+        ]
+    ],
+    "year": [
+        1997
+    ],
+    "monetary_dominance_yearly": [
+        0.6971090670170828
+    ],
+    "fiscal_dominance_yearly": [
+        0.24178712220762155
+    ],
+    "financial_dominance_yearly": [
+        0.06110381077529566
+    ]
+}

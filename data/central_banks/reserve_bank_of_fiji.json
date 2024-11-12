@@ -1,0 +1,165 @@
+{
+    "name": "Reserve Bank of Fiji",
+    "country": "FJI",
+    "currency": "Fiji Dollar",
+    "currency_code": "FJD",
+    "advanced": 0.0,
+    "cb_location": "Suva",
+    "cb_latitude": -18.1248,
+    "cb_longitude": 178.4501,
+    "number_of_speeches": [
+        1,
+        4,
+        6,
+        14,
+        14,
+        11,
+        15,
+        11,
+        11,
+        13,
+        5,
+        7,
+        6,
+        5,
+        4,
+        1,
+        5
+    ],
+    "number_of_speakers": 6,
+    "speakers": {
+        "Barry Whiteside": 51,
+        "Savenaca Narube": 38,
+        "Sada Reddy": 25,
+        "Ariff Ali": 10,
+        "Inia Naiyaga": 7,
+        "Esala Masitabua": 2
+    },
+    "audiences": {
+        "financial_market": 0.6992481203007519,
+        "central_bank": 0.18045112781954886,
+        "political": 0.07518796992481203,
+        "academic": 0.045112781954887216
+    },
+    "monetary_dominance": 0.5510633659336996,
+    "fiscal_dominance_mean": 0.08637336988262144,
+    "financial_dominance_mean": 0.36256326418367896,
+    "top_topics": [
+        [
+            "economic growth",
+            0.3458646616541353
+        ],
+        [
+            "financial inclusion",
+            0.3157894736842105
+        ],
+        [
+            "inflation",
+            0.2556390977443609
+        ],
+        [
+            "financial literacy",
+            0.21052631578947367
+        ],
+        [
+            "investment",
+            0.2030075187969925
+        ],
+        [
+            "foreign reserves",
+            0.2030075187969925
+        ],
+        [
+            "microfinance",
+            0.2030075187969925
+        ],
+        [
+            "monetary policy",
+            0.1804511278195489
+        ],
+        [
+            "tourism",
+            0.12781954887218044
+        ],
+        [
+            "exports",
+            0.12030075187969926
+        ]
+    ],
+    "year": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+    ],
+    "monetary_dominance_yearly": [
+        0.6666666666666667,
+        0.8717948717948717,
+        0.16,
+        0.5157314235980514,
+        0.41190340368891426,
+        0.49556051642338195,
+        0.3840467784642542,
+        1.0,
+        1.0,
+        0.76,
+        null,
+        null,
+        1.0,
+        1.0,
+        0.75,
+        null,
+        1.0
+    ],
+    "fiscal_dominance_yearly": [
+        0.33333333333333337,
+        0.1282051282051282,
+        0.0,
+        0.0,
+        0.06389047347404449,
+        0.10433799783122298,
+        0.21432774345395708,
+        0.0,
+        0.0,
+        0.24000000000000002,
+        null,
+        null,
+        0.0,
+        0.0,
+        0.25,
+        null,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.0,
+        0.0,
+        0.8400000000000001,
+        0.48426857640194865,
+        0.5242061228370413,
+        0.4001014857453951,
+        0.4016254780817887,
+        0.0,
+        0.0,
+        0.0,
+        null,
+        null,
+        0.0,
+        0.0,
+        0.0,
+        null,
+        0.0
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "name": "Federal Reserve Bank of Kansas City",
+    "country": "USA",
+    "currency": "US Dollar",
+    "currency_code": "USD",
+    "advanced": 1.0,
+    "cb_location": "Kansas City",
+    "cb_latitude": 39.0997,
+    "cb_longitude": -94.5786,
+    "number_of_speeches": [
+        1,
+        1,
+        8,
+        8
+    ],
+    "number_of_speakers": 2,
+    "speakers": {
+        "Thomas M Hoenig": 17,
+        "Donald L Kohn": 1
+    },
+    "audiences": {
+        "financial_market": 0.4444444444444444,
+        "academic": 0.2222222222222222,
+        "political": 0.2222222222222222,
+        "central_bank": 0.1111111111111111
+    },
+    "monetary_dominance": 0.3564960547256537,
+    "fiscal_dominance_mean": 0.09806276822914269,
+    "financial_dominance_mean": 0.5454411770452037,
+    "top_topics": [
+        [
+            "monetary policy",
+            0.6666666666666666
+        ],
+        [
+            "financial stability",
+            0.3333333333333333
+        ],
+        [
+            "financial crisis",
+            0.3333333333333333
+        ],
+        [
+            "inflation",
+            0.3333333333333333
+        ],
+        [
+            "interest rates",
+            0.2777777777777778
+        ],
+        [
+            "risk",
+            0.22222222222222224
+        ],
+        [
+            "unemployment",
+            0.22222222222222224
+        ],
+        [
+            "economic recovery",
+            0.22222222222222224
+        ],
+        [
+            "fiscal policy",
+            0.22222222222222224
+        ],
+        [
+            "financial markets",
+            0.16666666666666666
+        ]
+    ],
+    "year": [
+        2005,
+        2008,
+        2010,
+        2011
+    ],
+    "monetary_dominance_yearly": [
+        0.42857142857142855,
+        0.09836065573770493,
+        0.3947822317440701,
+        0.3382550323088473
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        0.0,
+        0.111525119938231,
+        0.10185064701897903
+    ],
+    "financial_dominance_yearly": [
+        0.5714285714285714,
+        0.9016393442622951,
+        0.4936926483176988,
+        0.5598943206721736
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "name": "Croatian National Bank",
+    "country": "HRV",
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "advanced": 0.0,
+    "cb_location": "Zagreb",
+    "cb_latitude": 45.815,
+    "cb_longitude": 15.9819,
+    "number_of_speeches": [
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        4,
+        1
+    ],
+    "number_of_speakers": 4,
+    "speakers": {
+        "Boris Vuj\u010di\u0107": 8,
+        "Zeljko Rohatinski": 3,
+        "Marko Skreb": 1,
+        "Sandra \u0160valjek": 1
+    },
+    "audiences": {
+        "academic": 0.38461538461538464,
+        "financial_market": 0.23076923076923078,
+        "political": 0.23076923076923078,
+        "central_bank": 0.15384615384615385
+    },
+    "monetary_dominance": 0.581088814911423,
+    "fiscal_dominance_mean": 0.13291740601872917,
+    "financial_dominance_mean": 0.28599377906984785,
+    "top_topics": [
+        [
+            "monetary policy",
+            0.6153846153846154
+        ],
+        [
+            "financial stability",
+            0.5384615384615385
+        ],
+        [
+            "inflation",
+            0.46153846153846156
+        ],
+        [
+            "human capital",
+            0.23076923076923078
+        ],
+        [
+            "economic growth",
+            0.23076923076923078
+        ],
+        [
+            "interest rates",
+            0.23076923076923078
+        ],
+        [
+            "structural reforms",
+            0.23076923076923078
+        ],
+        [
+            "current account deficit",
+            0.15384615384615385
+        ],
+        [
+            "debt",
+            0.15384615384615385
+        ],
+        [
+            "fiscal policy",
+            0.15384615384615385
+        ]
+    ],
+    "year": [
+        2000,
+        2009,
+        2012,
+        2016,
+        2017,
+        2018,
+        2023,
+        2024
+    ],
+    "monetary_dominance_yearly": [
+        0.6774193548387096,
+        0.39999999999999997,
+        1.0,
+        0.36514522821576767,
+        1.0,
+        null,
+        0.6897142857142857,
+        1.0
+    ],
+    "fiscal_dominance_yearly": [
+        0.16129032258064516,
+        0.25,
+        0.0,
+        0.1784232365145228,
+        0.0,
+        null,
+        0.030857142857142854,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.16129032258064516,
+        0.35000000000000003,
+        0.0,
+        0.45643153526970953,
+        0.0,
+        null,
+        0.2794285714285714,
+        0.0
+    ]
+}

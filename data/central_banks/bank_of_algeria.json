@@ -1,0 +1,101 @@
+{
+    "name": "Bank of Algeria",
+    "country": "DZA",
+    "currency": "Algerian Dinar",
+    "currency_code": "DZD",
+    "advanced": 0.0,
+    "cb_location": "Algiers",
+    "cb_latitude": 36.7538,
+    "cb_longitude": 3.0588,
+    "number_of_speeches": [
+        2,
+        1,
+        1,
+        1,
+        2
+    ],
+    "number_of_speakers": 4,
+    "speakers": {
+        "Mohammed Laksaci": 4,
+        "Rosthom Fadli": 1,
+        "Mouatassem Boudiaf": 1,
+        "Salah-Eddine Taleb": 1
+    },
+    "audiences": {
+        "central_bank": 0.5714285714285714,
+        "financial_market": 0.42857142857142855
+    },
+    "monetary_dominance": 0.40266168059832813,
+    "fiscal_dominance_mean": 0.28673559172899254,
+    "financial_dominance_mean": 0.31060272767267927,
+    "top_topics": [
+        [
+            "monetary policy",
+            0.5714285714285714
+        ],
+        [
+            "financial stability",
+            0.4285714285714286
+        ],
+        [
+            "climate change",
+            0.4285714285714286
+        ],
+        [
+            "economic growth",
+            0.2857142857142857
+        ],
+        [
+            "banking sector",
+            0.2857142857142857
+        ],
+        [
+            "banking supervision",
+            0.2857142857142857
+        ],
+        [
+            "credit risk",
+            0.2857142857142857
+        ],
+        [
+            "covid-19",
+            0.2857142857142857
+        ],
+        [
+            "inflation",
+            0.2857142857142857
+        ],
+        [
+            "investment",
+            0.14285714285714285
+        ]
+    ],
+    "year": [
+        2009,
+        2015,
+        2016,
+        2021,
+        2022
+    ],
+    "monetary_dominance_yearly": [
+        0.5,
+        0.18181818181818182,
+        0.33333333333333337,
+        null,
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        0.2142857142857143,
+        0.4545454545454546,
+        0.33333333333333337,
+        null,
+        null
+    ],
+    "financial_dominance_yearly": [
+        0.28571428571428575,
+        0.36363636363636365,
+        0.33333333333333337,
+        null,
+        null
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Central Bank of Bolivia",
+    "country": "BOL",
+    "currency": "Boliviano",
+    "currency_code": "BOB",
+    "advanced": 0.0,
+    "cb_location": "La Paz",
+    "cb_latitude": -16.5,
+    "cb_longitude": -68.15,
+    "number_of_speeches": [
+        1
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Gabriel Loza Telleria": 1
+    },
+    "audiences": {
+        "central_bank": 1.0
+    },
+    "monetary_dominance": 0.2857142857142857,
+    "fiscal_dominance_mean": 0.07142857142857142,
+    "financial_dominance_mean": 0.6428571428571429,
+    "top_topics": [
+        [
+            "macroprudential regulation",
+            1.0
+        ],
+        [
+            "financial stability",
+            1.0
+        ],
+        [
+            "monetary policy",
+            1.0
+        ],
+        [
+            "central bank",
+            1.0
+        ],
+        [
+            "stress tests",
+            1.0
+        ],
+        [
+            "capital adequacy",
+            1.0
+        ],
+        [
+            "basel iii",
+            1.0
+        ],
+        [
+            "prudential regulation",
+            1.0
+        ],
+        [
+            "financial crisis",
+            1.0
+        ],
+        [
+            "macroeconomic policy",
+            1.0
+        ]
+    ],
+    "year": [
+        2010
+    ],
+    "monetary_dominance_yearly": [
+        0.2857142857142857
+    ],
+    "fiscal_dominance_yearly": [
+        0.07142857142857142
+    ],
+    "financial_dominance_yearly": [
+        0.6428571428571429
+    ]
+}

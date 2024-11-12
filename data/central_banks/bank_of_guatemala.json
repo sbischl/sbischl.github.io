@@ -1,0 +1,77 @@
+{
+    "name": "Bank of Guatemala",
+    "country": "GTM",
+    "currency": "Quetzal",
+    "currency_code": "GTQ",
+    "advanced": 0.0,
+    "cb_location": "Guatemala City",
+    "cb_latitude": 14.6349,
+    "cb_longitude": -90.5069,
+    "number_of_speeches": [
+        1
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Edgar Barqu\u00edn": 1
+    },
+    "audiences": {
+        "financial_market": 1.0
+    },
+    "monetary_dominance": 1.0,
+    "fiscal_dominance_mean": 0.0,
+    "financial_dominance_mean": 0.0,
+    "top_topics": [
+        [
+            "global economic prospects",
+            1.0
+        ],
+        [
+            "inflation",
+            1.0
+        ],
+        [
+            "fiscal sustainability",
+            1.0
+        ],
+        [
+            "monetary policy",
+            1.0
+        ],
+        [
+            "economic growth",
+            1.0
+        ],
+        [
+            "international context",
+            1.0
+        ],
+        [
+            "foreign direct investment",
+            1.0
+        ],
+        [
+            "fiscal deficit",
+            1.0
+        ],
+        [
+            "fiscal revenues",
+            1.0
+        ],
+        [
+            "economic stability",
+            1.0
+        ]
+    ],
+    "year": [
+        2012
+    ],
+    "monetary_dominance_yearly": [
+        1.0
+    ],
+    "fiscal_dominance_yearly": [
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.0
+    ]
+}

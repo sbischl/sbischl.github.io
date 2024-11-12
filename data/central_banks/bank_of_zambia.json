@@ -1,0 +1,158 @@
+{
+    "name": "Bank of Zambia",
+    "country": "ZMB",
+    "currency": "Zambian Kwacha",
+    "currency_code": "ZMW",
+    "advanced": 0.0,
+    "cb_location": "Lusaka",
+    "cb_latitude": -15.3875,
+    "cb_longitude": 28.3228,
+    "number_of_speeches": [
+        2,
+        6,
+        7,
+        15,
+        15,
+        23,
+        24,
+        23,
+        16,
+        9,
+        8,
+        3,
+        4,
+        1,
+        1
+    ],
+    "number_of_speakers": 9,
+    "speakers": {
+        "Caleb M Fundanga": 113,
+        "Michael Gondwe": 14,
+        "Kenny H Kalyalya": 8,
+        "Bwalya K E Ng'andu": 8,
+        "Tukiya Kankasa-Mabula": 7,
+        "Denny H Kalyalya": 4,
+        "Jens Thomsen": 1,
+        "Austin Mwape": 1,
+        "Rekha Chifuwe Mhango": 1
+    },
+    "audiences": {
+        "financial_market": 0.5923566878980892,
+        "central_bank": 0.22929936305732485,
+        "academic": 0.12738853503184713,
+        "political": 0.050955414012738856
+    },
+    "monetary_dominance": 0.7475522407187911,
+    "fiscal_dominance_mean": 0.10099834894707045,
+    "financial_dominance_mean": 0.1514494103341385,
+    "top_topics": [
+        [
+            "economic growth",
+            0.3630573248407643
+        ],
+        [
+            "financial inclusion",
+            0.3248407643312102
+        ],
+        [
+            "financial sector",
+            0.2356687898089172
+        ],
+        [
+            "inflation",
+            0.22292993630573246
+        ],
+        [
+            "monetary policy",
+            0.2165605095541401
+        ],
+        [
+            "financial services",
+            0.21019108280254775
+        ],
+        [
+            "economic development",
+            0.12738853503184713
+        ],
+        [
+            "zambia",
+            0.11464968152866241
+        ],
+        [
+            "interest rates",
+            0.11464968152866241
+        ],
+        [
+            "financial stability",
+            0.10828025477707005
+        ]
+    ],
+    "year": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2019,
+        2021,
+        2023
+    ],
+    "monetary_dominance_yearly": [
+        0.0,
+        0.8137019230769231,
+        0.8741434550833709,
+        0.9072380974014175,
+        0.9097828226494323,
+        0.9529814062833938,
+        0.68162785223398,
+        0.7019756836231367,
+        0.4751281820635063,
+        0.4976816074188562,
+        null,
+        1.0,
+        null,
+        null,
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        0.171875,
+        0.02920364841097796,
+        0.07308513538070142,
+        0.06495636769240863,
+        0.0,
+        0.0813374053153013,
+        0.23755892999494949,
+        0.1521093820275254,
+        0.0,
+        null,
+        0.0,
+        null,
+        null,
+        null
+    ],
+    "financial_dominance_yearly": [
+        1.0,
+        0.014423076923076924,
+        0.09665289650565123,
+        0.019676767217881155,
+        0.02526080965815891,
+        0.0470185937166061,
+        0.2370347424507187,
+        0.060465386381913885,
+        0.37276243590896824,
+        0.5023183925811436,
+        null,
+        0.0,
+        null,
+        null,
+        null
+    ]
+}

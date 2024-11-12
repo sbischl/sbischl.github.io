@@ -1,0 +1,113 @@
+{
+    "name": "Bank of Lithuania",
+    "country": "LTU",
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "advanced": 1.0,
+    "cb_location": "Vilnius",
+    "cb_latitude": 54.6872,
+    "cb_longitude": 25.2797,
+    "number_of_speeches": [
+        1,
+        4,
+        4,
+        7,
+        4,
+        6,
+        4
+    ],
+    "number_of_speakers": 4,
+    "speakers": {
+        "Vitas Vasiliauskas": 22,
+        "Gediminas Simkus": 6,
+        "Marius Jurgilas": 1,
+        "Gent Sejko": 1
+    },
+    "audiences": {
+        "central_bank": 0.36666666666666664,
+        "academic": 0.3333333333333333,
+        "financial_market": 0.23333333333333334,
+        "political": 0.06666666666666667
+    },
+    "monetary_dominance": 0.4919658940427758,
+    "fiscal_dominance_mean": 0.0,
+    "financial_dominance_mean": 0.5080341059572243,
+    "top_topics": [
+        [
+            "financial stability",
+            0.3
+        ],
+        [
+            "monetary policy",
+            0.26666666666666666
+        ],
+        [
+            "economic growth",
+            0.23333333333333334
+        ],
+        [
+            "macroprudential policy",
+            0.23333333333333334
+        ],
+        [
+            "fintech",
+            0.16666666666666666
+        ],
+        [
+            "financial inclusion",
+            0.16666666666666666
+        ],
+        [
+            "innovation",
+            0.13333333333333333
+        ],
+        [
+            "lithuania",
+            0.13333333333333333
+        ],
+        [
+            "risk management",
+            0.13333333333333333
+        ],
+        [
+            "competition",
+            0.1
+        ]
+    ],
+    "year": [
+        2015,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+    ],
+    "monetary_dominance_yearly": [
+        null,
+        0.0,
+        0.0,
+        0.3991801678703884,
+        0.43133306484091827,
+        0.38666666666666666,
+        1.0
+    ],
+    "fiscal_dominance_yearly": [
+        null,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        null,
+        1.0,
+        1.0,
+        0.6008198321296117,
+        0.5686669351590817,
+        0.6133333333333333,
+        0.0
+    ]
+}

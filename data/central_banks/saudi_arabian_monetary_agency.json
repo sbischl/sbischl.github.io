@@ -1,0 +1,118 @@
+{
+    "name": "Saudi Arabian Monetary Agency",
+    "country": "SAU",
+    "currency": "Saudi Riyal",
+    "currency_code": "SAR",
+    "advanced": 0.0,
+    "cb_location": "Riyadh",
+    "cb_latitude": 24.7136,
+    "cb_longitude": 46.6753,
+    "number_of_speeches": [
+        5,
+        6,
+        1,
+        5,
+        5,
+        2,
+        1,
+        3
+    ],
+    "number_of_speakers": 4,
+    "speakers": {
+        "Hamad Al-Sayari": 12,
+        "Muhammad Al-Jasser": 8,
+        "Fahad Almubarak": 5,
+        "Abdulrahman A Al-Hamidy": 3
+    },
+    "audiences": {
+        "financial_market": 0.5,
+        "political": 0.25,
+        "academic": 0.14285714285714285,
+        "central_bank": 0.10714285714285714
+    },
+    "monetary_dominance": 0.5234417096219713,
+    "fiscal_dominance_mean": 0.38181314049616094,
+    "financial_dominance_mean": 0.09474514988186762,
+    "top_topics": [
+        [
+            "economic growth",
+            0.39285714285714285
+        ],
+        [
+            "risk management",
+            0.2857142857142857
+        ],
+        [
+            "banking sector",
+            0.25
+        ],
+        [
+            "private sector",
+            0.25
+        ],
+        [
+            "financial stability",
+            0.25
+        ],
+        [
+            "economic development",
+            0.2142857142857143
+        ],
+        [
+            "saudi economy",
+            0.2142857142857143
+        ],
+        [
+            "banking supervision",
+            0.17857142857142855
+        ],
+        [
+            "investment",
+            0.17857142857142855
+        ],
+        [
+            "monetary policy",
+            0.17857142857142855
+        ]
+    ],
+    "year": [
+        2006,
+        2007,
+        2008,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+    ],
+    "monetary_dominance_yearly": [
+        1.0,
+        0.8787878787878788,
+        0.42857142857142855,
+        0.0,
+        0.3024793388429752,
+        null,
+        null,
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        0.0,
+        0.5714285714285714,
+        1.0,
+        0.43966942148760324,
+        null,
+        null,
+        null
+    ],
+    "financial_dominance_yearly": [
+        0.0,
+        0.12121212121212119,
+        0.0,
+        0.0,
+        0.2578512396694215,
+        null,
+        null,
+        null
+    ]
+}

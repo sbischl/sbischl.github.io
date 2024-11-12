@@ -1,0 +1,117 @@
+{
+    "name": "Bank of the Netherlands Antilles",
+    "country": "ANT",
+    "currency": "Netherlands Antillean Guilder",
+    "currency_code": "ANG\u00a0",
+    "advanced": 0.0,
+    "cb_location": "Willemstad",
+    "cb_latitude": 12.1091,
+    "cb_longitude": -68.93,
+    "number_of_speeches": [
+        1,
+        1,
+        1,
+        1,
+        5,
+        5,
+        3,
+        3
+    ],
+    "number_of_speakers": 3,
+    "speakers": {
+        "Emsley Tromp": 18,
+        "Alberto Romero": 1,
+        "A G Romero": 1
+    },
+    "audiences": {
+        "financial_market": 0.65,
+        "central_bank": 0.15,
+        "academic": 0.15,
+        "political": 0.05
+    },
+    "monetary_dominance": 0.5918079526633896,
+    "fiscal_dominance_mean": 0.390039633200207,
+    "financial_dominance_mean": 0.018152414136403405,
+    "top_topics": [
+        [
+            "economic growth",
+            0.55
+        ],
+        [
+            "tourism",
+            0.44999999999999996
+        ],
+        [
+            "debt relief",
+            0.25
+        ],
+        [
+            "economic development",
+            0.2
+        ],
+        [
+            "investment climate",
+            0.2
+        ],
+        [
+            "labor market",
+            0.2
+        ],
+        [
+            "capital market",
+            0.2
+        ],
+        [
+            "financial supervision",
+            0.15
+        ],
+        [
+            "globalization",
+            0.15
+        ],
+        [
+            "investment",
+            0.15
+        ]
+    ],
+    "year": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2007,
+        2008,
+        2009,
+        2010
+    ],
+    "monetary_dominance_yearly": [
+        0.1818181818181818,
+        0.5,
+        null,
+        0.5,
+        0.45539906103286387,
+        0.5769230769230769,
+        0.8561736770691994,
+        0.8333333333333333
+    ],
+    "fiscal_dominance_yearly": [
+        0.8181818181818182,
+        0.5,
+        null,
+        0.5,
+        0.5446009389671362,
+        0.42307692307692313,
+        0.14382632293080058,
+        0.027777777777777773
+    ],
+    "financial_dominance_yearly": [
+        0.0,
+        0.0,
+        null,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.13888888888888887
+    ]
+}

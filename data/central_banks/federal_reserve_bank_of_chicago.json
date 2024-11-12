@@ -1,0 +1,89 @@
+{
+    "name": "Federal Reserve Bank of Chicago",
+    "country": "USA",
+    "currency": "US Dollar",
+    "currency_code": "USD",
+    "advanced": 1.0,
+    "cb_location": "Chicago",
+    "cb_latitude": 41.8781,
+    "cb_longitude": -87.6298,
+    "number_of_speeches": [
+        3,
+        2,
+        5
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Charles L Evans": 10
+    },
+    "audiences": {
+        "financial_market": 0.5,
+        "academic": 0.4,
+        "central_bank": 0.1
+    },
+    "monetary_dominance": 0.8769246603463459,
+    "fiscal_dominance_mean": 0.019651023901631662,
+    "financial_dominance_mean": 0.1034243157520225,
+    "top_topics": [
+        [
+            "inflation",
+            0.8999999999999999
+        ],
+        [
+            "monetary policy",
+            0.8999999999999999
+        ],
+        [
+            "unemployment",
+            0.6
+        ],
+        [
+            "liquidity trap",
+            0.3
+        ],
+        [
+            "dual mandate",
+            0.3
+        ],
+        [
+            "economic growth",
+            0.3
+        ],
+        [
+            "federal reserve",
+            0.3
+        ],
+        [
+            "risk management",
+            0.2
+        ],
+        [
+            "state-contingent policy",
+            0.2
+        ],
+        [
+            "taylor rule",
+            0.2
+        ]
+    ],
+    "year": [
+        2011,
+        2012,
+        2014
+    ],
+    "monetary_dominance_yearly": [
+        0.9110452839042703,
+        0.9767614338689741,
+        0.8156843654282943
+    ],
+    "fiscal_dominance_yearly": [
+        0.005675152510558424,
+        0.0,
+        0.0358074999962086
+    ],
+    "financial_dominance_yearly": [
+        0.08327956358517129,
+        0.02323856613102596,
+        0.1485081345754971
+    ]
+}

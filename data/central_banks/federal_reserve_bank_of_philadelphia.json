@@ -1,0 +1,94 @@
+{
+    "name": "Federal Reserve Bank of Philadelphia",
+    "country": "USA",
+    "currency": "US Dollar",
+    "currency_code": "USD",
+    "advanced": 1.0,
+    "cb_location": "Philadelphia",
+    "cb_latitude": 39.9526,
+    "cb_longitude": -75.1652,
+    "number_of_speeches": [
+        6,
+        6,
+        18,
+        2
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Charles I Plosser": 32
+    },
+    "audiences": {
+        "academic": 0.53125,
+        "financial_market": 0.40625,
+        "political": 0.0625
+    },
+    "monetary_dominance": 0.83463958515558,
+    "fiscal_dominance_mean": 0.05693760849611803,
+    "financial_dominance_mean": 0.10842280634830198,
+    "top_topics": [
+        [
+            "monetary policy",
+            0.84375
+        ],
+        [
+            "inflation",
+            0.625
+        ],
+        [
+            "transparency",
+            0.375
+        ],
+        [
+            "forward guidance",
+            0.375
+        ],
+        [
+            "communication",
+            0.3125
+        ],
+        [
+            "economic growth",
+            0.3125
+        ],
+        [
+            "reaction function",
+            0.25
+        ],
+        [
+            "labor market",
+            0.25
+        ],
+        [
+            "fiscal policy",
+            0.21875
+        ],
+        [
+            "price stability",
+            0.21875
+        ]
+    ],
+    "year": [
+        2011,
+        2012,
+        2014,
+        2015
+    ],
+    "monetary_dominance_yearly": [
+        0.7855365580148842,
+        0.7400372952348165,
+        0.8787847323769791,
+        0.9110586383313657
+    ],
+    "fiscal_dominance_yearly": [
+        0.11477947940863888,
+        0.14654158418682045,
+        0.00395022633288545,
+        0.04171585989767808
+    ],
+    "financial_dominance_yearly": [
+        0.099683962576477,
+        0.11342112057836301,
+        0.11726504129013551,
+        0.047225501770956316
+    ]
+}

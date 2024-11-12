@@ -1,0 +1,107 @@
+{
+    "name": "Central Bank of the Republic of Kosovo",
+    "country": "KSV",
+    "currency": null,
+    "currency_code": null,
+    "advanced": 0.0,
+    "cb_location": "Pristina",
+    "cb_latitude": 42.6629,
+    "cb_longitude": 21.1655,
+    "number_of_speeches": [
+        3,
+        8,
+        4,
+        4,
+        7,
+        9
+    ],
+    "number_of_speakers": 4,
+    "speakers": {
+        "Fehmi Mehmeti": 24,
+        "Ahmet Ismaili": 6,
+        "Fehmi  Mehmeti": 3,
+        "Bashkim Nurboja": 2
+    },
+    "audiences": {
+        "central_bank": 0.5428571428571428,
+        "financial_market": 0.42857142857142855,
+        "academic": 0.02857142857142857
+    },
+    "monetary_dominance": 0.2272612608976429,
+    "fiscal_dominance_mean": 0.0,
+    "financial_dominance_mean": 0.7727387391023571,
+    "top_topics": [
+        [
+            "financial stability",
+            0.6857142857142857
+        ],
+        [
+            "banking sector",
+            0.45714285714285713
+        ],
+        [
+            "financial system",
+            0.2857142857142857
+        ],
+        [
+            "economic growth",
+            0.2571428571428571
+        ],
+        [
+            "financial education",
+            0.22857142857142856
+        ],
+        [
+            "economic development",
+            0.22857142857142856
+        ],
+        [
+            "financial intermediation",
+            0.2
+        ],
+        [
+            "inflation",
+            0.17142857142857143
+        ],
+        [
+            "financial institutions",
+            0.17142857142857143
+        ],
+        [
+            "financial inclusion",
+            0.17142857142857143
+        ]
+    ],
+    "year": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+    ],
+    "monetary_dominance_yearly": [
+        null,
+        0.7777777777777778,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "fiscal_dominance_yearly": [
+        null,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        null,
+        0.22222222222222218,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ]
+}

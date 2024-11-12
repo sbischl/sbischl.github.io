@@ -1,0 +1,96 @@
+{
+    "name": "Central Bank of Samoa",
+    "country": "WSM",
+    "currency": "Tala",
+    "currency_code": "WST",
+    "advanced": 0.0,
+    "cb_location": "Apia",
+    "cb_latitude": -13.8507,
+    "cb_longitude": -171.7512,
+    "number_of_speeches": [
+        1,
+        1,
+        2,
+        2
+    ],
+    "number_of_speakers": 3,
+    "speakers": {
+        "Leasi Papali\u2019i Tommy Scanlan": 3,
+        "Maiava Atalina Ainuu Enari": 2,
+        "Philip H Penn": 1
+    },
+    "audiences": {
+        "central_bank": 0.5,
+        "financial_market": 0.3333333333333333,
+        "academic": 0.16666666666666666
+    },
+    "monetary_dominance": 0.23931623931623933,
+    "fiscal_dominance_mean": 0.1794871794871795,
+    "financial_dominance_mean": 0.5811965811965812,
+    "top_topics": [
+        [
+            "financial inclusion",
+            0.5
+        ],
+        [
+            "financial literacy",
+            0.5
+        ],
+        [
+            "financial stability",
+            0.3333333333333333
+        ],
+        [
+            "capacity building",
+            0.3333333333333333
+        ],
+        [
+            "central bank",
+            0.3333333333333333
+        ],
+        [
+            "economic development",
+            0.3333333333333333
+        ],
+        [
+            "northern rock",
+            0.16666666666666666
+        ],
+        [
+            "basel ii",
+            0.16666666666666666
+        ],
+        [
+            "securitization",
+            0.16666666666666666
+        ],
+        [
+            "financial supervision",
+            0.16666666666666666
+        ]
+    ],
+    "year": [
+        2007,
+        2009,
+        2010,
+        2014
+    ],
+    "monetary_dominance_yearly": [
+        0.0,
+        null,
+        0.4444444444444444,
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        null,
+        0.3333333333333333,
+        null
+    ],
+    "financial_dominance_yearly": [
+        1.0,
+        null,
+        0.2222222222222222,
+        null
+    ]
+}

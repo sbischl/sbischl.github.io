@@ -1,0 +1,143 @@
+{
+    "name": "Central Bank of Nigeria",
+    "country": "NGA",
+    "currency": "Naira",
+    "currency_code": "NGN",
+    "advanced": 0.0,
+    "cb_location": "Abuja",
+    "cb_latitude": 9.0579,
+    "cb_longitude": 7.4951,
+    "number_of_speeches": [
+        8,
+        1,
+        1,
+        1,
+        2,
+        2,
+        4,
+        1,
+        5,
+        3,
+        1,
+        2,
+        2
+    ],
+    "number_of_speakers": 5,
+    "speakers": {
+        "Sanusi Lamido Sanusi": 15,
+        "Joseph O Sanusi": 8,
+        "Charles Soludo": 5,
+        "Godwein I Emefiele": 4,
+        "Sarah Alade": 1
+    },
+    "audiences": {
+        "financial_market": 0.42424242424242425,
+        "academic": 0.3333333333333333,
+        "central_bank": 0.24242424242424243
+    },
+    "monetary_dominance": 0.4608099196346248,
+    "fiscal_dominance_mean": 0.32235468206924733,
+    "financial_dominance_mean": 0.21683539829612777,
+    "top_topics": [
+        [
+            "monetary policy",
+            0.30303030303030304
+        ],
+        [
+            "financial stability",
+            0.2727272727272727
+        ],
+        [
+            "financial inclusion",
+            0.2727272727272727
+        ],
+        [
+            "economic development",
+            0.24242424242424243
+        ],
+        [
+            "corporate governance",
+            0.24242424242424243
+        ],
+        [
+            "risk management",
+            0.24242424242424243
+        ],
+        [
+            "economic growth",
+            0.18181818181818182
+        ],
+        [
+            "inflation",
+            0.15151515151515152
+        ],
+        [
+            "fiscal policy",
+            0.12121212121212122
+        ],
+        [
+            "nigeria",
+            0.09090909090909091
+        ]
+    ],
+    "year": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2018,
+        2021
+    ],
+    "monetary_dominance_yearly": [
+        0.3249431678124401,
+        0.25,
+        null,
+        0.5714285714285714,
+        0.888888888888889,
+        0.12662521198417184,
+        0.22167881319439395,
+        0.5714285714285714,
+        0.5066666666666667,
+        null,
+        1.0,
+        0.6816187225743541,
+        0.6666666666666666
+    ],
+    "fiscal_dominance_yearly": [
+        0.5764564103968667,
+        0.5,
+        null,
+        0.42857142857142855,
+        0.08641975308641975,
+        0.03109101187111362,
+        0.2396532517948623,
+        0.0,
+        0.41333333333333333,
+        null,
+        0.0,
+        0.0,
+        0.3333333333333333
+    ],
+    "financial_dominance_yearly": [
+        0.09860042179069321,
+        0.25,
+        null,
+        0.0,
+        0.024691358024691357,
+        0.8422837761447144,
+        0.5386679350107436,
+        0.42857142857142855,
+        0.08,
+        null,
+        0.0,
+        0.31838127742564604,
+        0.0
+    ]
+}

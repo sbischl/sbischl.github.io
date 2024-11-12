@@ -1,0 +1,83 @@
+{
+    "name": "Federal Reserve Bank of Boston",
+    "country": "USA",
+    "currency": "US Dollar",
+    "currency_code": "USD",
+    "advanced": 1.0,
+    "cb_location": "Boston",
+    "cb_latitude": 42.3601,
+    "cb_longitude": -71.0589,
+    "number_of_speeches": [
+        1,
+        4
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Eric S Rosengren": 5
+    },
+    "audiences": {
+        "financial_market": 0.8,
+        "academic": 0.2
+    },
+    "monetary_dominance": 0.6527225987380229,
+    "fiscal_dominance_mean": 0.0,
+    "financial_dominance_mean": 0.3472774012619771,
+    "top_topics": [
+        [
+            "monetary policy",
+            0.6
+        ],
+        [
+            "inflation",
+            0.6
+        ],
+        [
+            "economic growth",
+            0.6
+        ],
+        [
+            "financial stability",
+            0.6
+        ],
+        [
+            "unemployment",
+            0.4
+        ],
+        [
+            "fiscal policy",
+            0.4
+        ],
+        [
+            "stress tests",
+            0.4
+        ],
+        [
+            "core inflation",
+            0.4
+        ],
+        [
+            "balance sheet",
+            0.2
+        ],
+        [
+            "excess reserves",
+            0.2
+        ]
+    ],
+    "year": [
+        2010,
+        2011
+    ],
+    "monetary_dominance_yearly": [
+        0.75,
+        0.6299855838539163
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.25,
+        0.37001441614608355
+    ]
+}

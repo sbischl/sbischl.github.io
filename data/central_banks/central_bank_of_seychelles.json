@@ -1,0 +1,106 @@
+{
+    "name": "Central Bank of Seychelles",
+    "country": "SYC",
+    "currency": "Seychelles Rupee",
+    "currency_code": "SCR",
+    "advanced": 0.0,
+    "cb_location": "Victoria",
+    "cb_latitude": -4.6191,
+    "cb_longitude": 55.4513,
+    "number_of_speeches": [
+        1,
+        2,
+        6,
+        4,
+        1,
+        3
+    ],
+    "number_of_speakers": 3,
+    "speakers": {
+        "Caroline Abel": 15,
+        "Christophe Edmond": 1,
+        "Jenifer Sullivan": 1
+    },
+    "audiences": {
+        "central_bank": 0.5294117647058824,
+        "financial_market": 0.4117647058823529,
+        "political": 0.058823529411764705
+    },
+    "monetary_dominance": 0.0,
+    "fiscal_dominance_mean": 1.0,
+    "financial_dominance_mean": 0.0,
+    "top_topics": [
+        [
+            "financial inclusion",
+            0.5294117647058824
+        ],
+        [
+            "economic growth",
+            0.23529411764705882
+        ],
+        [
+            "financial stability",
+            0.23529411764705882
+        ],
+        [
+            "financial literacy",
+            0.1764705882352941
+        ],
+        [
+            "financial consumer protection",
+            0.1764705882352941
+        ],
+        [
+            "financial services",
+            0.1764705882352941
+        ],
+        [
+            "financial sector",
+            0.1764705882352941
+        ],
+        [
+            "anti-money laundering",
+            0.1764705882352941
+        ],
+        [
+            "fintech",
+            0.1764705882352941
+        ],
+        [
+            "aml/cft",
+            0.1764705882352941
+        ]
+    ],
+    "year": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2022,
+        2023
+    ],
+    "monetary_dominance_yearly": [
+        null,
+        null,
+        null,
+        null,
+        0.0,
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        null,
+        null,
+        null,
+        null,
+        1.0,
+        null
+    ],
+    "financial_dominance_yearly": [
+        null,
+        null,
+        null,
+        null,
+        0.0,
+        null
+    ]
+}

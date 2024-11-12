@@ -1,0 +1,77 @@
+{
+    "name": "Federal Reserve Bank of Atlanta",
+    "country": "USA",
+    "currency": "US Dollar",
+    "currency_code": "USD",
+    "advanced": 1.0,
+    "cb_location": "Atlanta",
+    "cb_latitude": 33.749,
+    "cb_longitude": -84.388,
+    "number_of_speeches": [
+        2
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Dennis Lockhart": 2
+    },
+    "audiences": {
+        "financial_market": 1.0
+    },
+    "monetary_dominance": 1.0,
+    "fiscal_dominance_mean": 0.0,
+    "financial_dominance_mean": 0.0,
+    "top_topics": [
+        [
+            "monetary policy",
+            1.0
+        ],
+        [
+            "economic outlook",
+            1.0
+        ],
+        [
+            "inflation",
+            1.0
+        ],
+        [
+            "interest rates",
+            1.0
+        ],
+        [
+            "labor market",
+            0.5
+        ],
+        [
+            "gdp growth",
+            0.5
+        ],
+        [
+            "liftoff",
+            0.5
+        ],
+        [
+            "risk",
+            0.5
+        ],
+        [
+            "patience",
+            0.5
+        ],
+        [
+            "fundamentals",
+            0.5
+        ]
+    ],
+    "year": [
+        2015
+    ],
+    "monetary_dominance_yearly": [
+        1.0
+    ],
+    "fiscal_dominance_yearly": [
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.0
+    ]
+}

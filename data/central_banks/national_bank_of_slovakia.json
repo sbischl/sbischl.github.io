@@ -1,0 +1,97 @@
+{
+    "name": "National Bank of Slovakia",
+    "country": "SVK",
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "advanced": 1.0,
+    "cb_location": "Bratislava",
+    "cb_latitude": 48.1486,
+    "cb_longitude": 17.1077,
+    "number_of_speeches": [
+        1,
+        1,
+        1,
+        2
+    ],
+    "number_of_speakers": 5,
+    "speakers": {
+        "Marian Jusko": 1,
+        "Elena Kohutikova": 1,
+        "Ivan Sramko": 1,
+        "Jozef Makuch": 1,
+        "\u013dudovit Odor": 1
+    },
+    "audiences": {
+        "academic": 0.8,
+        "central_bank": 0.2
+    },
+    "monetary_dominance": 0.7555555555555555,
+    "fiscal_dominance_mean": 0.24444444444444444,
+    "financial_dominance_mean": 0.0,
+    "top_topics": [
+        [
+            "maastricht criteria",
+            0.4
+        ],
+        [
+            "structural reforms",
+            0.4
+        ],
+        [
+            "monetary union",
+            0.4
+        ],
+        [
+            "euro",
+            0.4
+        ],
+        [
+            "slovakia",
+            0.4
+        ],
+        [
+            "euro adoption",
+            0.4
+        ],
+        [
+            "euro area",
+            0.4
+        ],
+        [
+            "emu accession",
+            0.2
+        ],
+        [
+            "erm ii",
+            0.2
+        ],
+        [
+            "nominal convergence",
+            0.2
+        ]
+    ],
+    "year": [
+        2003,
+        2004,
+        2008,
+        2019
+    ],
+    "monetary_dominance_yearly": [
+        1.0,
+        0.3333333333333333,
+        null,
+        1.0
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        0.6666666666666666,
+        null,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.0,
+        0.0,
+        null,
+        0.0
+    ]
+}

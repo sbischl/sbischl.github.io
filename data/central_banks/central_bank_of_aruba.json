@@ -1,0 +1,77 @@
+{
+    "name": "Central Bank of Aruba",
+    "country": "ABW",
+    "currency": "Aruban Florin",
+    "currency_code": "AWG",
+    "advanced": 0.0,
+    "cb_location": "Oranjestad",
+    "cb_latitude": 12.5186,
+    "cb_longitude": -70.0358,
+    "number_of_speeches": [
+        1
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Jeanette R Semeleer": 1
+    },
+    "audiences": {
+        "academic": 1.0
+    },
+    "monetary_dominance": 0.8999999999999999,
+    "fiscal_dominance_mean": 0.09999999999999999,
+    "financial_dominance_mean": 0.0,
+    "top_topics": [
+        [
+            "dollarization",
+            1.0
+        ],
+        [
+            "economic effects",
+            1.0
+        ],
+        [
+            "central bank",
+            1.0
+        ],
+        [
+            "monetary policy",
+            1.0
+        ],
+        [
+            "fiscal policy",
+            1.0
+        ],
+        [
+            "aruba",
+            1.0
+        ],
+        [
+            "netherlands antilles",
+            1.0
+        ],
+        [
+            "currency choice",
+            1.0
+        ],
+        [
+            "financial stability",
+            1.0
+        ],
+        [
+            "political decision",
+            1.0
+        ]
+    ],
+    "year": [
+        2009
+    ],
+    "monetary_dominance_yearly": [
+        0.8999999999999999
+    ],
+    "fiscal_dominance_yearly": [
+        0.09999999999999999
+    ],
+    "financial_dominance_yearly": [
+        0.0
+    ]
+}

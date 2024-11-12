@@ -1,0 +1,108 @@
+{
+    "name": "Bank of Sierra Leone",
+    "country": "SLE",
+    "currency": "Leone",
+    "currency_code": "SLL",
+    "advanced": 0.0,
+    "cb_location": "Freetown",
+    "cb_latitude": 8.4657,
+    "cb_longitude": -13.2317,
+    "number_of_speeches": [
+        1,
+        3,
+        4,
+        2,
+        1,
+        1
+    ],
+    "number_of_speakers": 4,
+    "speakers": {
+        "Mohamed S Fofana": 6,
+        "James D Rogers": 3,
+        "Sheku Sambadeen Sesay": 2,
+        "J D Rogers": 1
+    },
+    "audiences": {
+        "financial_market": 0.5,
+        "central_bank": 0.25,
+        "political": 0.16666666666666666,
+        "academic": 0.08333333333333333
+    },
+    "monetary_dominance": 0.5071528751753156,
+    "fiscal_dominance_mean": 0.4844319775596072,
+    "financial_dominance_mean": 0.008415147265077139,
+    "top_topics": [
+        [
+            "inflation",
+            0.16666666666666666
+        ],
+        [
+            "money laundering",
+            0.16666666666666666
+        ],
+        [
+            "excellence",
+            0.16666666666666666
+        ],
+        [
+            "anti-money laundering act",
+            0.16666666666666666
+        ],
+        [
+            "financial system",
+            0.16666666666666666
+        ],
+        [
+            "development",
+            0.16666666666666666
+        ],
+        [
+            "poverty reduction",
+            0.16666666666666666
+        ],
+        [
+            "capital market",
+            0.16666666666666666
+        ],
+        [
+            "financial sector",
+            0.16666666666666666
+        ],
+        [
+            "investment",
+            0.16666666666666666
+        ]
+    ],
+    "year": [
+        2004,
+        2006,
+        2007,
+        2008,
+        2010,
+        2011
+    ],
+    "monetary_dominance_yearly": [
+        0.5,
+        null,
+        0.5333333333333333,
+        null,
+        null,
+        0.411764705882353
+    ],
+    "fiscal_dominance_yearly": [
+        0.5,
+        null,
+        0.4666666666666666,
+        null,
+        null,
+        0.5294117647058824
+    ],
+    "financial_dominance_yearly": [
+        0.0,
+        null,
+        0.0,
+        null,
+        null,
+        0.05882352941176471
+    ]
+}

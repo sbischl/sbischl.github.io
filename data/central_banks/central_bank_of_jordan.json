@@ -1,0 +1,77 @@
+{
+    "name": "Central Bank of Jordan",
+    "country": "JOR",
+    "currency": "Jordanian Dinar",
+    "currency_code": "JOD",
+    "advanced": 0.0,
+    "cb_location": "Amman",
+    "cb_latitude": 31.9539,
+    "cb_longitude": 35.9106,
+    "number_of_speeches": [
+        1
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Umayya Toukan": 1
+    },
+    "audiences": {
+        "academic": 1.0
+    },
+    "monetary_dominance": 0.8,
+    "fiscal_dominance_mean": 0.2,
+    "financial_dominance_mean": 0.0,
+    "top_topics": [
+        [
+            "bretton woods system",
+            1.0
+        ],
+        [
+            "international monetary fund",
+            1.0
+        ],
+        [
+            "global imbalances",
+            1.0
+        ],
+        [
+            "exchange rates",
+            1.0
+        ],
+        [
+            "reserve currencies",
+            1.0
+        ],
+        [
+            "protectionism",
+            1.0
+        ],
+        [
+            "sovereign debt",
+            1.0
+        ],
+        [
+            "financial stability",
+            1.0
+        ],
+        [
+            "political economy",
+            1.0
+        ],
+        [
+            "fiscal consolidation",
+            1.0
+        ]
+    ],
+    "year": [
+        2010
+    ],
+    "monetary_dominance_yearly": [
+        0.8
+    ],
+    "fiscal_dominance_yearly": [
+        0.2
+    ],
+    "financial_dominance_yearly": [
+        0.0
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "name": "Central Bank of Colombia",
+    "country": "COL",
+    "currency": "Colombian Peso",
+    "currency_code": "COP",
+    "advanced": 0.0,
+    "cb_location": "Bogot\u00e1",
+    "cb_latitude": 4.711,
+    "cb_longitude": -74.0721,
+    "number_of_speeches": [
+        2,
+        2,
+        1,
+        1
+    ],
+    "number_of_speakers": 3,
+    "speakers": {
+        "Jos\u00e9 Dar\u00edo Uribe": 3,
+        "Miguel Urrutia Montoya": 2,
+        "Carlos Gustavo Cano": 1
+    },
+    "audiences": {
+        "academic": 0.5,
+        "political": 0.3333333333333333,
+        "financial_market": 0.16666666666666666
+    },
+    "monetary_dominance": 0.6784178550430583,
+    "fiscal_dominance_mean": 0.09038193283607898,
+    "financial_dominance_mean": 0.23120021212086275,
+    "top_topics": [
+        [
+            "inflation",
+            0.6666666666666666
+        ],
+        [
+            "monetary policy",
+            0.6666666666666666
+        ],
+        [
+            "exchange rate",
+            0.3333333333333333
+        ],
+        [
+            "financial stability",
+            0.3333333333333333
+        ],
+        [
+            "fiscal policy",
+            0.3333333333333333
+        ],
+        [
+            "financial regulation",
+            0.3333333333333333
+        ],
+        [
+            "peso",
+            0.16666666666666666
+        ],
+        [
+            "devaluation",
+            0.16666666666666666
+        ],
+        [
+            "appraisal",
+            0.16666666666666666
+        ],
+        [
+            "external factors",
+            0.16666666666666666
+        ]
+    ],
+    "year": [
+        2004,
+        2007,
+        2009,
+        2012
+    ],
+    "monetary_dominance_yearly": [
+        0.5714285714285714,
+        0.9815692469720906,
+        0.39999999999999997,
+        0.4
+    ],
+    "fiscal_dominance_yearly": [
+        0.25,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.17857142857142858,
+        0.018430753027909426,
+        0.6,
+        0.6
+    ]
+}

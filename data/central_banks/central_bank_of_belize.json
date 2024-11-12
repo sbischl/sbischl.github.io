@@ -1,0 +1,77 @@
+{
+    "name": "Central Bank of Belize",
+    "country": "BLZ",
+    "currency": "Belize Dollar",
+    "currency_code": "BZD",
+    "advanced": 0.0,
+    "cb_location": "Belmopan",
+    "cb_latitude": 17.251,
+    "cb_longitude": -88.759,
+    "number_of_speeches": [
+        1
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Glenford Ysaguirre": 1
+    },
+    "audiences": {
+        "central_bank": 1.0
+    },
+    "monetary_dominance": null,
+    "fiscal_dominance_mean": null,
+    "financial_dominance_mean": null,
+    "top_topics": [
+        [
+            "financial stability",
+            1.0
+        ],
+        [
+            "cgbs",
+            1.0
+        ],
+        [
+            "regional cooperation",
+            1.0
+        ],
+        [
+            "financial regulation",
+            1.0
+        ],
+        [
+            "caricom",
+            1.0
+        ],
+        [
+            "supranational authority",
+            1.0
+        ],
+        [
+            "legal framework",
+            1.0
+        ],
+        [
+            "risk assessment",
+            1.0
+        ],
+        [
+            "basel ii",
+            1.0
+        ],
+        [
+            "sanctions",
+            1.0
+        ]
+    ],
+    "year": [
+        2011
+    ],
+    "monetary_dominance_yearly": [
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        null
+    ],
+    "financial_dominance_yearly": [
+        null
+    ]
+}

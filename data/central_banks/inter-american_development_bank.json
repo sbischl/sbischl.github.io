@@ -1,0 +1,77 @@
+{
+    "name": "Inter-american Development Bank",
+    "country": null,
+    "currency": null,
+    "currency_code": null,
+    "advanced": null,
+    "cb_location": "Washington",
+    "cb_latitude": 38.9072,
+    "cb_longitude": -77.0369,
+    "number_of_speeches": [
+        1
+    ],
+    "number_of_speakers": 1,
+    "speakers": {
+        "Enrique V Iglesias": 1
+    },
+    "audiences": {
+        "central_bank": 1.0
+    },
+    "monetary_dominance": 0.4705882352941177,
+    "fiscal_dominance_mean": 0.0,
+    "financial_dominance_mean": 0.5294117647058824,
+    "top_topics": [
+        [
+            "latin america",
+            1.0
+        ],
+        [
+            "financial reforms",
+            1.0
+        ],
+        [
+            "economic growth",
+            1.0
+        ],
+        [
+            "external shocks",
+            1.0
+        ],
+        [
+            "financial stability",
+            1.0
+        ],
+        [
+            "financial contagion",
+            1.0
+        ],
+        [
+            "banking regulation",
+            1.0
+        ],
+        [
+            "capital requirements",
+            1.0
+        ],
+        [
+            "liquidity crises",
+            1.0
+        ],
+        [
+            "international financial architecture",
+            1.0
+        ]
+    ],
+    "year": [
+        2000
+    ],
+    "monetary_dominance_yearly": [
+        0.4705882352941177
+    ],
+    "fiscal_dominance_yearly": [
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.5294117647058824
+    ]
+}

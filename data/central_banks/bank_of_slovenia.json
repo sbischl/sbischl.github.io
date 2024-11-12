@@ -1,0 +1,97 @@
+{
+    "name": "Bank of Slovenia",
+    "country": "SVN",
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "advanced": 1.0,
+    "cb_location": "Ljubljana",
+    "cb_latitude": 46.0569,
+    "cb_longitude": 14.5058,
+    "number_of_speeches": [
+        2,
+        2,
+        1,
+        6
+    ],
+    "number_of_speakers": 4,
+    "speakers": {
+        "Bo\u0161tjan Vasle": 5,
+        "Bostjan Jazbec": 4,
+        "Tina \u017dumer": 1,
+        "Tina Zumer": 1
+    },
+    "audiences": {
+        "academic": 0.45454545454545453,
+        "financial_market": 0.2727272727272727,
+        "central_bank": 0.2727272727272727
+    },
+    "monetary_dominance": 0.7488073618568519,
+    "fiscal_dominance_mean": 0.04834320797009246,
+    "financial_dominance_mean": 0.20284943017305565,
+    "top_topics": [
+        [
+            "monetary policy",
+            0.6363636363636362
+        ],
+        [
+            "inflation",
+            0.4545454545454546
+        ],
+        [
+            "financial stability",
+            0.36363636363636365
+        ],
+        [
+            "fiscal policy",
+            0.2727272727272727
+        ],
+        [
+            "economic growth",
+            0.2727272727272727
+        ],
+        [
+            "credit growth",
+            0.18181818181818182
+        ],
+        [
+            "macroprudential oversight",
+            0.18181818181818182
+        ],
+        [
+            "price stability",
+            0.18181818181818182
+        ],
+        [
+            "sustainability",
+            0.18181818181818182
+        ],
+        [
+            "climate change",
+            0.18181818181818182
+        ]
+    ],
+    "year": [
+        2014,
+        2016,
+        2022,
+        2023
+    ],
+    "monetary_dominance_yearly": [
+        0.1745877788554801,
+        0.5333333333333333,
+        0.8333333333333333,
+        0.9361702127659575
+    ],
+    "fiscal_dominance_yearly": [
+        0.05431619786614937,
+        0.4666666666666667,
+        0.0,
+        0.0
+    ],
+    "financial_dominance_yearly": [
+        0.7710960232783705,
+        0.0,
+        0.16666666666666666,
+        0.06382978723404255
+    ]
+}

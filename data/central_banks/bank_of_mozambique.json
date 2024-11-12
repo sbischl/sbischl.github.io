@@ -1,0 +1,89 @@
+{
+    "name": "Bank of Mozambique",
+    "country": "MOZ",
+    "currency": "Mozambique Metical",
+    "currency_code": "MZN",
+    "advanced": 0.0,
+    "cb_location": "Maputo",
+    "cb_latitude": -25.8918,
+    "cb_longitude": 32.6053,
+    "number_of_speeches": [
+        3,
+        1,
+        1
+    ],
+    "number_of_speakers": 2,
+    "speakers": {
+        "Ernesto Gouveia Gove": 3,
+        "Adriano Maleiane": 2
+    },
+    "audiences": {
+        "financial_market": 0.6,
+        "central_bank": 0.4
+    },
+    "monetary_dominance": 0.9,
+    "fiscal_dominance_mean": 0.09999999999999999,
+    "financial_dominance_mean": 0.0,
+    "top_topics": [
+        [
+            "economic growth",
+            0.6
+        ],
+        [
+            "monetary policy",
+            0.4
+        ],
+        [
+            "metical of the new family",
+            0.4
+        ],
+        [
+            "banking supervision",
+            0.4
+        ],
+        [
+            "regional integration",
+            0.4
+        ],
+        [
+            "poverty reduction",
+            0.4
+        ],
+        [
+            "financial system",
+            0.2
+        ],
+        [
+            "external sector",
+            0.2
+        ],
+        [
+            "inflation",
+            0.2
+        ],
+        [
+            "territorial expansion",
+            0.2
+        ]
+    ],
+    "year": [
+        2006,
+        2007,
+        2010
+    ],
+    "monetary_dominance_yearly": [
+        0.9,
+        null,
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        0.1,
+        null,
+        null
+    ],
+    "financial_dominance_yearly": [
+        0.0,
+        null,
+        null
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "name": "Monetary Authority of Macao",
+    "country": "MAC",
+    "currency": "Pataca",
+    "currency_code": "MOP",
+    "advanced": 1.0,
+    "cb_location": "Macau",
+    "cb_latitude": 22.1987,
+    "cb_longitude": 113.5439,
+    "number_of_speeches": [
+        6,
+        4,
+        6,
+        3,
+        3,
+        1,
+        4,
+        2
+    ],
+    "number_of_speakers": 2,
+    "speakers": {
+        "Anselmo Teng": 19,
+        "Anselmo L S Teng": 10
+    },
+    "audiences": {
+        "financial_market": 0.6551724137931034,
+        "central_bank": 0.20689655172413793,
+        "academic": 0.06896551724137931,
+        "political": 0.06896551724137931
+    },
+    "monetary_dominance": 0.12840518563712258,
+    "fiscal_dominance_mean": 0.0,
+    "financial_dominance_mean": 0.8715948143628774,
+    "top_topics": [
+        [
+            "risk management",
+            0.4482758620689655
+        ],
+        [
+            "financial stability",
+            0.3103448275862069
+        ],
+        [
+            "economic diversification",
+            0.24137931034482757
+        ],
+        [
+            "monetary policy",
+            0.20689655172413793
+        ],
+        [
+            "financial supervision",
+            0.20689655172413793
+        ],
+        [
+            "financial cooperation",
+            0.20689655172413793
+        ],
+        [
+            "financial system",
+            0.1724137931034483
+        ],
+        [
+            "economic growth",
+            0.1724137931034483
+        ],
+        [
+            "tourism",
+            0.1724137931034483
+        ],
+        [
+            "economic development",
+            0.1724137931034483
+        ]
+    ],
+    "year": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+    ],
+    "monetary_dominance_yearly": [
+        0.09090909090909091,
+        0.17204301075268819,
+        0.0,
+        0.10784313725490195,
+        null,
+        null,
+        null,
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        null,
+        null,
+        null,
+        null
+    ],
+    "financial_dominance_yearly": [
+        0.9090909090909091,
+        0.8279569892473119,
+        1.0,
+        0.8921568627450981,
+        null,
+        null,
+        null,
+        null
+    ]
+}

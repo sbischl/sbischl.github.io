@@ -1,0 +1,84 @@
+{
+    "name": "Reserve Bank of Vanuatu",
+    "country": "VUT",
+    "currency": "Vatu",
+    "currency_code": "VUV",
+    "advanced": 0.0,
+    "cb_location": "Port Vila",
+    "cb_latitude": -17.7333,
+    "cb_longitude": 168.327,
+    "number_of_speeches": [
+        1,
+        1
+    ],
+    "number_of_speakers": 2,
+    "speakers": {
+        "Peter Tari": 1,
+        "Odo Tevi": 1
+    },
+    "audiences": {
+        "central_bank": 0.5,
+        "financial_market": 0.5
+    },
+    "monetary_dominance": 1.0,
+    "fiscal_dominance_mean": 0.0,
+    "financial_dominance_mean": 0.0,
+    "top_topics": [
+        [
+            "economic growth",
+            0.5
+        ],
+        [
+            "agriculture",
+            0.5
+        ],
+        [
+            "services sector",
+            0.5
+        ],
+        [
+            "macroeconomic stability",
+            0.5
+        ],
+        [
+            "monetary policy",
+            0.5
+        ],
+        [
+            "fiscal consolidation",
+            0.5
+        ],
+        [
+            "private sector development",
+            0.5
+        ],
+        [
+            "political stability",
+            0.5
+        ],
+        [
+            "investment",
+            0.5
+        ],
+        [
+            "balance of payment",
+            0.5
+        ]
+    ],
+    "year": [
+        2006,
+        2012
+    ],
+    "monetary_dominance_yearly": [
+        1.0,
+        null
+    ],
+    "fiscal_dominance_yearly": [
+        0.0,
+        null
+    ],
+    "financial_dominance_yearly": [
+        0.0,
+        null
+    ]
+}
