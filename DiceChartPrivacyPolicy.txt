@@ -1,5 +1,0 @@
-PRIVACY POLICY:
-
-Dice Chart does not collect any user data.
-Data which is required for the functioning of the app such as settings, player names and the state of the dice game are stored entirely on the user's device.
-In fact, the app does not have the capability to access the internet since the required Android permissions for internet access are not set.
