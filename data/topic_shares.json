@@ -1,0 +1,3127 @@
+[
+  {
+    "period": "1999-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.054093
+      },
+      {
+        "name": "inflation",
+        "share": 0.039146
+      },
+      {
+        "name": "economic growth",
+        "share": 0.029893
+      },
+      {
+        "name": "price stability",
+        "share": 0.022776
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.019573
+      },
+      {
+        "name": "interest rates",
+        "share": 0.018149
+      },
+      {
+        "name": "financial stability",
+        "share": 0.017082
+      },
+      {
+        "name": "euro",
+        "share": 0.015302
+      },
+      {
+        "name": "financial markets",
+        "share": 0.015302
+      },
+      {
+        "name": "exchange rate",
+        "share": 0.0121
+      },
+      {
+        "name": "risk management",
+        "share": 0.0121
+      },
+      {
+        "name": "unemployment",
+        "share": 0.009964
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.009253
+      },
+      {
+        "name": "transparency",
+        "share": 0.007473
+      },
+      {
+        "name": "productivity",
+        "share": 0.006762
+      },
+      {
+        "name": "inflation targeting",
+        "share": 0.00605
+      },
+      {
+        "name": "central bank",
+        "share": 0.005694
+      },
+      {
+        "name": "euro area",
+        "share": 0.005338
+      },
+      {
+        "name": "exchange rates",
+        "share": 0.005338
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.004982
+      },
+      {
+        "name": "market discipline",
+        "share": 0.004982
+      },
+      {
+        "name": "globalisation",
+        "share": 0.004626
+      },
+      {
+        "name": "international cooperation",
+        "share": 0.00427
+      },
+      {
+        "name": "banking sector",
+        "share": 0.003915
+      },
+      {
+        "name": "corporate finance",
+        "share": 0.003915
+      },
+      {
+        "name": "credit risk",
+        "share": 0.003915
+      },
+      {
+        "name": "european central bank",
+        "share": 0.003915
+      },
+      {
+        "name": "eurosystem",
+        "share": 0.003915
+      },
+      {
+        "name": "liquidity",
+        "share": 0.003915
+      },
+      {
+        "name": "prices",
+        "share": 0.003915
+      }
+    ]
+  },
+  {
+    "period": "2000-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.059396
+      },
+      {
+        "name": "inflation",
+        "share": 0.041946
+      },
+      {
+        "name": "economic growth",
+        "share": 0.039597
+      },
+      {
+        "name": "price stability",
+        "share": 0.024161
+      },
+      {
+        "name": "interest rates",
+        "share": 0.02047
+      },
+      {
+        "name": "financial stability",
+        "share": 0.019463
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.017114
+      },
+      {
+        "name": "exchange rate",
+        "share": 0.015101
+      },
+      {
+        "name": "euro",
+        "share": 0.014094
+      },
+      {
+        "name": "financial markets",
+        "share": 0.014094
+      },
+      {
+        "name": "risk management",
+        "share": 0.013423
+      },
+      {
+        "name": "productivity",
+        "share": 0.010403
+      },
+      {
+        "name": "transparency",
+        "share": 0.008725
+      },
+      {
+        "name": "inflation targeting",
+        "share": 0.008389
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.007047
+      },
+      {
+        "name": "central bank independence",
+        "share": 0.006711
+      },
+      {
+        "name": "competition",
+        "share": 0.00604
+      },
+      {
+        "name": "central bank",
+        "share": 0.005369
+      },
+      {
+        "name": "banking supervision",
+        "share": 0.004698
+      },
+      {
+        "name": "globalisation",
+        "share": 0.004698
+      },
+      {
+        "name": "technology",
+        "share": 0.004698
+      },
+      {
+        "name": "labour market",
+        "share": 0.004362
+      },
+      {
+        "name": "new economy",
+        "share": 0.004362
+      },
+      {
+        "name": "productivity growth",
+        "share": 0.004362
+      },
+      {
+        "name": "structural reform",
+        "share": 0.004362
+      },
+      {
+        "name": "capital flows",
+        "share": 0.004027
+      },
+      {
+        "name": "corporate governance",
+        "share": 0.004027
+      },
+      {
+        "name": "corporate profits",
+        "share": 0.004027
+      },
+      {
+        "name": "euro area",
+        "share": 0.004027
+      },
+      {
+        "name": "globalization",
+        "share": 0.004027
+      }
+    ]
+  },
+  {
+    "period": "2001-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.057508
+      },
+      {
+        "name": "inflation",
+        "share": 0.037061
+      },
+      {
+        "name": "economic growth",
+        "share": 0.031629
+      },
+      {
+        "name": "financial stability",
+        "share": 0.020767
+      },
+      {
+        "name": "interest rates",
+        "share": 0.019489
+      },
+      {
+        "name": "price stability",
+        "share": 0.017891
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.017572
+      },
+      {
+        "name": "exchange rate",
+        "share": 0.013738
+      },
+      {
+        "name": "financial markets",
+        "share": 0.01246
+      },
+      {
+        "name": "risk management",
+        "share": 0.011182
+      },
+      {
+        "name": "euro",
+        "share": 0.009585
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.009265
+      },
+      {
+        "name": "transparency",
+        "share": 0.007987
+      },
+      {
+        "name": "euro area",
+        "share": 0.007029
+      },
+      {
+        "name": "inflation targeting",
+        "share": 0.006709
+      },
+      {
+        "name": "productivity",
+        "share": 0.006709
+      },
+      {
+        "name": "central bank",
+        "share": 0.00607
+      },
+      {
+        "name": "central banks",
+        "share": 0.005112
+      },
+      {
+        "name": "competition",
+        "share": 0.005112
+      },
+      {
+        "name": "market discipline",
+        "share": 0.004792
+      },
+      {
+        "name": "us economy",
+        "share": 0.004792
+      },
+      {
+        "name": "prices",
+        "share": 0.004473
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.004153
+      },
+      {
+        "name": "financial sector",
+        "share": 0.004153
+      },
+      {
+        "name": "asset prices",
+        "share": 0.003514
+      },
+      {
+        "name": "communication",
+        "share": 0.003514
+      },
+      {
+        "name": "liquidity",
+        "share": 0.003514
+      },
+      {
+        "name": "basel accord",
+        "share": 0.003195
+      },
+      {
+        "name": "central bank independence",
+        "share": 0.003195
+      },
+      {
+        "name": "competitiveness",
+        "share": 0.003195
+      }
+    ]
+  },
+  {
+    "period": "2002-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.051335
+      },
+      {
+        "name": "inflation",
+        "share": 0.035608
+      },
+      {
+        "name": "economic growth",
+        "share": 0.027893
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.023145
+      },
+      {
+        "name": "financial stability",
+        "share": 0.019288
+      },
+      {
+        "name": "price stability",
+        "share": 0.017804
+      },
+      {
+        "name": "risk management",
+        "share": 0.016617
+      },
+      {
+        "name": "interest rates",
+        "share": 0.016024
+      },
+      {
+        "name": "financial markets",
+        "share": 0.013353
+      },
+      {
+        "name": "corporate governance",
+        "share": 0.009496
+      },
+      {
+        "name": "euro",
+        "share": 0.009496
+      },
+      {
+        "name": "exchange rate",
+        "share": 0.009496
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.008309
+      },
+      {
+        "name": "inflation targeting",
+        "share": 0.007418
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.007122
+      },
+      {
+        "name": "productivity",
+        "share": 0.006231
+      },
+      {
+        "name": "transparency",
+        "share": 0.005341
+      },
+      {
+        "name": "deflation",
+        "share": 0.004748
+      },
+      {
+        "name": "exports",
+        "share": 0.004748
+      },
+      {
+        "name": "central bank",
+        "share": 0.004451
+      },
+      {
+        "name": "central bank independence",
+        "share": 0.004451
+      },
+      {
+        "name": "credit risk",
+        "share": 0.004154
+      },
+      {
+        "name": "economic recovery",
+        "share": 0.004154
+      },
+      {
+        "name": "global economy",
+        "share": 0.004154
+      },
+      {
+        "name": "prices",
+        "share": 0.004154
+      },
+      {
+        "name": "wage growth",
+        "share": 0.004154
+      },
+      {
+        "name": "financial integration",
+        "share": 0.003858
+      },
+      {
+        "name": "labour market",
+        "share": 0.003858
+      },
+      {
+        "name": "market discipline",
+        "share": 0.003858
+      },
+      {
+        "name": "oil prices",
+        "share": 0.003858
+      }
+    ]
+  },
+  {
+    "period": "2003-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.052071
+      },
+      {
+        "name": "inflation",
+        "share": 0.034911
+      },
+      {
+        "name": "economic growth",
+        "share": 0.026036
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.019527
+      },
+      {
+        "name": "financial stability",
+        "share": 0.019231
+      },
+      {
+        "name": "interest rates",
+        "share": 0.016864
+      },
+      {
+        "name": "price stability",
+        "share": 0.016864
+      },
+      {
+        "name": "risk management",
+        "share": 0.014201
+      },
+      {
+        "name": "financial markets",
+        "share": 0.011243
+      },
+      {
+        "name": "exchange rate",
+        "share": 0.009763
+      },
+      {
+        "name": "inflation targeting",
+        "share": 0.009467
+      },
+      {
+        "name": "corporate governance",
+        "share": 0.009172
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.007988
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.007396
+      },
+      {
+        "name": "financial system",
+        "share": 0.007101
+      },
+      {
+        "name": "central bank",
+        "share": 0.005917
+      },
+      {
+        "name": "employment",
+        "share": 0.005917
+      },
+      {
+        "name": "basel ii",
+        "share": 0.005621
+      },
+      {
+        "name": "deflation",
+        "share": 0.005621
+      },
+      {
+        "name": "economic recovery",
+        "share": 0.005325
+      },
+      {
+        "name": "operational risk",
+        "share": 0.004734
+      },
+      {
+        "name": "productivity",
+        "share": 0.004734
+      },
+      {
+        "name": "transparency",
+        "share": 0.004734
+      },
+      {
+        "name": "credit risk",
+        "share": 0.004438
+      },
+      {
+        "name": "domestic demand",
+        "share": 0.004438
+      },
+      {
+        "name": "banking sector",
+        "share": 0.003846
+      },
+      {
+        "name": "corporate finance",
+        "share": 0.003846
+      },
+      {
+        "name": "euro",
+        "share": 0.00355
+      },
+      {
+        "name": "exports",
+        "share": 0.00355
+      },
+      {
+        "name": "consumer spending",
+        "share": 0.003254
+      }
+    ]
+  },
+  {
+    "period": "2004-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.04528
+      },
+      {
+        "name": "inflation",
+        "share": 0.031643
+      },
+      {
+        "name": "economic growth",
+        "share": 0.026923
+      },
+      {
+        "name": "financial stability",
+        "share": 0.020629
+      },
+      {
+        "name": "price stability",
+        "share": 0.015035
+      },
+      {
+        "name": "risk management",
+        "share": 0.01451
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.014336
+      },
+      {
+        "name": "interest rates",
+        "share": 0.012413
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.008566
+      },
+      {
+        "name": "productivity",
+        "share": 0.008392
+      },
+      {
+        "name": "financial markets",
+        "share": 0.008217
+      },
+      {
+        "name": "exchange rate",
+        "share": 0.006643
+      },
+      {
+        "name": "corporate governance",
+        "share": 0.006469
+      },
+      {
+        "name": "inflation targeting",
+        "share": 0.005594
+      },
+      {
+        "name": "oil prices",
+        "share": 0.005245
+      },
+      {
+        "name": "basel ii",
+        "share": 0.00507
+      },
+      {
+        "name": "transparency",
+        "share": 0.00507
+      },
+      {
+        "name": "employment",
+        "share": 0.004895
+      },
+      {
+        "name": "euro",
+        "share": 0.004895
+      },
+      {
+        "name": "central bank",
+        "share": 0.00472
+      },
+      {
+        "name": "economic recovery",
+        "share": 0.00472
+      },
+      {
+        "name": "investment",
+        "share": 0.004545
+      },
+      {
+        "name": "financial system",
+        "share": 0.004371
+      },
+      {
+        "name": "labour market",
+        "share": 0.004021
+      },
+      {
+        "name": "globalization",
+        "share": 0.003846
+      },
+      {
+        "name": "credit risk",
+        "share": 0.003322
+      },
+      {
+        "name": "liquidity",
+        "share": 0.003322
+      },
+      {
+        "name": "central bank independence",
+        "share": 0.003147
+      },
+      {
+        "name": "unemployment",
+        "share": 0.003147
+      },
+      {
+        "name": "growth",
+        "share": 0.002972
+      }
+    ]
+  },
+  {
+    "period": "2005-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.040568
+      },
+      {
+        "name": "inflation",
+        "share": 0.028047
+      },
+      {
+        "name": "economic growth",
+        "share": 0.027045
+      },
+      {
+        "name": "financial stability",
+        "share": 0.023205
+      },
+      {
+        "name": "risk management",
+        "share": 0.013189
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.01202
+      },
+      {
+        "name": "price stability",
+        "share": 0.010851
+      },
+      {
+        "name": "interest rates",
+        "share": 0.010351
+      },
+      {
+        "name": "financial markets",
+        "share": 0.007846
+      },
+      {
+        "name": "basel ii",
+        "share": 0.007679
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.006344
+      },
+      {
+        "name": "exchange rate",
+        "share": 0.006177
+      },
+      {
+        "name": "financial system",
+        "share": 0.006177
+      },
+      {
+        "name": "productivity",
+        "share": 0.00601
+      },
+      {
+        "name": "inflation targeting",
+        "share": 0.005843
+      },
+      {
+        "name": "central bank",
+        "share": 0.005008
+      },
+      {
+        "name": "transparency",
+        "share": 0.005008
+      },
+      {
+        "name": "oil prices",
+        "share": 0.004841
+      },
+      {
+        "name": "financial integration",
+        "share": 0.004508
+      },
+      {
+        "name": "financial institutions",
+        "share": 0.00384
+      },
+      {
+        "name": "globalization",
+        "share": 0.00384
+      },
+      {
+        "name": "capital adequacy",
+        "share": 0.003673
+      },
+      {
+        "name": "corporate governance",
+        "share": 0.003673
+      },
+      {
+        "name": "credit risk",
+        "share": 0.003673
+      },
+      {
+        "name": "investment",
+        "share": 0.003673
+      },
+      {
+        "name": "global economy",
+        "share": 0.003506
+      },
+      {
+        "name": "regulation",
+        "share": 0.003506
+      },
+      {
+        "name": "competition",
+        "share": 0.003339
+      },
+      {
+        "name": "competitiveness",
+        "share": 0.003339
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.003339
+      }
+    ]
+  },
+  {
+    "period": "2006-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.044212
+      },
+      {
+        "name": "inflation",
+        "share": 0.034031
+      },
+      {
+        "name": "economic growth",
+        "share": 0.026778
+      },
+      {
+        "name": "financial stability",
+        "share": 0.022036
+      },
+      {
+        "name": "risk management",
+        "share": 0.016318
+      },
+      {
+        "name": "interest rates",
+        "share": 0.01325
+      },
+      {
+        "name": "price stability",
+        "share": 0.012413
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.011297
+      },
+      {
+        "name": "financial markets",
+        "share": 0.008368
+      },
+      {
+        "name": "inflation targeting",
+        "share": 0.007252
+      },
+      {
+        "name": "basel ii",
+        "share": 0.006834
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.006137
+      },
+      {
+        "name": "exchange rate",
+        "share": 0.0053
+      },
+      {
+        "name": "globalisation",
+        "share": 0.005021
+      },
+      {
+        "name": "investment",
+        "share": 0.004881
+      },
+      {
+        "name": "financial system",
+        "share": 0.004742
+      },
+      {
+        "name": "labour market",
+        "share": 0.004742
+      },
+      {
+        "name": "oil prices",
+        "share": 0.004742
+      },
+      {
+        "name": "productivity",
+        "share": 0.004742
+      },
+      {
+        "name": "global imbalances",
+        "share": 0.004603
+      },
+      {
+        "name": "financial integration",
+        "share": 0.004463
+      },
+      {
+        "name": "central bank",
+        "share": 0.004324
+      },
+      {
+        "name": "financial sector",
+        "share": 0.004184
+      },
+      {
+        "name": "globalization",
+        "share": 0.004045
+      },
+      {
+        "name": "growth",
+        "share": 0.004045
+      },
+      {
+        "name": "corporate governance",
+        "share": 0.003905
+      },
+      {
+        "name": "credit risk",
+        "share": 0.003905
+      },
+      {
+        "name": "transparency",
+        "share": 0.003905
+      },
+      {
+        "name": "liquidity",
+        "share": 0.003766
+      },
+      {
+        "name": "operational risk",
+        "share": 0.003626
+      }
+    ]
+  },
+  {
+    "period": "2007-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.043421
+      },
+      {
+        "name": "inflation",
+        "share": 0.03445
+      },
+      {
+        "name": "economic growth",
+        "share": 0.027153
+      },
+      {
+        "name": "financial stability",
+        "share": 0.025
+      },
+      {
+        "name": "risk management",
+        "share": 0.015789
+      },
+      {
+        "name": "price stability",
+        "share": 0.012679
+      },
+      {
+        "name": "financial markets",
+        "share": 0.01244
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.00945
+      },
+      {
+        "name": "interest rates",
+        "share": 0.008612
+      },
+      {
+        "name": "liquidity",
+        "share": 0.008493
+      },
+      {
+        "name": "transparency",
+        "share": 0.006938
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.006699
+      },
+      {
+        "name": "financial innovation",
+        "share": 0.005383
+      },
+      {
+        "name": "central bank",
+        "share": 0.005263
+      },
+      {
+        "name": "exchange rate",
+        "share": 0.005263
+      },
+      {
+        "name": "productivity",
+        "share": 0.005263
+      },
+      {
+        "name": "basel ii",
+        "share": 0.004904
+      },
+      {
+        "name": "credit risk",
+        "share": 0.004904
+      },
+      {
+        "name": "financial system",
+        "share": 0.004904
+      },
+      {
+        "name": "inflation targeting",
+        "share": 0.004904
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.004545
+      },
+      {
+        "name": "financial integration",
+        "share": 0.004187
+      },
+      {
+        "name": "globalisation",
+        "share": 0.004187
+      },
+      {
+        "name": "investment",
+        "share": 0.004187
+      },
+      {
+        "name": "central banks",
+        "share": 0.004067
+      },
+      {
+        "name": "financial sector",
+        "share": 0.003947
+      },
+      {
+        "name": "labour market",
+        "share": 0.003947
+      },
+      {
+        "name": "education",
+        "share": 0.003828
+      },
+      {
+        "name": "growth",
+        "share": 0.003828
+      },
+      {
+        "name": "financial services",
+        "share": 0.003589
+      }
+    ]
+  },
+  {
+    "period": "2008-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.045465
+      },
+      {
+        "name": "inflation",
+        "share": 0.035821
+      },
+      {
+        "name": "financial stability",
+        "share": 0.031458
+      },
+      {
+        "name": "economic growth",
+        "share": 0.025373
+      },
+      {
+        "name": "risk management",
+        "share": 0.018255
+      },
+      {
+        "name": "financial markets",
+        "share": 0.016418
+      },
+      {
+        "name": "liquidity",
+        "share": 0.014696
+      },
+      {
+        "name": "financial crisis",
+        "share": 0.011711
+      },
+      {
+        "name": "price stability",
+        "share": 0.011711
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.008381
+      },
+      {
+        "name": "commodity prices",
+        "share": 0.006544
+      },
+      {
+        "name": "interest rates",
+        "share": 0.006315
+      },
+      {
+        "name": "central bank",
+        "share": 0.0062
+      },
+      {
+        "name": "transparency",
+        "share": 0.006085
+      },
+      {
+        "name": "central banks",
+        "share": 0.005741
+      },
+      {
+        "name": "financial innovation",
+        "share": 0.005166
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.005166
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.004822
+      },
+      {
+        "name": "credit",
+        "share": 0.004363
+      },
+      {
+        "name": "financial integration",
+        "share": 0.004248
+      },
+      {
+        "name": "financial regulation",
+        "share": 0.004248
+      },
+      {
+        "name": "banking sector",
+        "share": 0.004133
+      },
+      {
+        "name": "global economy",
+        "share": 0.004133
+      },
+      {
+        "name": "regulation",
+        "share": 0.004018
+      },
+      {
+        "name": "inflation targeting",
+        "share": 0.003904
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.003789
+      },
+      {
+        "name": "basel ii",
+        "share": 0.003674
+      },
+      {
+        "name": "risk",
+        "share": 0.003674
+      },
+      {
+        "name": "housing market",
+        "share": 0.003559
+      },
+      {
+        "name": "productivity",
+        "share": 0.003559
+      }
+    ]
+  },
+  {
+    "period": "2009-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.044575
+      },
+      {
+        "name": "financial stability",
+        "share": 0.037264
+      },
+      {
+        "name": "financial crisis",
+        "share": 0.029245
+      },
+      {
+        "name": "inflation",
+        "share": 0.025354
+      },
+      {
+        "name": "economic growth",
+        "share": 0.017925
+      },
+      {
+        "name": "risk management",
+        "share": 0.016038
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.01592
+      },
+      {
+        "name": "liquidity",
+        "share": 0.013561
+      },
+      {
+        "name": "interest rates",
+        "share": 0.009198
+      },
+      {
+        "name": "economic recovery",
+        "share": 0.008726
+      },
+      {
+        "name": "financial regulation",
+        "share": 0.008608
+      },
+      {
+        "name": "financial markets",
+        "share": 0.008373
+      },
+      {
+        "name": "systemic risk",
+        "share": 0.008373
+      },
+      {
+        "name": "price stability",
+        "share": 0.008255
+      },
+      {
+        "name": "global financial crisis",
+        "share": 0.007311
+      },
+      {
+        "name": "credit",
+        "share": 0.005896
+      },
+      {
+        "name": "banking sector",
+        "share": 0.005778
+      },
+      {
+        "name": "regulation",
+        "share": 0.00566
+      },
+      {
+        "name": "banking system",
+        "share": 0.005425
+      },
+      {
+        "name": "global economy",
+        "share": 0.005425
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.005071
+      },
+      {
+        "name": "financial system",
+        "share": 0.004717
+      },
+      {
+        "name": "central bank",
+        "share": 0.004599
+      },
+      {
+        "name": "central banks",
+        "share": 0.004599
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.004599
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.004363
+      },
+      {
+        "name": "capital requirements",
+        "share": 0.004245
+      },
+      {
+        "name": "transparency",
+        "share": 0.004009
+      },
+      {
+        "name": "financial sector",
+        "share": 0.003774
+      },
+      {
+        "name": "regulatory framework",
+        "share": 0.003538
+      }
+    ]
+  },
+  {
+    "period": "2010-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.042044
+      },
+      {
+        "name": "financial stability",
+        "share": 0.034984
+      },
+      {
+        "name": "inflation",
+        "share": 0.026133
+      },
+      {
+        "name": "economic growth",
+        "share": 0.019283
+      },
+      {
+        "name": "financial crisis",
+        "share": 0.018124
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.014015
+      },
+      {
+        "name": "risk management",
+        "share": 0.010537
+      },
+      {
+        "name": "economic recovery",
+        "share": 0.009905
+      },
+      {
+        "name": "price stability",
+        "share": 0.00843
+      },
+      {
+        "name": "interest rates",
+        "share": 0.008114
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.007482
+      },
+      {
+        "name": "liquidity",
+        "share": 0.007482
+      },
+      {
+        "name": "systemic risk",
+        "share": 0.007271
+      },
+      {
+        "name": "financial regulation",
+        "share": 0.006639
+      },
+      {
+        "name": "central bank",
+        "share": 0.00569
+      },
+      {
+        "name": "financial markets",
+        "share": 0.005585
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.005479
+      },
+      {
+        "name": "exchange rate",
+        "share": 0.004847
+      },
+      {
+        "name": "fiscal consolidation",
+        "share": 0.004636
+      },
+      {
+        "name": "global economy",
+        "share": 0.00432
+      },
+      {
+        "name": "basel iii",
+        "share": 0.004215
+      },
+      {
+        "name": "global financial crisis",
+        "share": 0.00411
+      },
+      {
+        "name": "unemployment",
+        "share": 0.00411
+      },
+      {
+        "name": "banking sector",
+        "share": 0.003899
+      },
+      {
+        "name": "inflation targeting",
+        "share": 0.003899
+      },
+      {
+        "name": "economic development",
+        "share": 0.003583
+      },
+      {
+        "name": "credit",
+        "share": 0.003477
+      },
+      {
+        "name": "financial literacy",
+        "share": 0.003477
+      },
+      {
+        "name": "islamic finance",
+        "share": 0.003477
+      },
+      {
+        "name": "banking system",
+        "share": 0.003267
+      }
+    ]
+  },
+  {
+    "period": "2011-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.044386
+      },
+      {
+        "name": "financial stability",
+        "share": 0.033263
+      },
+      {
+        "name": "inflation",
+        "share": 0.028814
+      },
+      {
+        "name": "economic growth",
+        "share": 0.020233
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.015466
+      },
+      {
+        "name": "financial crisis",
+        "share": 0.011653
+      },
+      {
+        "name": "price stability",
+        "share": 0.010169
+      },
+      {
+        "name": "risk management",
+        "share": 0.009004
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.008581
+      },
+      {
+        "name": "financial markets",
+        "share": 0.007203
+      },
+      {
+        "name": "basel iii",
+        "share": 0.00678
+      },
+      {
+        "name": "systemic risk",
+        "share": 0.006356
+      },
+      {
+        "name": "euro area",
+        "share": 0.006144
+      },
+      {
+        "name": "fiscal consolidation",
+        "share": 0.006144
+      },
+      {
+        "name": "interest rates",
+        "share": 0.006144
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.005508
+      },
+      {
+        "name": "economic recovery",
+        "share": 0.005297
+      },
+      {
+        "name": "liquidity",
+        "share": 0.005085
+      },
+      {
+        "name": "growth",
+        "share": 0.004767
+      },
+      {
+        "name": "economic governance",
+        "share": 0.004661
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.004449
+      },
+      {
+        "name": "global economy",
+        "share": 0.004449
+      },
+      {
+        "name": "unemployment",
+        "share": 0.004449
+      },
+      {
+        "name": "commodity prices",
+        "share": 0.004343
+      },
+      {
+        "name": "financial regulation",
+        "share": 0.004237
+      },
+      {
+        "name": "sovereign debt crisis",
+        "share": 0.004237
+      },
+      {
+        "name": "banking sector",
+        "share": 0.003602
+      },
+      {
+        "name": "central bank",
+        "share": 0.003602
+      },
+      {
+        "name": "sovereign debt",
+        "share": 0.00339
+      },
+      {
+        "name": "capital flows",
+        "share": 0.003284
+      }
+    ]
+  },
+  {
+    "period": "2012-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.039608
+      },
+      {
+        "name": "financial stability",
+        "share": 0.034494
+      },
+      {
+        "name": "inflation",
+        "share": 0.021001
+      },
+      {
+        "name": "economic growth",
+        "share": 0.019369
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.014472
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.011425
+      },
+      {
+        "name": "risk management",
+        "share": 0.009032
+      },
+      {
+        "name": "fiscal consolidation",
+        "share": 0.008596
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.008161
+      },
+      {
+        "name": "financial crisis",
+        "share": 0.007943
+      },
+      {
+        "name": "price stability",
+        "share": 0.007726
+      },
+      {
+        "name": "interest rates",
+        "share": 0.006202
+      },
+      {
+        "name": "basel iii",
+        "share": 0.00555
+      },
+      {
+        "name": "financial markets",
+        "share": 0.005441
+      },
+      {
+        "name": "systemic risk",
+        "share": 0.005223
+      },
+      {
+        "name": "euro area",
+        "share": 0.004897
+      },
+      {
+        "name": "growth",
+        "share": 0.004897
+      },
+      {
+        "name": "liquidity",
+        "share": 0.004461
+      },
+      {
+        "name": "financial regulation",
+        "share": 0.004353
+      },
+      {
+        "name": "competitiveness",
+        "share": 0.004244
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.004244
+      },
+      {
+        "name": "financial literacy",
+        "share": 0.004244
+      },
+      {
+        "name": "banking union",
+        "share": 0.004135
+      },
+      {
+        "name": "central bank",
+        "share": 0.004026
+      },
+      {
+        "name": "exchange rate",
+        "share": 0.004026
+      },
+      {
+        "name": "unemployment",
+        "share": 0.0037
+      },
+      {
+        "name": "economic recovery",
+        "share": 0.003373
+      },
+      {
+        "name": "sovereign debt crisis",
+        "share": 0.003373
+      },
+      {
+        "name": "central banks",
+        "share": 0.003264
+      },
+      {
+        "name": "global economy",
+        "share": 0.003264
+      }
+    ]
+  },
+  {
+    "period": "2013-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.039482
+      },
+      {
+        "name": "financial stability",
+        "share": 0.035294
+      },
+      {
+        "name": "inflation",
+        "share": 0.021934
+      },
+      {
+        "name": "economic growth",
+        "share": 0.017248
+      },
+      {
+        "name": "banking union",
+        "share": 0.013858
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.011366
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.010269
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.009571
+      },
+      {
+        "name": "financial crisis",
+        "share": 0.007976
+      },
+      {
+        "name": "price stability",
+        "share": 0.007976
+      },
+      {
+        "name": "risk management",
+        "share": 0.007378
+      },
+      {
+        "name": "interest rates",
+        "share": 0.006979
+      },
+      {
+        "name": "single supervisory mechanism",
+        "share": 0.005085
+      },
+      {
+        "name": "euro area",
+        "share": 0.004985
+      },
+      {
+        "name": "systemic risk",
+        "share": 0.004985
+      },
+      {
+        "name": "financial literacy",
+        "share": 0.004885
+      },
+      {
+        "name": "fiscal consolidation",
+        "share": 0.004885
+      },
+      {
+        "name": "basel iii",
+        "share": 0.004786
+      },
+      {
+        "name": "central bank",
+        "share": 0.004686
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.004586
+      },
+      {
+        "name": "liquidity",
+        "share": 0.004586
+      },
+      {
+        "name": "financial regulation",
+        "share": 0.004487
+      },
+      {
+        "name": "financial markets",
+        "share": 0.004387
+      },
+      {
+        "name": "capital requirements",
+        "share": 0.004287
+      },
+      {
+        "name": "economic recovery",
+        "share": 0.004187
+      },
+      {
+        "name": "growth",
+        "share": 0.004187
+      },
+      {
+        "name": "competitiveness",
+        "share": 0.003988
+      },
+      {
+        "name": "unemployment",
+        "share": 0.003789
+      },
+      {
+        "name": "forward guidance",
+        "share": 0.00349
+      },
+      {
+        "name": "banking system",
+        "share": 0.00339
+      }
+    ]
+  },
+  {
+    "period": "2014-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.043269
+      },
+      {
+        "name": "financial stability",
+        "share": 0.032051
+      },
+      {
+        "name": "inflation",
+        "share": 0.027244
+      },
+      {
+        "name": "economic growth",
+        "share": 0.02062
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.010363
+      },
+      {
+        "name": "banking union",
+        "share": 0.009402
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.008974
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.008226
+      },
+      {
+        "name": "risk management",
+        "share": 0.00812
+      },
+      {
+        "name": "interest rates",
+        "share": 0.007372
+      },
+      {
+        "name": "price stability",
+        "share": 0.006197
+      },
+      {
+        "name": "economic recovery",
+        "share": 0.005556
+      },
+      {
+        "name": "financial crisis",
+        "share": 0.005342
+      },
+      {
+        "name": "credit",
+        "share": 0.004915
+      },
+      {
+        "name": "growth",
+        "share": 0.004915
+      },
+      {
+        "name": "systemic risk",
+        "share": 0.004808
+      },
+      {
+        "name": "forward guidance",
+        "share": 0.004487
+      },
+      {
+        "name": "financial markets",
+        "share": 0.00438
+      },
+      {
+        "name": "investment",
+        "share": 0.004274
+      },
+      {
+        "name": "productivity",
+        "share": 0.00406
+      },
+      {
+        "name": "macroprudential policy",
+        "share": 0.003953
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.003846
+      },
+      {
+        "name": "housing market",
+        "share": 0.003846
+      },
+      {
+        "name": "unemployment",
+        "share": 0.003632
+      },
+      {
+        "name": "central bank",
+        "share": 0.003526
+      },
+      {
+        "name": "euro area",
+        "share": 0.003526
+      },
+      {
+        "name": "exchange rate",
+        "share": 0.003526
+      },
+      {
+        "name": "labor market",
+        "share": 0.003526
+      },
+      {
+        "name": "financial regulation",
+        "share": 0.003205
+      },
+      {
+        "name": "liquidity",
+        "share": 0.003205
+      }
+    ]
+  },
+  {
+    "period": "2015-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.04157
+      },
+      {
+        "name": "financial stability",
+        "share": 0.029792
+      },
+      {
+        "name": "inflation",
+        "share": 0.028984
+      },
+      {
+        "name": "economic growth",
+        "share": 0.01963
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.010046
+      },
+      {
+        "name": "interest rates",
+        "share": 0.009469
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.008891
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.008314
+      },
+      {
+        "name": "risk management",
+        "share": 0.008314
+      },
+      {
+        "name": "price stability",
+        "share": 0.007044
+      },
+      {
+        "name": "exchange rate",
+        "share": 0.006582
+      },
+      {
+        "name": "banking union",
+        "share": 0.005658
+      },
+      {
+        "name": "euro area",
+        "share": 0.005543
+      },
+      {
+        "name": "economic recovery",
+        "share": 0.005196
+      },
+      {
+        "name": "growth",
+        "share": 0.005081
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.004965
+      },
+      {
+        "name": "liquidity",
+        "share": 0.004734
+      },
+      {
+        "name": "financial markets",
+        "share": 0.004619
+      },
+      {
+        "name": "innovation",
+        "share": 0.004619
+      },
+      {
+        "name": "macroprudential policy",
+        "share": 0.004619
+      },
+      {
+        "name": "global economy",
+        "share": 0.004273
+      },
+      {
+        "name": "inflation expectations",
+        "share": 0.004273
+      },
+      {
+        "name": "capital markets union",
+        "share": 0.004157
+      },
+      {
+        "name": "ecb",
+        "share": 0.004157
+      },
+      {
+        "name": "oil prices",
+        "share": 0.004042
+      },
+      {
+        "name": "regulation",
+        "share": 0.004042
+      },
+      {
+        "name": "capital requirements",
+        "share": 0.003926
+      },
+      {
+        "name": "financial crisis",
+        "share": 0.003926
+      },
+      {
+        "name": "deflation",
+        "share": 0.003811
+      },
+      {
+        "name": "investment",
+        "share": 0.003811
+      }
+    ]
+  },
+  {
+    "period": "2016-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.046432
+      },
+      {
+        "name": "financial stability",
+        "share": 0.035895
+      },
+      {
+        "name": "inflation",
+        "share": 0.030845
+      },
+      {
+        "name": "economic growth",
+        "share": 0.023161
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.015368
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.010648
+      },
+      {
+        "name": "interest rates",
+        "share": 0.010428
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.009001
+      },
+      {
+        "name": "risk management",
+        "share": 0.007574
+      },
+      {
+        "name": "brexit",
+        "share": 0.007025
+      },
+      {
+        "name": "price stability",
+        "share": 0.006476
+      },
+      {
+        "name": "regulation",
+        "share": 0.006147
+      },
+      {
+        "name": "growth",
+        "share": 0.005818
+      },
+      {
+        "name": "financial markets",
+        "share": 0.005488
+      },
+      {
+        "name": "exchange rate",
+        "share": 0.005159
+      },
+      {
+        "name": "innovation",
+        "share": 0.005049
+      },
+      {
+        "name": "banking union",
+        "share": 0.00494
+      },
+      {
+        "name": "non-performing loans",
+        "share": 0.004501
+      },
+      {
+        "name": "investment",
+        "share": 0.004391
+      },
+      {
+        "name": "banking sector",
+        "share": 0.004171
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.004061
+      },
+      {
+        "name": "fintech",
+        "share": 0.004061
+      },
+      {
+        "name": "global economy",
+        "share": 0.003952
+      },
+      {
+        "name": "productivity",
+        "share": 0.003952
+      },
+      {
+        "name": "economic recovery",
+        "share": 0.003842
+      },
+      {
+        "name": "financial crisis",
+        "share": 0.003842
+      },
+      {
+        "name": "risk",
+        "share": 0.003622
+      },
+      {
+        "name": "central bank",
+        "share": 0.003513
+      },
+      {
+        "name": "euro area",
+        "share": 0.003403
+      },
+      {
+        "name": "labor market",
+        "share": 0.003293
+      }
+    ]
+  },
+  {
+    "period": "2017-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.039961
+      },
+      {
+        "name": "financial stability",
+        "share": 0.030167
+      },
+      {
+        "name": "inflation",
+        "share": 0.024682
+      },
+      {
+        "name": "economic growth",
+        "share": 0.022037
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.00999
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.009696
+      },
+      {
+        "name": "risk management",
+        "share": 0.008423
+      },
+      {
+        "name": "interest rates",
+        "share": 0.008129
+      },
+      {
+        "name": "brexit",
+        "share": 0.006954
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.006562
+      },
+      {
+        "name": "regulation",
+        "share": 0.005779
+      },
+      {
+        "name": "banking union",
+        "share": 0.005681
+      },
+      {
+        "name": "fintech",
+        "share": 0.005583
+      },
+      {
+        "name": "innovation",
+        "share": 0.005485
+      },
+      {
+        "name": "productivity",
+        "share": 0.005191
+      },
+      {
+        "name": "price stability",
+        "share": 0.004995
+      },
+      {
+        "name": "non-performing loans",
+        "share": 0.004897
+      },
+      {
+        "name": "investment",
+        "share": 0.004603
+      },
+      {
+        "name": "exchange rate",
+        "share": 0.004407
+      },
+      {
+        "name": "labour market",
+        "share": 0.004114
+      },
+      {
+        "name": "financial crisis",
+        "share": 0.003918
+      },
+      {
+        "name": "economic recovery",
+        "share": 0.003722
+      },
+      {
+        "name": "financial regulation",
+        "share": 0.003722
+      },
+      {
+        "name": "basel iii",
+        "share": 0.003526
+      },
+      {
+        "name": "growth",
+        "share": 0.003428
+      },
+      {
+        "name": "labor market",
+        "share": 0.003428
+      },
+      {
+        "name": "unemployment",
+        "share": 0.003428
+      },
+      {
+        "name": "financial markets",
+        "share": 0.00333
+      },
+      {
+        "name": "macroprudential policy",
+        "share": 0.00333
+      },
+      {
+        "name": "euro area",
+        "share": 0.003232
+      }
+    ]
+  },
+  {
+    "period": "2018-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.039653
+      },
+      {
+        "name": "financial stability",
+        "share": 0.036511
+      },
+      {
+        "name": "inflation",
+        "share": 0.024594
+      },
+      {
+        "name": "economic growth",
+        "share": 0.022969
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.009859
+      },
+      {
+        "name": "interest rates",
+        "share": 0.009859
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.009642
+      },
+      {
+        "name": "innovation",
+        "share": 0.008342
+      },
+      {
+        "name": "banking union",
+        "share": 0.007909
+      },
+      {
+        "name": "risk management",
+        "share": 0.007801
+      },
+      {
+        "name": "fintech",
+        "share": 0.007476
+      },
+      {
+        "name": "brexit",
+        "share": 0.00585
+      },
+      {
+        "name": "regulation",
+        "share": 0.005742
+      },
+      {
+        "name": "productivity",
+        "share": 0.005634
+      },
+      {
+        "name": "price stability",
+        "share": 0.005309
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.005309
+      },
+      {
+        "name": "investment",
+        "share": 0.00455
+      },
+      {
+        "name": "central bank",
+        "share": 0.004334
+      },
+      {
+        "name": "financial crisis",
+        "share": 0.004334
+      },
+      {
+        "name": "macroprudential policy",
+        "share": 0.004334
+      },
+      {
+        "name": "non-performing loans",
+        "share": 0.003792
+      },
+      {
+        "name": "financial services",
+        "share": 0.003684
+      },
+      {
+        "name": "financial markets",
+        "share": 0.003575
+      },
+      {
+        "name": "financial system",
+        "share": 0.003467
+      },
+      {
+        "name": "labor market",
+        "share": 0.003467
+      },
+      {
+        "name": "euro area",
+        "share": 0.003359
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.00325
+      },
+      {
+        "name": "technology",
+        "share": 0.00325
+      },
+      {
+        "name": "cybersecurity",
+        "share": 0.003142
+      },
+      {
+        "name": "labour market",
+        "share": 0.003142
+      }
+    ]
+  },
+  {
+    "period": "2019-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.041246
+      },
+      {
+        "name": "financial stability",
+        "share": 0.034619
+      },
+      {
+        "name": "inflation",
+        "share": 0.026212
+      },
+      {
+        "name": "economic growth",
+        "share": 0.020772
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.012067
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.011968
+      },
+      {
+        "name": "interest rates",
+        "share": 0.00999
+      },
+      {
+        "name": "climate change",
+        "share": 0.009693
+      },
+      {
+        "name": "risk management",
+        "share": 0.007616
+      },
+      {
+        "name": "brexit",
+        "share": 0.006825
+      },
+      {
+        "name": "innovation",
+        "share": 0.006231
+      },
+      {
+        "name": "fintech",
+        "share": 0.005836
+      },
+      {
+        "name": "structural reforms",
+        "share": 0.005836
+      },
+      {
+        "name": "banking union",
+        "share": 0.005143
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.004946
+      },
+      {
+        "name": "investment",
+        "share": 0.004847
+      },
+      {
+        "name": "macroprudential policy",
+        "share": 0.004847
+      },
+      {
+        "name": "price stability",
+        "share": 0.004748
+      },
+      {
+        "name": "central banks",
+        "share": 0.003956
+      },
+      {
+        "name": "financial markets",
+        "share": 0.003858
+      },
+      {
+        "name": "regulation",
+        "share": 0.003858
+      },
+      {
+        "name": "productivity",
+        "share": 0.003759
+      },
+      {
+        "name": "banking sector",
+        "share": 0.003561
+      },
+      {
+        "name": "green finance",
+        "share": 0.003561
+      },
+      {
+        "name": "communication",
+        "share": 0.003462
+      },
+      {
+        "name": "global economy",
+        "share": 0.003462
+      },
+      {
+        "name": "capital markets union",
+        "share": 0.003363
+      },
+      {
+        "name": "digitalisation",
+        "share": 0.003363
+      },
+      {
+        "name": "resilience",
+        "share": 0.003264
+      },
+      {
+        "name": "employment",
+        "share": 0.003165
+      }
+    ]
+  },
+  {
+    "period": "2020-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.049086
+      },
+      {
+        "name": "financial stability",
+        "share": 0.034177
+      },
+      {
+        "name": "inflation",
+        "share": 0.026442
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.023769
+      },
+      {
+        "name": "covid-19",
+        "share": 0.018987
+      },
+      {
+        "name": "economic recovery",
+        "share": 0.016456
+      },
+      {
+        "name": "climate change",
+        "share": 0.011111
+      },
+      {
+        "name": "economic growth",
+        "share": 0.01097
+      },
+      {
+        "name": "financial markets",
+        "share": 0.009423
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.009283
+      },
+      {
+        "name": "liquidity",
+        "share": 0.00872
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.007876
+      },
+      {
+        "name": "interest rates",
+        "share": 0.007454
+      },
+      {
+        "name": "innovation",
+        "share": 0.006048
+      },
+      {
+        "name": "risk management",
+        "share": 0.005626
+      },
+      {
+        "name": "digitalisation",
+        "share": 0.004782
+      },
+      {
+        "name": "fintech",
+        "share": 0.004782
+      },
+      {
+        "name": "price stability",
+        "share": 0.004782
+      },
+      {
+        "name": "covid-19 pandemic",
+        "share": 0.004641
+      },
+      {
+        "name": "pandemic",
+        "share": 0.004641
+      },
+      {
+        "name": "unemployment",
+        "share": 0.00436
+      },
+      {
+        "name": "banking sector",
+        "share": 0.004079
+      },
+      {
+        "name": "digital payments",
+        "share": 0.004079
+      },
+      {
+        "name": "sustainability",
+        "share": 0.004079
+      },
+      {
+        "name": "financial system",
+        "share": 0.003938
+      },
+      {
+        "name": "coronavirus",
+        "share": 0.003657
+      },
+      {
+        "name": "credit",
+        "share": 0.003657
+      },
+      {
+        "name": "digitalization",
+        "share": 0.003516
+      },
+      {
+        "name": "resilience",
+        "share": 0.003516
+      },
+      {
+        "name": "banking union",
+        "share": 0.003376
+      }
+    ]
+  },
+  {
+    "period": "2021-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.04494
+      },
+      {
+        "name": "financial stability",
+        "share": 0.031845
+      },
+      {
+        "name": "inflation",
+        "share": 0.029315
+      },
+      {
+        "name": "climate change",
+        "share": 0.019643
+      },
+      {
+        "name": "economic recovery",
+        "share": 0.016071
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.015625
+      },
+      {
+        "name": "covid-19",
+        "share": 0.011905
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.00997
+      },
+      {
+        "name": "economic growth",
+        "share": 0.009524
+      },
+      {
+        "name": "innovation",
+        "share": 0.008036
+      },
+      {
+        "name": "pandemic",
+        "share": 0.007292
+      },
+      {
+        "name": "price stability",
+        "share": 0.006994
+      },
+      {
+        "name": "sustainability",
+        "share": 0.006845
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.006399
+      },
+      {
+        "name": "green finance",
+        "share": 0.00625
+      },
+      {
+        "name": "risk management",
+        "share": 0.00625
+      },
+      {
+        "name": "interest rates",
+        "share": 0.005952
+      },
+      {
+        "name": "labor market",
+        "share": 0.005804
+      },
+      {
+        "name": "sustainable finance",
+        "share": 0.005804
+      },
+      {
+        "name": "digitalisation",
+        "share": 0.004762
+      },
+      {
+        "name": "inflation expectations",
+        "share": 0.004762
+      },
+      {
+        "name": "resilience",
+        "share": 0.004762
+      },
+      {
+        "name": "cross-border payments",
+        "share": 0.004464
+      },
+      {
+        "name": "digitalization",
+        "share": 0.004464
+      },
+      {
+        "name": "digital transformation",
+        "share": 0.004315
+      },
+      {
+        "name": "employment",
+        "share": 0.004167
+      },
+      {
+        "name": "central bank digital currency",
+        "share": 0.004018
+      },
+      {
+        "name": "fintech",
+        "share": 0.003869
+      },
+      {
+        "name": "financial markets",
+        "share": 0.00372
+      },
+      {
+        "name": "labour market",
+        "share": 0.00372
+      }
+    ]
+  },
+  {
+    "period": "2022-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.051248
+      },
+      {
+        "name": "inflation",
+        "share": 0.050986
+      },
+      {
+        "name": "financial stability",
+        "share": 0.032852
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.018265
+      },
+      {
+        "name": "economic growth",
+        "share": 0.01774
+      },
+      {
+        "name": "interest rates",
+        "share": 0.016689
+      },
+      {
+        "name": "climate change",
+        "share": 0.013535
+      },
+      {
+        "name": "price stability",
+        "share": 0.010644
+      },
+      {
+        "name": "energy prices",
+        "share": 0.009593
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.008673
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.008147
+      },
+      {
+        "name": "inflation expectations",
+        "share": 0.008016
+      },
+      {
+        "name": "innovation",
+        "share": 0.006965
+      },
+      {
+        "name": "labor market",
+        "share": 0.00657
+      },
+      {
+        "name": "risk management",
+        "share": 0.006176
+      },
+      {
+        "name": "economic recovery",
+        "share": 0.00565
+      },
+      {
+        "name": "labour market",
+        "share": 0.005388
+      },
+      {
+        "name": "wage growth",
+        "share": 0.004862
+      },
+      {
+        "name": "sustainability",
+        "share": 0.004731
+      },
+      {
+        "name": "covid-19",
+        "share": 0.004205
+      },
+      {
+        "name": "digitalisation",
+        "share": 0.003811
+      },
+      {
+        "name": "digitalization",
+        "share": 0.003811
+      },
+      {
+        "name": "macroprudential policy",
+        "share": 0.003811
+      },
+      {
+        "name": "regulation",
+        "share": 0.003811
+      },
+      {
+        "name": "sustainable finance",
+        "share": 0.003679
+      },
+      {
+        "name": "banking sector",
+        "share": 0.003548
+      },
+      {
+        "name": "crypto-assets",
+        "share": 0.003548
+      },
+      {
+        "name": "stablecoins",
+        "share": 0.003548
+      },
+      {
+        "name": "central bank",
+        "share": 0.003417
+      },
+      {
+        "name": "central banks",
+        "share": 0.003417
+      }
+    ]
+  },
+  {
+    "period": "2023-12",
+    "topics": [
+      {
+        "name": "monetary policy",
+        "share": 0.047973
+      },
+      {
+        "name": "inflation",
+        "share": 0.045676
+      },
+      {
+        "name": "financial stability",
+        "share": 0.035405
+      },
+      {
+        "name": "economic growth",
+        "share": 0.020135
+      },
+      {
+        "name": "interest rates",
+        "share": 0.017973
+      },
+      {
+        "name": "climate change",
+        "share": 0.012973
+      },
+      {
+        "name": "fiscal policy",
+        "share": 0.012297
+      },
+      {
+        "name": "price stability",
+        "share": 0.010676
+      },
+      {
+        "name": "economic outlook",
+        "share": 0.009054
+      },
+      {
+        "name": "wage growth",
+        "share": 0.007568
+      },
+      {
+        "name": "labor market",
+        "share": 0.007297
+      },
+      {
+        "name": "financial inclusion",
+        "share": 0.007027
+      },
+      {
+        "name": "risk management",
+        "share": 0.007027
+      },
+      {
+        "name": "labour market",
+        "share": 0.005946
+      },
+      {
+        "name": "inflation expectations",
+        "share": 0.005811
+      },
+      {
+        "name": "innovation",
+        "share": 0.00527
+      },
+      {
+        "name": "sustainability",
+        "share": 0.00527
+      },
+      {
+        "name": "resilience",
+        "share": 0.00473
+      },
+      {
+        "name": "central bank",
+        "share": 0.004054
+      },
+      {
+        "name": "energy prices",
+        "share": 0.004054
+      },
+      {
+        "name": "banking sector",
+        "share": 0.003784
+      },
+      {
+        "name": "green finance",
+        "share": 0.003784
+      },
+      {
+        "name": "core inflation",
+        "share": 0.003514
+      },
+      {
+        "name": "financial markets",
+        "share": 0.003514
+      },
+      {
+        "name": "regulation",
+        "share": 0.003514
+      },
+      {
+        "name": "cross-border payments",
+        "share": 0.003378
+      },
+      {
+        "name": "sustainable finance",
+        "share": 0.003243
+      },
+      {
+        "name": "fintech",
+        "share": 0.002973
+      },
+      {
+        "name": "global economy",
+        "share": 0.002973
+      },
+      {
+        "name": "productivity",
+        "share": 0.002838
+      }
+    ]
+  }
+]
