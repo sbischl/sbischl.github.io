@@ -1,1 +1,2022 @@
-{"european central bank":{"country":"EA","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Frankfurt","cb_latitude":50.1109,"cb_longitude":8.6821},"board of governors of the federal reserve system":{"country":"USA","currency":"US Dollar","currency_code":"USD","advanced":1.0,"cb_location":"Washington","cb_latitude":38.9072,"cb_longitude":-77.0369},"bank of england":{"country":"GBR","currency":"Pound Sterling","currency_code":"GBP","advanced":1.0,"cb_location":"London","cb_latitude":51.5074,"cb_longitude":-0.1278},"reserve bank of india":{"country":"IND","currency":"Indian Rupee","currency_code":"INR","advanced":0.0,"cb_location":"Mumbai","cb_latitude":19.076,"cb_longitude":72.8777},"deutsche bundesbank":{"country":"DEU","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Frankfurt","cb_latitude":50.1109,"cb_longitude":8.6821},"bank of japan":{"country":"JPN","currency":"Yen","currency_code":"JPY","advanced":1.0,"cb_location":"Tokyo","cb_latitude":35.6895,"cb_longitude":139.6917},"sveriges riksbank":{"country":"SWE","currency":"Swedish Krona","currency_code":"SEK","advanced":1.0,"cb_location":"Stockholm","cb_latitude":59.3293,"cb_longitude":18.0686},"reserve bank of australia":{"country":"AUS","currency":"Australian Dollar","currency_code":"AUD","advanced":1.0,"cb_location":"Sydney","cb_latitude":-33.8688,"cb_longitude":151.2093},"bank of canada":{"country":"CAN","currency":"Canadian Dollar","currency_code":"CAD","advanced":1.0,"cb_location":"Ottawa","cb_latitude":45.4215,"cb_longitude":-75.6972},"central bank of norway":{"country":"NOR","currency":"Norwegian Krone","currency_code":"NOK","advanced":1.0,"cb_location":"Oslo","cb_latitude":59.9139,"cb_longitude":10.7522},"federal reserve bank of new york":{"country":"USA","currency":"US Dollar","currency_code":"USD","advanced":1.0,"cb_location":"New York City","cb_latitude":40.7128,"cb_longitude":-74.006},"south african reserve bank":{"country":"ZAF","currency":"Rand","currency_code":"ZAR","advanced":0.0,"cb_location":"Pretoria","cb_latitude":-25.7479,"cb_longitude":28.2293},"bank of italy":{"country":"ITA","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Rome","cb_latitude":41.9028,"cb_longitude":12.4964},"central bank of malaysia":{"country":"MYS","currency":"Malaysian Ringgit","currency_code":"MYR","advanced":0.0,"cb_location":"Kuala Lumpur","cb_latitude":3.139,"cb_longitude":101.6869},"bank of spain":{"country":"ESP","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Madrid","cb_latitude":40.4168,"cb_longitude":-3.7038},"central bank of the philippines":{"country":"PHL","currency":"Philippine Peso","currency_code":"PHP","advanced":0.0,"cb_location":"Manila","cb_latitude":14.5995,"cb_longitude":120.9842},"swiss national bank":{"country":"CHE","currency":"Swiss Franc","currency_code":"CHF","advanced":1.0,"cb_location":"Bern","cb_latitude":47.3769,"cb_longitude":8.5417},"central bank of ireland":{"country":"IRL","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Dublin","cb_latitude":53.3498,"cb_longitude":-6.2603},"monetary authority of singapore":{"country":"SGP","currency":"Singapore Dollar","currency_code":"SGD","advanced":1.0,"cb_location":"Singapore","cb_latitude":1.3521,"cb_longitude":103.8198},"bank of france":{"country":"FRA","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Paris","cb_latitude":48.8566,"cb_longitude":2.3522},"reserve bank of new zealand":{"country":"NZL","currency":"New Zealand Dollar","currency_code":"NZD","advanced":1.0,"cb_location":"Wellington","cb_latitude":-41.2865,"cb_longitude":174.7762},"netherlands bank":{"country":"NLD","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Amsterdam","cb_latitude":52.3676,"cb_longitude":4.9041},"hong kong monetary authority":{"country":"HKG","currency":"Hong Kong Dollar","currency_code":"HKD","advanced":1.0,"cb_location":"Hong Kong","cb_latitude":22.3193,"cb_longitude":114.1694},"central bank of chile":{"country":"CHL","currency":"Chilean Peso","currency_code":"CLP","advanced":0.0,"cb_location":"Santiago","cb_latitude":-33.4489,"cb_longitude":-70.6693},"bank of thailand":{"country":"THA","currency":"Baht","currency_code":"THB","advanced":0.0,"cb_location":"Bangkok","cb_latitude":13.7563,"cb_longitude":100.5018},"bank of albania":{"country":"ALB","currency":"Lek","currency_code":"ALL","advanced":0.0,"cb_location":"Tirana","cb_latitude":41.3275,"cb_longitude":19.8189},"bank of finland":{"country":"FIN","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Helsinki","cb_latitude":60.1699,"cb_longitude":24.9384},"bank of greece":{"country":"GRC","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Athens","cb_latitude":37.9838,"cb_longitude":23.7275},"bank of mauritius":{"country":"MUS","currency":"Mauritius Rupee","currency_code":"MUR","advanced":0.0,"cb_location":"Port Louis","cb_latitude":-20.1609,"cb_longitude":57.4977},"state bank of pakistan":{"country":"PAK","currency":"Pakistan Rupee","currency_code":"PKR","advanced":0.0,"cb_location":"Islamabad","cb_latitude":33.6844,"cb_longitude":73.0479},"people's bank of china":{"country":"CHN","currency":"Yuan Renminbi","currency_code":"CNY","advanced":0.0,"cb_location":"Beijing","cb_latitude":39.9042,"cb_longitude":116.4074},"national bank of denmark":{"country":"DNK","currency":"Danish Krone","currency_code":"DKK","advanced":1.0,"cb_location":"Copenhagen","cb_latitude":55.6761,"cb_longitude":12.5683},"reserve bank of fiji":{"country":"FJI","currency":"Fiji Dollar","currency_code":"FJD","advanced":0.0,"cb_location":"Suva","cb_latitude":-18.1248,"cb_longitude":178.4501},"central bank of the republic of turkey":{"country":"TUR","currency":"Turkish Lira","currency_code":"TRY","advanced":0.0,"cb_location":"Ankara","cb_latitude":39.9334,"cb_longitude":32.8597},"central bank of iceland":{"country":"ISL","currency":"Iceland Krona","currency_code":"ISK","advanced":1.0,"cb_location":"Reykjavik","cb_latitude":64.1466,"cb_longitude":-21.9426},"bank indonesia":{"country":"IDN","currency":"Rupiah","currency_code":"IDR","advanced":0.0,"cb_location":"Jakarta","cb_latitude":-6.2088,"cb_longitude":106.8456},"bank of mexico":{"country":"MEX","currency":"Mexican Peso","currency_code":"MXN","advanced":0.0,"cb_location":"Mexico City","cb_latitude":19.4326,"cb_longitude":-99.1332},"central bank of the republic of austria":{"country":"AUT","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Vienna","cb_latitude":48.2082,"cb_longitude":16.3738},"central bank of sri lanka":{"country":"LKA","currency":"Sri Lanka Rupee","currency_code":"LKR","advanced":0.0,"cb_location":"Colombo","cb_latitude":6.9271,"cb_longitude":79.8612},"central bank of kenya":{"country":"KEN","currency":"Kenyan Shilling","currency_code":"KES","advanced":0.0,"cb_location":"Nairobi","cb_latitude":-1.2864,"cb_longitude":36.8172},"central bank of trinidad and tobago":{"country":"TTO","currency":"Trinidad and Tobago Dollar","currency_code":"TTD","advanced":0.0,"cb_location":"Port of Spain","cb_latitude":10.6549,"cb_longitude":-61.5019},"bank of zambia":{"country":"ZMB","currency":"Zambian Kwacha","currency_code":"ZMW","advanced":0.0,"cb_location":"Lusaka","cb_latitude":-15.3875,"cb_longitude":28.3228},"bank of israel":{"country":"ISR","currency":"New Israeli Sheqel","currency_code":"ILS","advanced":1.0,"cb_location":"Jerusalem","cb_latitude":31.7683,"cb_longitude":35.2137},"bank of korea":{"country":"KOR","currency":"Won","currency_code":"KRW","advanced":1.0,"cb_location":"Seoul","cb_latitude":37.5665,"cb_longitude":126.978},"bank of uganda":{"country":"UGA","currency":"Uganda Shilling","currency_code":"UGX","advanced":0.0,"cb_location":"Kampala","cb_latitude":0.3476,"cb_longitude":32.5825},"central bank of malta":{"country":"MLT","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Valletta","cb_latitude":35.8989,"cb_longitude":14.5146},"national bank of serbia":{"country":"SRB","currency":"Serbian Dinar","currency_code":"RSD","advanced":0.0,"cb_location":"Belgrade","cb_latitude":44.7866,"cb_longitude":20.4489},"central bank of barbados":{"country":"BRB","currency":"Barbados Dollar","currency_code":"BBD","advanced":0.0,"cb_location":"Bridgetown","cb_latitude":13.0969,"cb_longitude":-59.6145},"national bank of north macedonia":{"country":"MKD","currency":"Denar","currency_code":"MKD","advanced":0.0,"cb_location":"Skopje","cb_latitude":41.9973,"cb_longitude":21.428},"bank of russia":{"country":"RUS","currency":"Russian Ruble","currency_code":"RUB","advanced":0.0,"cb_location":"Moscow","cb_latitude":55.7558,"cb_longitude":37.6173},"central bank of luxembourg":{"country":"LUX","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Luxembourg City","cb_latitude":49.6116,"cb_longitude":6.1319},"bank of portugal":{"country":"PRT","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Lisbon","cb_latitude":38.7223,"cb_longitude":-9.1393},"national bank of romania":{"country":"ROU","currency":"Romanian Leu","currency_code":"RON","advanced":0.0,"cb_location":"Bucharest","cb_latitude":44.4268,"cb_longitude":26.1025},"central bank of nigeria":{"country":"NGA","currency":"Naira","currency_code":"NGN","advanced":0.0,"cb_location":"Abuja","cb_latitude":9.0579,"cb_longitude":7.4951},"federal reserve bank of philadelphia":{"country":"USA","currency":"US Dollar","currency_code":"USD","advanced":1.0,"cb_location":"Philadelphia","cb_latitude":39.9526,"cb_longitude":-75.1652},"central bank of argentina":{"country":"ARG","currency":"Argentine Peso","currency_code":"ARS","advanced":0.0,"cb_location":"Buenos Aires","cb_latitude":-34.6037,"cb_longitude":-58.3816},"bank of papua new guinea":{"country":"PNG","currency":"Kina","currency_code":"PGK","advanced":0.0,"cb_location":"Port Moresby","cb_latitude":-9.4438,"cb_longitude":147.1803},"czech national bank":{"country":"CZE","currency":"Czech Koruna","currency_code":"CZK","advanced":1.0,"cb_location":"Prague","cb_latitude":50.0755,"cb_longitude":14.4378},"national bank of belgium":{"country":"BEL","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Brussels","cb_latitude":50.8503,"cb_longitude":4.3517},"bank of botswana":{"country":"BWA","currency":"Pula","currency_code":"BWP","advanced":0.0,"cb_location":"Gaborone","cb_latitude":-24.6282,"cb_longitude":25.9231},"federal reserve bank of minneapolis":{"country":"USA","currency":"US Dollar","currency_code":"USD","advanced":1.0,"cb_location":"Minneapolis","cb_latitude":44.9778,"cb_longitude":-93.265},"bank of ghana":{"country":"GHA","currency":"Ghana Cedi","currency_code":"GHS","advanced":0.0,"cb_location":"Accra","cb_latitude":5.6037,"cb_longitude":-0.187},"bank of poland":{"country":"POL","currency":"Zloty","currency_code":"PLN","advanced":0.0,"cb_location":"Warsaw","cb_latitude":52.2297,"cb_longitude":21.0122},"bank for international settlements":{"country":null,"currency":null,"currency_code":null,"advanced":null,"cb_location":"Basel","cb_latitude":47.5596,"cb_longitude":7.5886},"inter-american development bank":{"country":null,"currency":null,"currency_code":null,"advanced":null,"cb_location":"Washington","cb_latitude":38.9072,"cb_longitude":-77.0369},"bank of namibia":{"country":"NAM","currency":"Namibia Dollar","currency_code":"NAD","advanced":0.0,"cb_location":"Windhoek","cb_latitude":-22.5609,"cb_longitude":17.0658},"bank of lithuania":{"country":"LTU","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Vilnius","cb_latitude":54.6872,"cb_longitude":25.2797},"bulgarian national bank":{"country":"BGR","currency":"Bulgarian Lev","currency_code":"BGN","advanced":0.0,"cb_location":"Sofia","cb_latitude":42.6977,"cb_longitude":23.3219},"federal reserve bank of dallas":{"country":"USA","currency":"US Dollar","currency_code":"USD","advanced":1.0,"cb_location":"Dallas","cb_latitude":32.7767,"cb_longitude":-96.797},"federal reserve bank of kansas city":{"country":"USA","currency":"US Dollar","currency_code":"USD","advanced":1.0,"cb_location":"Kansas City","cb_latitude":39.0997,"cb_longitude":-94.5786},"national bank of ukraine":{"country":"UKR","currency":"Hryvnia","currency_code":"UAH","advanced":0.0,"cb_location":"Kyiv","cb_latitude":50.4501,"cb_longitude":30.5234},"bank of estonia":{"country":"EST","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Tallinn","cb_latitude":59.437,"cb_longitude":24.7536},"central bank of bahrain":{"country":"BHR","currency":"Bahraini Dinar","currency_code":"BHD","advanced":0.0,"cb_location":"Manama","cb_latitude":26.2235,"cb_longitude":50.5875},"federal reserve bank of chicago":{"country":"USA","currency":"US Dollar","currency_code":"USD","advanced":1.0,"cb_location":"Chicago","cb_latitude":41.8781,"cb_longitude":-87.6298},"monetary authority of macao":{"country":"MAC","currency":"Pataca","currency_code":"MOP","advanced":1.0,"cb_location":"Macau","cb_latitude":22.1987,"cb_longitude":113.5439},"eastern caribbean central bank":{"country":null,"currency":"East Caribbean Dollar","currency_code":"XCD","advanced":0.0,"cb_location":"Basseterre","cb_latitude":17.3026,"cb_longitude":-62.7177},"saudi arabian monetary agency":{"country":"SAU","currency":"Saudi Riyal","currency_code":"SAR","advanced":0.0,"cb_location":"Riyadh","cb_latitude":24.7136,"cb_longitude":46.6753},"bank of jamaica":{"country":"JAM","currency":"Jamaican Dollar","currency_code":"JMD","advanced":0.0,"cb_location":"Kingston","cb_latitude":18.0179,"cb_longitude":-76.8099},"central bank of cyprus":{"country":"CYP","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Nicosia","cb_latitude":35.1856,"cb_longitude":33.3823},"central bank of cura\u00e7ao and sint maarten":{"country":"CUW","currency":"Netherlands Antillean Guilder","currency_code":"ANG","advanced":0.0,"cb_location":"Willemstad","cb_latitude":12.1091,"cb_longitude":-68.93},"reserve bank of malawi":{"country":"MWI","currency":"Malawi Kwacha","currency_code":"MWK","advanced":0.0,"cb_location":"Lilongwe","cb_latitude":-13.9626,"cb_longitude":33.7741},"central bank of hungary":{"country":"HUN","currency":"Forint","currency_code":"HUF","advanced":0.0,"cb_location":"Budapest","cb_latitude":47.4979,"cb_longitude":19.0402},"central bank of solomon islands":{"country":"SLB","currency":"Solomon Islands Dollar","currency_code":"SBD","advanced":0.0,"cb_location":"Honiara","cb_latitude":-9.4456,"cb_longitude":159.9729},"croatian national bank":{"country":"HRV","currency":"Euro","currency_code":"EUR","advanced":0.0,"cb_location":"Zagreb","cb_latitude":45.815,"cb_longitude":15.9819},"central bank of the bahamas":{"country":"BHS","currency":"Bahamian Dollar","currency_code":"BSD","advanced":0.0,"cb_location":"Nassau","cb_latitude":25.0343,"cb_longitude":-77.3963},"central bank of the republic of kosovo":{"country":"KSV","currency":null,"currency_code":null,"advanced":0.0,"cb_location":"Pristina","cb_latitude":42.6629,"cb_longitude":21.1655},"central bank of bosnia and herzegovina":{"country":"BIH","currency":"Convertible Mark","currency_code":"BAM","advanced":0.0,"cb_location":"Sarajevo","cb_latitude":43.8563,"cb_longitude":18.4131},"bank of slovenia":{"country":"SVN","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Ljubljana","cb_latitude":46.0569,"cb_longitude":14.5058},"bank of latvia":{"country":"LVA","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Riga","cb_latitude":56.9496,"cb_longitude":24.1052},"bank of sierra leone":{"country":"SLE","currency":"Leone","currency_code":"SLL","advanced":0.0,"cb_location":"Freetown","cb_latitude":8.4657,"cb_longitude":-13.2317},"central bank of nepal":{"country":"NPL","currency":"Nepalese Rupee","currency_code":"NPR","advanced":0.0,"cb_location":"Kathmandu","cb_latitude":27.7172,"cb_longitude":85.324},"federal reserve bank of boston":{"country":"USA","currency":"US Dollar","currency_code":"USD","advanced":1.0,"cb_location":"Boston","cb_latitude":42.3601,"cb_longitude":-71.0589},"central bank of seychelles":{"country":"SYC","currency":"Seychelles Rupee","currency_code":"SCR","advanced":0.0,"cb_location":"Victoria","cb_latitude":-4.6191,"cb_longitude":55.4513},"central bank of kuwait":{"country":"KWT","currency":"Kuwaiti Dinar","currency_code":"KWD","advanced":0.0,"cb_location":"Kuwait City","cb_latitude":29.3759,"cb_longitude":47.9774},"central bank of brazil":{"country":"BRA","currency":"Brazilian Real","currency_code":"BRL","advanced":0.0,"cb_location":"Bras\u00edlia","cb_latitude":-15.7942,"cb_longitude":-47.8822},"international monetary fund":{"country":null,"currency":null,"currency_code":null,"advanced":null,"cb_location":"Washington","cb_latitude":38.9072,"cb_longitude":-77.0369},"federal reserve bank of san francisco":{"country":"USA","currency":"US Dollar","currency_code":"USD","advanced":1.0,"cb_location":"San Francisco","cb_latitude":37.7749,"cb_longitude":-122.4194},"central bank of the united arab emirates":{"country":"ARE","currency":"UAE Dirham","currency_code":"AED","advanced":0.0,"cb_location":"Abu Dhabi","cb_latitude":24.4539,"cb_longitude":54.3773},"bank of algeria":{"country":"DZA","currency":"Algerian Dinar","currency_code":"DZD","advanced":0.0,"cb_location":"Algiers","cb_latitude":36.7538,"cb_longitude":3.0588},"central bank of samoa":{"country":"WSM","currency":"Tala","currency_code":"WST","advanced":0.0,"cb_location":"Apia","cb_latitude":-13.8507,"cb_longitude":-171.7512},"central bank of colombia":{"country":"COL","currency":"Colombian Peso","currency_code":"COP","advanced":0.0,"cb_location":"Bogot\u00e1","cb_latitude":4.711,"cb_longitude":-74.0721},"bank of morocco":{"country":"MAR","currency":"Moroccan Dirham","currency_code":"MAD","advanced":0.0,"cb_location":"Rabat","cb_latitude":34.0209,"cb_longitude":-6.8416},"federal reserve bank of richmond":{"country":"USA","currency":"US Dollar","currency_code":"USD","advanced":1.0,"cb_location":"Richmond","cb_latitude":37.5407,"cb_longitude":-77.436},"maldives monetary authority":{"country":"MDV","currency":"Rufiyaa","currency_code":"MVR","advanced":0.0,"cb_location":"Mal\u00e9","cb_latitude":4.1755,"cb_longitude":73.5093},"national bank of slovakia":{"country":"SVK","currency":"Euro","currency_code":"EUR","advanced":1.0,"cb_location":"Bratislava","cb_latitude":48.1486,"cb_longitude":17.1077},"federal reserve bank of atlanta":{"country":"USA","currency":"US Dollar","currency_code":"USD","advanced":1.0,"cb_location":"Atlanta","cb_latitude":33.749,"cb_longitude":-84.388},"bank of mozambique":{"country":"MOZ","currency":"Mozambique Metical","currency_code":"MZN","advanced":0.0,"cb_location":"Maputo","cb_latitude":-25.8918,"cb_longitude":32.6053},"european monetary institute":{"country":null,"currency":null,"currency_code":null,"advanced":null,"cb_location":"Frankfurt","cb_latitude":50.1109,"cb_longitude":8.6821},"central bank of uruguay":{"country":"URY","currency":"Peso Uruguayo","currency_code":"UYU","advanced":0.0,"cb_location":"Montevideo","cb_latitude":-34.9011,"cb_longitude":-56.1645},"central bank of jordan":{"country":"JOR","currency":"Jordanian Dinar","currency_code":"JOD","advanced":0.0,"cb_location":"Amman","cb_latitude":31.9539,"cb_longitude":35.9106},"central bank of bolivia":{"country":"BOL","currency":"Boliviano","currency_code":"BOB","advanced":0.0,"cb_location":"La Paz","cb_latitude":-16.5,"cb_longitude":-68.15},"bank of guyana":{"country":"GUY","currency":"Guyana Dollar","currency_code":"GYD","advanced":0.0,"cb_location":"Georgetown","cb_latitude":6.8013,"cb_longitude":-58.1551},"central bank of aruba":{"country":"ABW","currency":"Aruban Florin","currency_code":"AWG","advanced":0.0,"cb_location":"Oranjestad","cb_latitude":12.5186,"cb_longitude":-70.0358},"reserve bank of vanuatu":{"country":"VUT","currency":"Vatu","currency_code":"VUV","advanced":0.0,"cb_location":"Port Vila","cb_latitude":-17.7333,"cb_longitude":168.327},"bank of guatemala":{"country":"GTM","currency":"Quetzal","currency_code":"GTQ","advanced":0.0,"cb_location":"Guatemala City","cb_latitude":14.6349,"cb_longitude":-90.5069},"central bank of belize":{"country":"BLZ","currency":"Belize Dollar","currency_code":"BZD","advanced":0.0,"cb_location":"Belmopan","cb_latitude":17.251,"cb_longitude":-88.759},"bank of tanzania":{"country":"TZA","currency":"Tanzanian Shilling","currency_code":"TZS","advanced":0.0,"cb_location":"Dar es Salaam","cb_latitude":-6.7924,"cb_longitude":39.2083},"national bank of cambodia":{"country":"KHM","currency":"Riel","currency_code":"KHR","advanced":0.0,"cb_location":"Phnom Penh","cb_latitude":11.5564,"cb_longitude":104.9282},"bank of the netherlands antilles":{"country":"ANT","currency":"Netherlands Antillean Guilder","currency_code":"ANG\u00a0","advanced":0.0,"cb_location":"Willemstad","cb_latitude":12.1091,"cb_longitude":-68.93},"cayman islands monetary authority":{"country":"CYM","currency":"Cayman Dollar+","currency_code":"KYD","advanced":0.0,"cb_location":"George Town","cb_latitude":19.2869,"cb_longitude":-81.3674},"central bank of ecuador":{"country":"ECU","currency":"US Dollar","currency_code":"USD","advanced":0.0,"cb_location":"Quito","cb_latitude":-0.1807,"cb_longitude":-78.4678},"central bank of armenia":{"country":"ARM","currency":"Armenian Dram","currency_code":"AMD","advanced":0.0,"cb_location":"Yerevan","cb_latitude":40.1792,"cb_longitude":44.4991},"central bank of gambia":{"country":"GMB","currency":"Dalasi","currency_code":"GMD","advanced":0.0,"cb_location":"Banjul","cb_latitude":13.4549,"cb_longitude":-16.579},"other":{"country":null,"currency":null,"currency_code":null,"advanced":null,"cb_location":null,"cb_latitude":null,"cb_longitude":null}}
+{
+  "sveriges riksbank": {
+    "number_of_speeches": 495,
+    "name": "Sveriges Riksbank",
+    "cb_location": "Stockholm",
+    "currency": "Swedish Krona",
+    "audiences": {
+      "financial_market": 0.5131313131313131,
+      "academic": 0.2545454545454545,
+      "central_bank": 0.1191919191919192,
+      "political": 0.11313131313131314
+    },
+    "pressures": {
+      "monetary_dominance": 0.7375099116579469,
+      "fiscal_dominance": 0.03681669176715928,
+      "financial_dominance": 0.2256733965748938
+    }
+  },
+  "people's bank of china": {
+    "number_of_speeches": 140,
+    "name": "People's Bank of China",
+    "cb_location": "Beijing",
+    "currency": "Yuan Renminbi",
+    "audiences": {
+      "financial_market": 0.5714285714285714,
+      "central_bank": 0.2357142857142857,
+      "academic": 0.1357142857142857,
+      "political": 0.05714285714285714
+    },
+    "pressures": {
+      "monetary_dominance": 0.5364734501456523,
+      "fiscal_dominance": 0.10606903385342244,
+      "financial_dominance": 0.35745751600092524
+    }
+  },
+  "reserve bank of india": {
+    "number_of_speeches": 914,
+    "name": "Reserve Bank of India",
+    "cb_location": "Mumbai",
+    "currency": "Indian Rupee",
+    "audiences": {
+      "financial_market": 0.4923413566739606,
+      "academic": 0.3544857768052516,
+      "central_bank": 0.12253829321663019,
+      "political": 0.030634573304157548
+    },
+    "pressures": {
+      "monetary_dominance": 0.4861678235456277,
+      "fiscal_dominance": 0.13036313960757162,
+      "financial_dominance": 0.3834690368468006
+    }
+  },
+  "bank of france": {
+    "number_of_speeches": 400,
+    "name": "Bank of France",
+    "cb_location": "Paris",
+    "currency": "Euro",
+    "audiences": {
+      "financial_market": 0.525,
+      "academic": 0.2675,
+      "central_bank": 0.165,
+      "political": 0.0425
+    },
+    "pressures": {
+      "monetary_dominance": 0.678836802495966,
+      "fiscal_dominance": 0.06457850488479383,
+      "financial_dominance": 0.25658469261924016
+    }
+  },
+  "bank of england": {
+    "number_of_speeches": 782,
+    "name": "Bank of England",
+    "cb_location": "London",
+    "currency": "Pound Sterling",
+    "audiences": {
+      "financial_market": 0.6035805626598465,
+      "academic": 0.3248081841432225,
+      "central_bank": 0.04859335038363171,
+      "political": 0.023017902813299233
+    },
+    "pressures": {
+      "monetary_dominance": 0.6612335927851437,
+      "fiscal_dominance": 0.04567955232795883,
+      "financial_dominance": 0.2930868548868974
+    }
+  },
+  "board of governors of the federal reserve system": {
+    "number_of_speeches": 1694,
+    "name": "Board of Governors of the Federal Reserve System",
+    "cb_location": "Washington",
+    "currency": "US Dollar",
+    "audiences": {
+      "academic": 0.3884297520661157,
+      "financial_market": 0.3577331759149941,
+      "political": 0.19067296340023612,
+      "central_bank": 0.06316410861865407
+    },
+    "pressures": {
+      "monetary_dominance": 0.6788415540555776,
+      "fiscal_dominance": 0.0421594875044794,
+      "financial_dominance": 0.2789989584399431
+    }
+  },
+  "bank of japan": {
+    "number_of_speeches": 754,
+    "name": "Bank of Japan",
+    "cb_location": "Tokyo",
+    "currency": "Yen",
+    "audiences": {
+      "financial_market": 0.47214854111405835,
+      "academic": 0.22944297082228116,
+      "central_bank": 0.22811671087533156,
+      "political": 0.07029177718832891
+    },
+    "pressures": {
+      "monetary_dominance": 0.642606602593198,
+      "fiscal_dominance": 0.048341171002542815,
+      "financial_dominance": 0.3090522264042591
+    }
+  },
+  "deutsche bundesbank": {
+    "number_of_speeches": 838,
+    "name": "Deutsche Bundesbank",
+    "cb_location": "Frankfurt",
+    "currency": "Euro",
+    "audiences": {
+      "academic": 0.38066825775656327,
+      "financial_market": 0.33890214797136037,
+      "central_bank": 0.2171837708830549,
+      "political": 0.06324582338902147
+    },
+    "pressures": {
+      "monetary_dominance": 0.6331011288380846,
+      "fiscal_dominance": 0.10569988649909036,
+      "financial_dominance": 0.2611989846628251
+    }
+  },
+  "reserve bank of australia": {
+    "number_of_speeches": 544,
+    "name": "Reserve Bank of Australia",
+    "cb_location": "Sydney",
+    "currency": "Australian Dollar",
+    "audiences": {
+      "financial_market": 0.6378676470588235,
+      "academic": 0.16176470588235295,
+      "political": 0.15992647058823528,
+      "central_bank": 0.04044117647058824
+    },
+    "pressures": {
+      "monetary_dominance": 0.7031441236995837,
+      "fiscal_dominance": 0.055143529263273115,
+      "financial_dominance": 0.24171234703714312
+    }
+  },
+  "central bank of ireland": {
+    "number_of_speeches": 341,
+    "name": "Central Bank of Ireland",
+    "cb_location": "Dublin",
+    "currency": "Euro",
+    "audiences": {
+      "financial_market": 0.3519061583577713,
+      "academic": 0.2785923753665689,
+      "central_bank": 0.19941348973607037,
+      "political": 0.17008797653958943
+    },
+    "pressures": {
+      "monetary_dominance": 0.5711968675372588,
+      "fiscal_dominance": 0.128902576673378,
+      "financial_dominance": 0.29990055578936314
+    }
+  },
+  "south african reserve bank": {
+    "number_of_speeches": 402,
+    "name": "South African Reserve Bank",
+    "cb_location": "Pretoria",
+    "currency": "Rand",
+    "audiences": {
+      "financial_market": 0.5398009950248757,
+      "academic": 0.19651741293532338,
+      "central_bank": 0.16666666666666666,
+      "political": 0.09701492537313433
+    },
+    "pressures": {
+      "monetary_dominance": 0.7310826241682088,
+      "fiscal_dominance": 0.07046849197307006,
+      "financial_dominance": 0.19844888385872114
+    }
+  },
+  "hong kong monetary authority": {
+    "number_of_speeches": 274,
+    "name": "Hong Kong Monetary Authority",
+    "cb_location": "Hong Kong",
+    "currency": "Hong Kong Dollar",
+    "audiences": {
+      "financial_market": 0.7700729927007299,
+      "academic": 0.10948905109489052,
+      "central_bank": 0.09854014598540146,
+      "political": 0.021897810218978103
+    },
+    "pressures": {
+      "monetary_dominance": 0.5025101212541278,
+      "fiscal_dominance": 0.06908247650272649,
+      "financial_dominance": 0.42840740224314566
+    }
+  },
+  "bank of canada": {
+    "number_of_speeches": 567,
+    "name": "Bank of Canada",
+    "cb_location": "Ottawa",
+    "currency": "Canadian Dollar",
+    "audiences": {
+      "financial_market": 0.47619047619047616,
+      "central_bank": 0.20105820105820105,
+      "academic": 0.1675485008818342,
+      "political": 0.15520282186948853
+    },
+    "pressures": {
+      "monetary_dominance": 0.8505773198452397,
+      "fiscal_dominance": 0.029196955028805552,
+      "financial_dominance": 0.12022572512595488
+    }
+  },
+  "international monetary fund": {
+    "number_of_speeches": 3,
+    "name": "International Monetary Fund",
+    "cb_location": "Washington",
+    "currency": null,
+    "audiences": {
+      "central_bank": 0.6666666666666666,
+      "academic": 0.3333333333333333
+    },
+    "pressures": {
+      "monetary_dominance": 0.4457142857142857,
+      "fiscal_dominance": 0.0,
+      "financial_dominance": 0.5542857142857142
+    }
+  },
+  "bank of italy": {
+    "number_of_speeches": 400,
+    "name": "Bank of Italy",
+    "cb_location": "Rome",
+    "currency": "Euro",
+    "audiences": {
+      "financial_market": 0.3725,
+      "academic": 0.365,
+      "central_bank": 0.1625,
+      "political": 0.1
+    },
+    "pressures": {
+      "monetary_dominance": 0.6158044610515556,
+      "fiscal_dominance": 0.098950595846096,
+      "financial_dominance": 0.28524494310234827
+    }
+  },
+  "federal reserve bank of new york": {
+    "number_of_speeches": 422,
+    "name": "Federal Reserve Bank of New York",
+    "cb_location": "New York City",
+    "currency": "US Dollar",
+    "audiences": {
+      "financial_market": 0.5710900473933649,
+      "academic": 0.24644549763033174,
+      "central_bank": 0.13507109004739337,
+      "political": 0.04739336492890995
+    },
+    "pressures": {
+      "monetary_dominance": 0.6121787082109639,
+      "fiscal_dominance": 0.05486643107561817,
+      "financial_dominance": 0.33295486071341807
+    }
+  },
+  "reserve bank of new zealand": {
+    "number_of_speeches": 200,
+    "name": "Reserve Bank of New Zealand",
+    "cb_location": "Wellington",
+    "currency": "New Zealand Dollar",
+    "audiences": {
+      "financial_market": 0.625,
+      "academic": 0.21,
+      "central_bank": 0.12,
+      "political": 0.045
+    },
+    "pressures": {
+      "monetary_dominance": 0.6918719287463855,
+      "fiscal_dominance": 0.041621036423283464,
+      "financial_dominance": 0.266507034830331
+    }
+  },
+  "central bank of the republic of turkey": {
+    "number_of_speeches": 98,
+    "name": "Central Bank of the Republic of Turkey",
+    "cb_location": "Ankara",
+    "currency": "Turkish Lira",
+    "audiences": {
+      "central_bank": 0.40816326530612246,
+      "financial_market": 0.29591836734693877,
+      "academic": 0.2653061224489796,
+      "political": 0.030612244897959183
+    },
+    "pressures": {
+      "monetary_dominance": 0.7422858409594829,
+      "fiscal_dominance": 0.07356372412229897,
+      "financial_dominance": 0.18415043491821811
+    }
+  },
+  "swiss national bank": {
+    "number_of_speeches": 405,
+    "name": "Swiss National Bank",
+    "cb_location": "Bern",
+    "currency": "Swiss Franc",
+    "audiences": {
+      "central_bank": 0.4049382716049383,
+      "financial_market": 0.3037037037037037,
+      "academic": 0.27901234567901234,
+      "political": 0.012345679012345678
+    },
+    "pressures": {
+      "monetary_dominance": 0.6797974475868491,
+      "fiscal_dominance": 0.025224729848815113,
+      "financial_dominance": 0.2949778225643358
+    }
+  },
+  "netherlands bank": {
+    "number_of_speeches": 207,
+    "name": "Netherlands Bank",
+    "cb_location": "Amsterdam",
+    "currency": "Euro",
+    "audiences": {
+      "financial_market": 0.4444444444444444,
+      "academic": 0.2995169082125604,
+      "central_bank": 0.20772946859903382,
+      "political": 0.04830917874396135
+    },
+    "pressures": {
+      "monetary_dominance": 0.6405802372951532,
+      "fiscal_dominance": 0.06415148438838436,
+      "financial_dominance": 0.2952682783164624
+    }
+  },
+  "bank for international settlements": {
+    "number_of_speeches": 19,
+    "name": "Bank for International Settlements",
+    "cb_location": "Basel",
+    "currency": null,
+    "audiences": {
+      "academic": 0.47368421052631576,
+      "central_bank": 0.3157894736842105,
+      "financial_market": 0.21052631578947367
+    },
+    "pressures": {
+      "monetary_dominance": 0.4326402679091139,
+      "fiscal_dominance": 0.023769756426803526,
+      "financial_dominance": 0.5435899756640826
+    }
+  },
+  "european monetary institute": {
+    "number_of_speeches": 2,
+    "name": "European Monetary Institute",
+    "cb_location": "Frankfurt",
+    "currency": null,
+    "audiences": {
+      "central_bank": 0.5,
+      "academic": 0.5
+    },
+    "pressures": {
+      "monetary_dominance": 0.6971090670170828,
+      "fiscal_dominance": 0.24178712220762155,
+      "financial_dominance": 0.06110381077529566
+    }
+  },
+  "czech national bank": {
+    "number_of_speeches": 58,
+    "name": "Czech National Bank",
+    "cb_location": "Prague",
+    "currency": "Czech Koruna",
+    "audiences": {
+      "academic": 0.4482758620689655,
+      "financial_market": 0.27586206896551724,
+      "central_bank": 0.22413793103448276,
+      "political": 0.05172413793103448
+    },
+    "pressures": {
+      "monetary_dominance": 0.711705904085941,
+      "fiscal_dominance": 0.06144097077570412,
+      "financial_dominance": 0.22685312513835482
+    }
+  },
+  "bank of finland": {
+    "number_of_speeches": 179,
+    "name": "Bank of Finland",
+    "cb_location": "Helsinki",
+    "currency": "Euro",
+    "audiences": {
+      "academic": 0.4245810055865922,
+      "central_bank": 0.22346368715083798,
+      "financial_market": 0.22346368715083798,
+      "political": 0.12849162011173185
+    },
+    "pressures": {
+      "monetary_dominance": 0.7351938365499228,
+      "fiscal_dominance": 0.050523870059840784,
+      "financial_dominance": 0.2142822933902365
+    }
+  },
+  "european central bank": {
+    "number_of_speeches": 2459,
+    "name": "European Central Bank",
+    "cb_location": "Frankfurt",
+    "currency": "Euro",
+    "audiences": {
+      "central_bank": 0.30459536396909315,
+      "academic": 0.2895485969906466,
+      "financial_market": 0.2818218788125254,
+      "political": 0.12403416022773485
+    },
+    "pressures": {
+      "monetary_dominance": 0.8000105525378858,
+      "fiscal_dominance": 0.039755472846980285,
+      "financial_dominance": 0.16023397461513397
+    }
+  },
+  "bank of korea": {
+    "number_of_speeches": 94,
+    "name": "Bank of Korea",
+    "cb_location": "Seoul",
+    "currency": "Won",
+    "audiences": {
+      "central_bank": 0.5425531914893617,
+      "academic": 0.32978723404255317,
+      "financial_market": 0.11702127659574468,
+      "political": 0.010638297872340425
+    },
+    "pressures": {
+      "monetary_dominance": 0.5588350486234963,
+      "fiscal_dominance": 0.06827668415435961,
+      "financial_dominance": 0.3728882672221441
+    }
+  },
+  "central bank of the republic of austria": {
+    "number_of_speeches": 80,
+    "name": "Central Bank of the Republic of Austria",
+    "cb_location": "Vienna",
+    "currency": "Euro",
+    "audiences": {
+      "academic": 0.675,
+      "financial_market": 0.1625,
+      "political": 0.0875,
+      "central_bank": 0.075
+    },
+    "pressures": {
+      "monetary_dominance": 0.7986293852591757,
+      "fiscal_dominance": 0.0521694053108516,
+      "financial_dominance": 0.14920120942997256
+    }
+  },
+  "central bank of iceland": {
+    "number_of_speeches": 90,
+    "name": "Central Bank of Iceland",
+    "cb_location": "Reykjavik",
+    "currency": "Iceland Krona",
+    "audiences": {
+      "central_bank": 0.4,
+      "financial_market": 0.3333333333333333,
+      "academic": 0.2111111111111111,
+      "political": 0.05555555555555555
+    },
+    "pressures": {
+      "monetary_dominance": 0.6244912423838825,
+      "fiscal_dominance": 0.07596351200430225,
+      "financial_dominance": 0.29954524561181506
+    }
+  },
+  "central bank of norway": {
+    "number_of_speeches": 288,
+    "name": "Central Bank of Norway",
+    "cb_location": "Oslo",
+    "currency": "Norwegian Krone",
+    "audiences": {
+      "academic": 0.3020833333333333,
+      "financial_market": 0.2673611111111111,
+      "central_bank": 0.25,
+      "political": 0.18055555555555555
+    },
+    "pressures": {
+      "monetary_dominance": 0.7560818996010726,
+      "fiscal_dominance": 0.10690714205558391,
+      "financial_dominance": 0.13701095834334343
+    }
+  },
+  "monetary authority of singapore": {
+    "number_of_speeches": 309,
+    "name": "Monetary Authority of Singapore",
+    "cb_location": "Singapore",
+    "currency": "Singapore Dollar",
+    "audiences": {
+      "financial_market": 0.6731391585760518,
+      "central_bank": 0.1650485436893204,
+      "academic": 0.08414239482200647,
+      "political": 0.07766990291262135
+    },
+    "pressures": {
+      "monetary_dominance": 0.5486390430556526,
+      "fiscal_dominance": 0.05169367992555572,
+      "financial_dominance": 0.3996672770187916
+    }
+  },
+  "bank of namibia": {
+    "number_of_speeches": 35,
+    "name": "Bank of Namibia",
+    "cb_location": "Windhoek",
+    "currency": "Namibia Dollar",
+    "audiences": {
+      "central_bank": 0.42857142857142855,
+      "financial_market": 0.42857142857142855,
+      "political": 0.08571428571428572,
+      "academic": 0.05714285714285714
+    },
+    "pressures": {
+      "monetary_dominance": 0.5737958942734919,
+      "fiscal_dominance": 0.010831232209463689,
+      "financial_dominance": 0.41537287351704444
+    }
+  },
+  "bank of latvia": {
+    "number_of_speeches": 11,
+    "name": "Bank of Latvia",
+    "cb_location": "Riga",
+    "currency": "Euro",
+    "audiences": {
+      "central_bank": 0.5454545454545454,
+      "financial_market": 0.45454545454545453
+    },
+    "pressures": {
+      "monetary_dominance": 0.861204128440367,
+      "fiscal_dominance": 0.11354128440366971,
+      "financial_dominance": 0.0252545871559633
+    }
+  },
+  "national bank of belgium": {
+    "number_of_speeches": 38,
+    "name": "National Bank of Belgium",
+    "cb_location": "Brussels",
+    "currency": "Euro",
+    "audiences": {
+      "academic": 0.3684210526315789,
+      "financial_market": 0.34210526315789475,
+      "central_bank": 0.2631578947368421,
+      "political": 0.02631578947368421
+    },
+    "pressures": {
+      "monetary_dominance": 0.8114687148206897,
+      "fiscal_dominance": 0.013766441206229068,
+      "financial_dominance": 0.17476484397308123
+    }
+  },
+  "bank of greece": {
+    "number_of_speeches": 161,
+    "name": "Bank of Greece",
+    "cb_location": "Athens",
+    "currency": "Euro",
+    "audiences": {
+      "academic": 0.37267080745341613,
+      "financial_market": 0.34782608695652173,
+      "central_bank": 0.19875776397515527,
+      "political": 0.08074534161490683
+    },
+    "pressures": {
+      "monetary_dominance": 0.663487962314904,
+      "fiscal_dominance": 0.13253875808024573,
+      "financial_dominance": 0.2039732796048503
+    }
+  },
+  "central bank of malaysia": {
+    "number_of_speeches": 526,
+    "name": "Central Bank of Malaysia",
+    "cb_location": "Kuala Lumpur",
+    "currency": "Malaysian Ringgit",
+    "audiences": {
+      "financial_market": 0.720532319391635,
+      "central_bank": 0.13307984790874525,
+      "academic": 0.12737642585551331,
+      "political": 0.019011406844106463
+    },
+    "pressures": {
+      "monetary_dominance": 0.4633902043856623,
+      "fiscal_dominance": 0.02717030840454296,
+      "financial_dominance": 0.5094394872097948
+    }
+  },
+  "bank indonesia": {
+    "number_of_speeches": 65,
+    "name": "Bank Indonesia",
+    "cb_location": "Jakarta",
+    "currency": "Rupiah",
+    "audiences": {
+      "financial_market": 0.5384615384615384,
+      "central_bank": 0.24615384615384617,
+      "academic": 0.18461538461538463,
+      "political": 0.03076923076923077
+    },
+    "pressures": {
+      "monetary_dominance": 0.6432818808317498,
+      "fiscal_dominance": 0.07327515123072777,
+      "financial_dominance": 0.28344296793752255
+    }
+  },
+  "central bank of brazil": {
+    "number_of_speeches": 11,
+    "name": "Central Bank of Brazil",
+    "cb_location": "Bras\u00edlia",
+    "currency": "Brazilian Real",
+    "audiences": {
+      "financial_market": 0.36363636363636365,
+      "central_bank": 0.2727272727272727,
+      "political": 0.18181818181818182,
+      "academic": 0.18181818181818182
+    },
+    "pressures": {
+      "monetary_dominance": 0.8392929118443023,
+      "fiscal_dominance": 0.04675534058847238,
+      "financial_dominance": 0.11395174756722519
+    }
+  },
+  "bank of thailand": {
+    "number_of_speeches": 226,
+    "name": "Bank of Thailand",
+    "cb_location": "Bangkok",
+    "currency": "Baht",
+    "audiences": {
+      "financial_market": 0.6504424778761062,
+      "central_bank": 0.1592920353982301,
+      "academic": 0.1592920353982301,
+      "political": 0.030973451327433628
+    },
+    "pressures": {
+      "monetary_dominance": 0.5985560487599043,
+      "fiscal_dominance": 0.04235999745442586,
+      "financial_dominance": 0.35908395378566976
+    }
+  },
+  "inter-american development bank": {
+    "number_of_speeches": 1,
+    "name": "Inter-american Development Bank",
+    "cb_location": "Washington",
+    "currency": null,
+    "audiences": {
+      "central_bank": 1.0
+    },
+    "pressures": {
+      "monetary_dominance": 0.4705882352941177,
+      "fiscal_dominance": 0.0,
+      "financial_dominance": 0.5294117647058824
+    }
+  },
+  "national bank of denmark": {
+    "number_of_speeches": 109,
+    "name": "National Bank of Denmark",
+    "cb_location": "Copenhagen",
+    "currency": "Danish Krone",
+    "audiences": {
+      "financial_market": 0.6238532110091743,
+      "central_bank": 0.1743119266055046,
+      "academic": 0.14678899082568808,
+      "political": 0.05504587155963303
+    },
+    "pressures": {
+      "monetary_dominance": 0.606387722038403,
+      "fiscal_dominance": 0.10488261032685021,
+      "financial_dominance": 0.2887296676347469
+    }
+  },
+  "federal reserve bank of san francisco": {
+    "number_of_speeches": 3,
+    "name": "Federal Reserve Bank of San Francisco",
+    "cb_location": "San Francisco",
+    "currency": "US Dollar",
+    "audiences": {
+      "academic": 0.3333333333333333,
+      "political": 0.3333333333333333,
+      "financial_market": 0.3333333333333333
+    },
+    "pressures": {
+      "monetary_dominance": 0.6852589641434264,
+      "fiscal_dominance": 0.0,
+      "financial_dominance": 0.3147410358565737
+    }
+  },
+  "other": {
+    "number_of_speeches": 10,
+    "name": "Other",
+    "cb_location": null,
+    "currency": null,
+    "audiences": {
+      "financial_market": 0.6,
+      "central_bank": 0.4
+    },
+    "pressures": {
+      "monetary_dominance": 0.5405351636327465,
+      "fiscal_dominance": 0.0,
+      "financial_dominance": 0.45946483636725355
+    }
+  },
+  "bank of spain": {
+    "number_of_speeches": 355,
+    "name": "Bank of Spain",
+    "cb_location": "Madrid",
+    "currency": "Euro",
+    "audiences": {
+      "financial_market": 0.4422535211267606,
+      "academic": 0.23380281690140844,
+      "political": 0.16338028169014085,
+      "central_bank": 0.16056338028169015
+    },
+    "pressures": {
+      "monetary_dominance": 0.6839774681389356,
+      "fiscal_dominance": 0.08562299335472318,
+      "financial_dominance": 0.23039953850634126
+    }
+  },
+  "croatian national bank": {
+    "number_of_speeches": 13,
+    "name": "Croatian National Bank",
+    "cb_location": "Zagreb",
+    "currency": "Euro",
+    "audiences": {
+      "academic": 0.38461538461538464,
+      "financial_market": 0.23076923076923078,
+      "political": 0.23076923076923078,
+      "central_bank": 0.15384615384615385
+    },
+    "pressures": {
+      "monetary_dominance": 0.581088814911423,
+      "fiscal_dominance": 0.13291740601872917,
+      "financial_dominance": 0.28599377906984785
+    }
+  },
+  "bank of poland": {
+    "number_of_speeches": 20,
+    "name": "Bank of Poland",
+    "cb_location": "Warsaw",
+    "currency": "Zloty",
+    "audiences": {
+      "academic": 0.45,
+      "financial_market": 0.35,
+      "political": 0.2
+    },
+    "pressures": {
+      "monetary_dominance": 0.6124637071088767,
+      "fiscal_dominance": 0.0415426881813009,
+      "financial_dominance": 0.3459936047098225
+    }
+  },
+  "bank of israel": {
+    "number_of_speeches": 109,
+    "name": "Bank of Israel",
+    "cb_location": "Jerusalem",
+    "currency": "New Israeli Sheqel",
+    "audiences": {
+      "academic": 0.3577981651376147,
+      "financial_market": 0.30275229357798167,
+      "political": 0.21100917431192662,
+      "central_bank": 0.12844036697247707
+    },
+    "pressures": {
+      "monetary_dominance": 0.7040450059599319,
+      "fiscal_dominance": 0.14865167328540752,
+      "financial_dominance": 0.14730332075466054
+    }
+  },
+  "central bank of malta": {
+    "number_of_speeches": 59,
+    "name": "Central Bank of Malta",
+    "cb_location": "Valletta",
+    "currency": "Euro",
+    "audiences": {
+      "financial_market": 0.6949152542372882,
+      "academic": 0.13559322033898305,
+      "central_bank": 0.13559322033898305,
+      "political": 0.03389830508474576
+    },
+    "pressures": {
+      "monetary_dominance": 0.8009104192104382,
+      "fiscal_dominance": 0.09785107201403762,
+      "financial_dominance": 0.10123850877552432
+    }
+  },
+  "state bank of pakistan": {
+    "number_of_speeches": 135,
+    "name": "State Bank of Pakistan",
+    "cb_location": "Islamabad",
+    "currency": "Pakistan Rupee",
+    "audiences": {
+      "financial_market": 0.5777777777777777,
+      "academic": 0.2518518518518518,
+      "political": 0.1111111111111111,
+      "central_bank": 0.05925925925925926
+    },
+    "pressures": {
+      "monetary_dominance": 0.5736886739327,
+      "fiscal_dominance": 0.2715612010144681,
+      "financial_dominance": 0.15475012505283184
+    }
+  },
+  "bank of estonia": {
+    "number_of_speeches": 21,
+    "name": "Bank of Estonia",
+    "cb_location": "Tallinn",
+    "currency": "Euro",
+    "audiences": {
+      "academic": 0.42857142857142855,
+      "political": 0.2857142857142857,
+      "central_bank": 0.19047619047619047,
+      "financial_market": 0.09523809523809523
+    },
+    "pressures": {
+      "monetary_dominance": 0.8599199171596524,
+      "fiscal_dominance": 0.0627725341936621,
+      "financial_dominance": 0.07730754864668551
+    }
+  },
+  "central bank of chile": {
+    "number_of_speeches": 128,
+    "name": "Central Bank of Chile",
+    "cb_location": "Santiago",
+    "currency": "Chilean Peso",
+    "audiences": {
+      "political": 0.4453125,
+      "academic": 0.2265625,
+      "central_bank": 0.171875,
+      "financial_market": 0.15625
+    },
+    "pressures": {
+      "monetary_dominance": 0.7555635276719326,
+      "fiscal_dominance": 0.03853095088470022,
+      "financial_dominance": 0.20590552144336732
+    }
+  },
+  "central bank of bosnia and herzegovina": {
+    "number_of_speeches": 15,
+    "name": "Central Bank of Bosnia and Herzegovina",
+    "cb_location": "Sarajevo",
+    "currency": "Convertible Mark",
+    "audiences": {
+      "central_bank": 0.4666666666666667,
+      "academic": 0.26666666666666666,
+      "financial_market": 0.2,
+      "political": 0.06666666666666667
+    },
+    "pressures": {
+      "monetary_dominance": 0.8376191337040769,
+      "fiscal_dominance": 0.10644496641269174,
+      "financial_dominance": 0.055935899883231374
+    }
+  },
+  "central bank of trinidad and tobago": {
+    "number_of_speeches": 107,
+    "name": "Central Bank of Trinidad and Tobago",
+    "cb_location": "Port of Spain",
+    "currency": "Trinidad and Tobago Dollar",
+    "audiences": {
+      "financial_market": 0.6261682242990654,
+      "central_bank": 0.22429906542056074,
+      "academic": 0.1308411214953271,
+      "political": 0.018691588785046728
+    },
+    "pressures": {
+      "monetary_dominance": 0.4505043389807605,
+      "fiscal_dominance": 0.25609030108507164,
+      "financial_dominance": 0.29340535993416783
+    }
+  },
+  "bank of botswana": {
+    "number_of_speeches": 45,
+    "name": "Bank of Botswana",
+    "cb_location": "Gaborone",
+    "currency": "Pula",
+    "audiences": {
+      "financial_market": 0.5555555555555556,
+      "central_bank": 0.35555555555555557,
+      "political": 0.044444444444444446,
+      "academic": 0.044444444444444446
+    },
+    "pressures": {
+      "monetary_dominance": 0.8468658737963858,
+      "fiscal_dominance": 0.07593902452366978,
+      "financial_dominance": 0.07719510167994442
+    }
+  },
+  "bank of the netherlands antilles": {
+    "number_of_speeches": 20,
+    "name": "Bank of the Netherlands Antilles",
+    "cb_location": "Willemstad",
+    "currency": "Netherlands Antillean Guilder",
+    "audiences": {
+      "financial_market": 0.65,
+      "central_bank": 0.15,
+      "academic": 0.15,
+      "political": 0.05
+    },
+    "pressures": {
+      "monetary_dominance": 0.5918079526633896,
+      "fiscal_dominance": 0.390039633200207,
+      "financial_dominance": 0.018152414136403405
+    }
+  },
+  "national bank of north macedonia": {
+    "number_of_speeches": 90,
+    "name": "National Bank of North Macedonia",
+    "cb_location": "Skopje",
+    "currency": "Denar",
+    "audiences": {
+      "central_bank": 0.43333333333333335,
+      "financial_market": 0.24444444444444444,
+      "academic": 0.2,
+      "political": 0.12222222222222222
+    },
+    "pressures": {
+      "monetary_dominance": 0.7077017697202749,
+      "fiscal_dominance": 0.0407908998257562,
+      "financial_dominance": 0.25150733045396895
+    }
+  },
+  "bank of mauritius": {
+    "number_of_speeches": 162,
+    "name": "Bank of Mauritius",
+    "cb_location": "Port Louis",
+    "currency": "Mauritius Rupee",
+    "audiences": {
+      "financial_market": 0.5617283950617284,
+      "central_bank": 0.345679012345679,
+      "academic": 0.08641975308641975,
+      "political": 0.006172839506172839
+    },
+    "pressures": {
+      "monetary_dominance": 0.5287837976224667,
+      "fiscal_dominance": 0.14915973200778354,
+      "financial_dominance": 0.3220564703697497
+    }
+  },
+  "central bank of luxembourg": {
+    "number_of_speeches": 38,
+    "name": "Central Bank of Luxembourg",
+    "cb_location": "Luxembourg City",
+    "currency": "Euro",
+    "audiences": {
+      "financial_market": 0.5526315789473685,
+      "academic": 0.23684210526315788,
+      "central_bank": 0.13157894736842105,
+      "political": 0.07894736842105263
+    },
+    "pressures": {
+      "monetary_dominance": 0.671851777759502,
+      "fiscal_dominance": 0.0672214979946267,
+      "financial_dominance": 0.26092672424587127
+    }
+  },
+  "bank of albania": {
+    "number_of_speeches": 299,
+    "name": "Bank of Albania",
+    "cb_location": "Tirana",
+    "currency": "Lek",
+    "audiences": {
+      "central_bank": 0.42474916387959866,
+      "financial_market": 0.2408026755852843,
+      "academic": 0.19063545150501673,
+      "political": 0.14381270903010032
+    },
+    "pressures": {
+      "monetary_dominance": 0.8108915762925762,
+      "fiscal_dominance": 0.05943697724132108,
+      "financial_dominance": 0.12967144646610268
+    }
+  },
+  "eastern caribbean central bank": {
+    "number_of_speeches": 18,
+    "name": "Eastern Caribbean Central Bank",
+    "cb_location": "Basseterre",
+    "currency": "East Caribbean Dollar",
+    "audiences": {
+      "central_bank": 0.4444444444444444,
+      "financial_market": 0.2777777777777778,
+      "academic": 0.16666666666666666,
+      "political": 0.1111111111111111
+    },
+    "pressures": {
+      "monetary_dominance": 0.6430122139907519,
+      "fiscal_dominance": 0.13983686343260227,
+      "financial_dominance": 0.2171509225766459
+    }
+  },
+  "central bank of nigeria": {
+    "number_of_speeches": 33,
+    "name": "Central Bank of Nigeria",
+    "cb_location": "Abuja",
+    "currency": "Naira",
+    "audiences": {
+      "financial_market": 0.42424242424242425,
+      "academic": 0.3333333333333333,
+      "central_bank": 0.24242424242424243
+    },
+    "pressures": {
+      "monetary_dominance": 0.4608099196346248,
+      "fiscal_dominance": 0.32235468206924733,
+      "financial_dominance": 0.21683539829612777
+    }
+  },
+  "reserve bank of malawi": {
+    "number_of_speeches": 25,
+    "name": "Reserve Bank of Malawi",
+    "cb_location": "Lilongwe",
+    "currency": "Malawi Kwacha",
+    "audiences": {
+      "financial_market": 0.52,
+      "central_bank": 0.24,
+      "academic": 0.2,
+      "political": 0.04
+    },
+    "pressures": {
+      "monetary_dominance": 0.5994474300238674,
+      "fiscal_dominance": 0.3176974049162416,
+      "financial_dominance": 0.08285516505989095
+    }
+  },
+  "bank of zambia": {
+    "number_of_speeches": 157,
+    "name": "Bank of Zambia",
+    "cb_location": "Lusaka",
+    "currency": "Zambian Kwacha",
+    "audiences": {
+      "financial_market": 0.5923566878980892,
+      "central_bank": 0.22929936305732485,
+      "academic": 0.12738853503184713,
+      "political": 0.050955414012738856
+    },
+    "pressures": {
+      "monetary_dominance": 0.7475522407187911,
+      "fiscal_dominance": 0.10099834894707045,
+      "financial_dominance": 0.1514494103341385
+    }
+  },
+  "bank of mexico": {
+    "number_of_speeches": 96,
+    "name": "Bank of Mexico",
+    "cb_location": "Mexico City",
+    "currency": "Mexican Peso",
+    "audiences": {
+      "financial_market": 0.5,
+      "academic": 0.3541666666666667,
+      "central_bank": 0.13541666666666666,
+      "political": 0.010416666666666666
+    },
+    "pressures": {
+      "monetary_dominance": 0.6464013095772997,
+      "fiscal_dominance": 0.06226370457860558,
+      "financial_dominance": 0.2913349858440947
+    }
+  },
+  "national bank of slovakia": {
+    "number_of_speeches": 5,
+    "name": "National Bank of Slovakia",
+    "cb_location": "Bratislava",
+    "currency": "Euro",
+    "audiences": {
+      "academic": 0.8,
+      "central_bank": 0.2
+    },
+    "pressures": {
+      "monetary_dominance": 0.7555555555555555,
+      "fiscal_dominance": 0.24444444444444444,
+      "financial_dominance": 0.0
+    }
+  },
+  "bank of papua new guinea": {
+    "number_of_speeches": 60,
+    "name": "Bank of Papua New Guinea",
+    "cb_location": "Port Moresby",
+    "currency": "Kina",
+    "audiences": {
+      "financial_market": 0.4,
+      "central_bank": 0.26666666666666666,
+      "political": 0.16666666666666666,
+      "academic": 0.16666666666666666
+    },
+    "pressures": {
+      "monetary_dominance": 0.5736538608286756,
+      "fiscal_dominance": 0.2983633196178976,
+      "financial_dominance": 0.1279828195534268
+    }
+  },
+  "central bank of sri lanka": {
+    "number_of_speeches": 68,
+    "name": "Central Bank of Sri Lanka",
+    "cb_location": "Colombo",
+    "currency": "Sri Lanka Rupee",
+    "audiences": {
+      "central_bank": 0.4117647058823529,
+      "financial_market": 0.29411764705882354,
+      "academic": 0.2647058823529412,
+      "political": 0.029411764705882353
+    },
+    "pressures": {
+      "monetary_dominance": 0.5721718862608358,
+      "fiscal_dominance": 0.20225837121448956,
+      "financial_dominance": 0.22556974252467465
+    }
+  },
+  "central bank of the philippines": {
+    "number_of_speeches": 546,
+    "name": "Central Bank of the Philippines",
+    "cb_location": "Manila",
+    "currency": "Philippine Peso",
+    "audiences": {
+      "financial_market": 0.7564102564102564,
+      "central_bank": 0.152014652014652,
+      "academic": 0.054945054945054944,
+      "political": 0.03663003663003663
+    },
+    "pressures": {
+      "monetary_dominance": 0.7480941658584815,
+      "fiscal_dominance": 0.1158784577616053,
+      "financial_dominance": 0.1360273763799132
+    }
+  },
+  "central bank of barbados": {
+    "number_of_speeches": 94,
+    "name": "Central Bank of Barbados",
+    "cb_location": "Bridgetown",
+    "currency": "Barbados Dollar",
+    "audiences": {
+      "financial_market": 0.43617021276595747,
+      "central_bank": 0.3617021276595745,
+      "academic": 0.18085106382978725,
+      "political": 0.02127659574468085
+    },
+    "pressures": {
+      "monetary_dominance": 0.6159095573810776,
+      "fiscal_dominance": 0.22243552776987166,
+      "financial_dominance": 0.16165491484905084
+    }
+  },
+  "bank of portugal": {
+    "number_of_speeches": 85,
+    "name": "Bank of Portugal",
+    "cb_location": "Lisbon",
+    "currency": "Euro",
+    "audiences": {
+      "academic": 0.3764705882352941,
+      "financial_market": 0.29411764705882354,
+      "central_bank": 0.23529411764705882,
+      "political": 0.09411764705882353
+    },
+    "pressures": {
+      "monetary_dominance": 0.5510434347812198,
+      "fiscal_dominance": 0.11201472365974699,
+      "financial_dominance": 0.33694184155903323
+    }
+  },
+  "national bank of serbia": {
+    "number_of_speeches": 123,
+    "name": "National Bank of Serbia",
+    "cb_location": "Belgrade",
+    "currency": "Serbian Dinar",
+    "audiences": {
+      "central_bank": 0.43089430894308944,
+      "financial_market": 0.3983739837398374,
+      "academic": 0.0975609756097561,
+      "political": 0.07317073170731707
+    },
+    "pressures": {
+      "monetary_dominance": 0.8402598483023682,
+      "fiscal_dominance": 0.06626948331798238,
+      "financial_dominance": 0.09347066837964946
+    }
+  },
+  "reserve bank of fiji": {
+    "number_of_speeches": 133,
+    "name": "Reserve Bank of Fiji",
+    "cb_location": "Suva",
+    "currency": "Fiji Dollar",
+    "audiences": {
+      "financial_market": 0.6992481203007519,
+      "central_bank": 0.18045112781954886,
+      "political": 0.07518796992481203,
+      "academic": 0.045112781954887216
+    },
+    "pressures": {
+      "monetary_dominance": 0.5510633659336996,
+      "fiscal_dominance": 0.08637336988262144,
+      "financial_dominance": 0.36256326418367896
+    }
+  },
+  "central bank of argentina": {
+    "number_of_speeches": 34,
+    "name": "Central Bank of Argentina",
+    "cb_location": "Buenos Aires",
+    "currency": "Argentine Peso",
+    "audiences": {
+      "central_bank": 0.4117647058823529,
+      "academic": 0.3235294117647059,
+      "financial_market": 0.17647058823529413,
+      "political": 0.08823529411764706
+    },
+    "pressures": {
+      "monetary_dominance": 0.6293084934705506,
+      "fiscal_dominance": 0.0753638901821214,
+      "financial_dominance": 0.29532761634732796
+    }
+  },
+  "central bank of colombia": {
+    "number_of_speeches": 6,
+    "name": "Central Bank of Colombia",
+    "cb_location": "Bogot\u00e1",
+    "currency": "Colombian Peso",
+    "audiences": {
+      "academic": 0.5,
+      "political": 0.3333333333333333,
+      "financial_market": 0.16666666666666666
+    },
+    "pressures": {
+      "monetary_dominance": 0.6784178550430583,
+      "fiscal_dominance": 0.09038193283607898,
+      "financial_dominance": 0.23120021212086275
+    }
+  },
+  "bank of sierra leone": {
+    "number_of_speeches": 12,
+    "name": "Bank of Sierra Leone",
+    "cb_location": "Freetown",
+    "currency": "Leone",
+    "audiences": {
+      "financial_market": 0.5,
+      "central_bank": 0.25,
+      "political": 0.16666666666666666,
+      "academic": 0.08333333333333333
+    },
+    "pressures": {
+      "monetary_dominance": 0.5071528751753156,
+      "fiscal_dominance": 0.4844319775596072,
+      "financial_dominance": 0.008415147265077139
+    }
+  },
+  "central bank of the bahamas": {
+    "number_of_speeches": 17,
+    "name": "Central Bank of the Bahamas",
+    "cb_location": "Nassau",
+    "currency": "Bahamian Dollar",
+    "audiences": {
+      "financial_market": 0.7058823529411765,
+      "central_bank": 0.17647058823529413,
+      "academic": 0.11764705882352941
+    },
+    "pressures": {
+      "monetary_dominance": 0.5603917468712524,
+      "fiscal_dominance": 0.2194428215614526,
+      "financial_dominance": 0.22016543156729493
+    }
+  },
+  "central bank of bahrain": {
+    "number_of_speeches": 51,
+    "name": "Central Bank of Bahrain",
+    "cb_location": "Manama",
+    "currency": "Bahraini Dinar",
+    "audiences": {
+      "financial_market": 0.7843137254901961,
+      "central_bank": 0.09803921568627451,
+      "academic": 0.09803921568627451,
+      "political": 0.0196078431372549
+    },
+    "pressures": {
+      "monetary_dominance": 0.10972211163309181,
+      "fiscal_dominance": 0.0,
+      "financial_dominance": 0.8902778883669082
+    }
+  },
+  "bank of ghana": {
+    "number_of_speeches": 57,
+    "name": "Bank of Ghana",
+    "cb_location": "Accra",
+    "currency": "Ghana Cedi",
+    "audiences": {
+      "financial_market": 0.6842105263157895,
+      "central_bank": 0.2631578947368421,
+      "academic": 0.05263157894736842
+    },
+    "pressures": {
+      "monetary_dominance": 0.6707483098422097,
+      "fiscal_dominance": 0.1564502343267484,
+      "financial_dominance": 0.1728014558310419
+    }
+  },
+  "federal reserve bank of kansas city": {
+    "number_of_speeches": 18,
+    "name": "Federal Reserve Bank of Kansas City",
+    "cb_location": "Kansas City",
+    "currency": "US Dollar",
+    "audiences": {
+      "financial_market": 0.4444444444444444,
+      "academic": 0.2222222222222222,
+      "political": 0.2222222222222222,
+      "central_bank": 0.1111111111111111
+    },
+    "pressures": {
+      "monetary_dominance": 0.3564960547256537,
+      "fiscal_dominance": 0.09806276822914269,
+      "financial_dominance": 0.5454411770452037
+    }
+  },
+  "cayman islands monetary authority": {
+    "number_of_speeches": 3,
+    "name": "Cayman Islands Monetary Authority",
+    "cb_location": "George Town",
+    "currency": "Cayman Dollar+",
+    "audiences": {
+      "financial_market": 1.0
+    },
+    "pressures": {
+      "monetary_dominance": 0.5,
+      "fiscal_dominance": 0.5,
+      "financial_dominance": 0.0
+    }
+  },
+  "bank of uganda": {
+    "number_of_speeches": 154,
+    "name": "Bank of Uganda",
+    "cb_location": "Kampala",
+    "currency": "Uganda Shilling",
+    "audiences": {
+      "financial_market": 0.5194805194805194,
+      "central_bank": 0.2792207792207792,
+      "political": 0.11688311688311688,
+      "academic": 0.08441558441558442
+    },
+    "pressures": {
+      "monetary_dominance": 0.7396876689553157,
+      "fiscal_dominance": 0.1169339758797714,
+      "financial_dominance": 0.1433783551649129
+    }
+  },
+  "national bank of romania": {
+    "number_of_speeches": 69,
+    "name": "National Bank of Romania",
+    "cb_location": "Bucharest",
+    "currency": "Romanian Leu",
+    "audiences": {
+      "academic": 0.3333333333333333,
+      "financial_market": 0.2898550724637681,
+      "central_bank": 0.2463768115942029,
+      "political": 0.13043478260869565
+    },
+    "pressures": {
+      "monetary_dominance": 0.7007023438263519,
+      "fiscal_dominance": 0.08138135868927712,
+      "financial_dominance": 0.21791629748437102
+    }
+  },
+  "bank of jamaica": {
+    "number_of_speeches": 20,
+    "name": "Bank of Jamaica",
+    "cb_location": "Kingston",
+    "currency": "Jamaican Dollar",
+    "audiences": {
+      "financial_market": 0.5,
+      "central_bank": 0.3,
+      "academic": 0.1,
+      "political": 0.1
+    },
+    "pressures": {
+      "monetary_dominance": 0.8447255100783558,
+      "fiscal_dominance": 0.12461763603538993,
+      "financial_dominance": 0.030656853886254172
+    }
+  },
+  "central bank of ecuador": {
+    "number_of_speeches": 1,
+    "name": "Central Bank of Ecuador",
+    "cb_location": "Quito",
+    "currency": "US Dollar",
+    "audiences": {
+      "central_bank": 1.0
+    },
+    "pressures": {
+      "monetary_dominance": 1.0,
+      "fiscal_dominance": 0.0,
+      "financial_dominance": 0.0
+    }
+  },
+  "bank of mozambique": {
+    "number_of_speeches": 5,
+    "name": "Bank of Mozambique",
+    "cb_location": "Maputo",
+    "currency": "Mozambique Metical",
+    "audiences": {
+      "financial_market": 0.6,
+      "central_bank": 0.4
+    },
+    "pressures": {
+      "monetary_dominance": 0.9,
+      "fiscal_dominance": 0.09999999999999999,
+      "financial_dominance": 0.0
+    }
+  },
+  "central bank of the united arab emirates": {
+    "number_of_speeches": 10,
+    "name": "Central Bank of the United Arab Emirates",
+    "cb_location": "Abu Dhabi",
+    "currency": "UAE Dirham",
+    "audiences": {
+      "financial_market": 0.5,
+      "central_bank": 0.5
+    },
+    "pressures": {
+      "monetary_dominance": 0.03184713375796178,
+      "fiscal_dominance": 0.07006369426751592,
+      "financial_dominance": 0.8980891719745223
+    }
+  },
+  "saudi arabian monetary agency": {
+    "number_of_speeches": 28,
+    "name": "Saudi Arabian Monetary Agency",
+    "cb_location": "Riyadh",
+    "currency": "Saudi Riyal",
+    "audiences": {
+      "financial_market": 0.5,
+      "political": 0.25,
+      "academic": 0.14285714285714285,
+      "central_bank": 0.10714285714285714
+    },
+    "pressures": {
+      "monetary_dominance": 0.5234417096219713,
+      "fiscal_dominance": 0.38181314049616094,
+      "financial_dominance": 0.09474514988186762
+    }
+  },
+  "central bank of solomon islands": {
+    "number_of_speeches": 18,
+    "name": "Central Bank of Solomon Islands",
+    "cb_location": "Honiara",
+    "currency": "Solomon Islands Dollar",
+    "audiences": {
+      "central_bank": 0.5,
+      "financial_market": 0.2777777777777778,
+      "academic": 0.16666666666666666,
+      "political": 0.05555555555555555
+    },
+    "pressures": {
+      "monetary_dominance": 0.7894736842105263,
+      "fiscal_dominance": 0.10526315789473684,
+      "financial_dominance": 0.10526315789473684
+    }
+  },
+  "reserve bank of vanuatu": {
+    "number_of_speeches": 2,
+    "name": "Reserve Bank of Vanuatu",
+    "cb_location": "Port Vila",
+    "currency": "Vatu",
+    "audiences": {
+      "central_bank": 0.5,
+      "financial_market": 0.5
+    },
+    "pressures": {
+      "monetary_dominance": 1.0,
+      "fiscal_dominance": 0.0,
+      "financial_dominance": 0.0
+    }
+  },
+  "central bank of armenia": {
+    "number_of_speeches": 1,
+    "name": "Central Bank of Armenia",
+    "cb_location": "Yerevan",
+    "currency": "Armenian Dram",
+    "audiences": {
+      "financial_market": 1.0
+    },
+    "pressures": {
+      "monetary_dominance": 0.5,
+      "fiscal_dominance": 0.0,
+      "financial_dominance": 0.5
+    }
+  },
+  "central bank of gambia": {
+    "number_of_speeches": 1,
+    "name": "Central Bank of Gambia",
+    "cb_location": "Banjul",
+    "currency": "Dalasi",
+    "audiences": {
+      "central_bank": 1.0
+    },
+    "pressures": {
+      "monetary_dominance": null,
+      "fiscal_dominance": null,
+      "financial_dominance": null
+    }
+  },
+  "central bank of hungary": {
+    "number_of_speeches": 11,
+    "name": "Central Bank of Hungary",
+    "cb_location": "Budapest",
+    "currency": "Forint",
+    "audiences": {
+      "academic": 0.5454545454545454,
+      "financial_market": 0.36363636363636365,
+      "central_bank": 0.09090909090909091
+    },
+    "pressures": {
+      "monetary_dominance": 0.6535685401013278,
+      "fiscal_dominance": 0.12418989109192573,
+      "financial_dominance": 0.22224156880674653
+    }
+  },
+  "bulgarian national bank": {
+    "number_of_speeches": 47,
+    "name": "Bulgarian National Bank",
+    "cb_location": "Sofia",
+    "currency": "Bulgarian Lev",
+    "audiences": {
+      "financial_market": 0.5319148936170213,
+      "central_bank": 0.19148936170212766,
+      "academic": 0.1702127659574468,
+      "political": 0.10638297872340426
+    },
+    "pressures": {
+      "monetary_dominance": 0.774483686904974,
+      "fiscal_dominance": 0.08271972534522821,
+      "financial_dominance": 0.14279658774979784
+    }
+  },
+  "central bank of samoa": {
+    "number_of_speeches": 6,
+    "name": "Central Bank of Samoa",
+    "cb_location": "Apia",
+    "currency": "Tala",
+    "audiences": {
+      "central_bank": 0.5,
+      "financial_market": 0.3333333333333333,
+      "academic": 0.16666666666666666
+    },
+    "pressures": {
+      "monetary_dominance": 0.23931623931623933,
+      "fiscal_dominance": 0.1794871794871795,
+      "financial_dominance": 0.5811965811965812
+    }
+  },
+  "central bank of kenya": {
+    "number_of_speeches": 182,
+    "name": "Central Bank of Kenya",
+    "cb_location": "Nairobi",
+    "currency": "Kenyan Shilling",
+    "audiences": {
+      "financial_market": 0.5769230769230769,
+      "central_bank": 0.25274725274725274,
+      "academic": 0.12087912087912088,
+      "political": 0.04945054945054945
+    },
+    "pressures": {
+      "monetary_dominance": 0.6011939143964995,
+      "fiscal_dominance": 0.152698543862316,
+      "financial_dominance": 0.24610754174118454
+    }
+  },
+  "monetary authority of macao": {
+    "number_of_speeches": 29,
+    "name": "Monetary Authority of Macao",
+    "cb_location": "Macau",
+    "currency": "Pataca",
+    "audiences": {
+      "financial_market": 0.6551724137931034,
+      "central_bank": 0.20689655172413793,
+      "academic": 0.06896551724137931,
+      "political": 0.06896551724137931
+    },
+    "pressures": {
+      "monetary_dominance": 0.12840518563712258,
+      "fiscal_dominance": 0.0,
+      "financial_dominance": 0.8715948143628774
+    }
+  },
+  "bank of russia": {
+    "number_of_speeches": 39,
+    "name": "Bank of Russia",
+    "cb_location": "Moscow",
+    "currency": "Russian Ruble",
+    "audiences": {
+      "central_bank": 0.46153846153846156,
+      "political": 0.28205128205128205,
+      "financial_market": 0.20512820512820512,
+      "academic": 0.05128205128205128
+    },
+    "pressures": {
+      "monetary_dominance": 0.7135551143480835,
+      "fiscal_dominance": 0.09857353650960166,
+      "financial_dominance": 0.18787134914231485
+    }
+  },
+  "bank of algeria": {
+    "number_of_speeches": 7,
+    "name": "Bank of Algeria",
+    "cb_location": "Algiers",
+    "currency": "Algerian Dinar",
+    "audiences": {
+      "central_bank": 0.5714285714285714,
+      "financial_market": 0.42857142857142855
+    },
+    "pressures": {
+      "monetary_dominance": 0.40266168059832813,
+      "fiscal_dominance": 0.28673559172899254,
+      "financial_dominance": 0.31060272767267927
+    }
+  },
+  "central bank of aruba": {
+    "number_of_speeches": 1,
+    "name": "Central Bank of Aruba",
+    "cb_location": "Oranjestad",
+    "currency": "Aruban Florin",
+    "audiences": {
+      "academic": 1.0
+    },
+    "pressures": {
+      "monetary_dominance": 0.8999999999999999,
+      "fiscal_dominance": 0.09999999999999999,
+      "financial_dominance": 0.0
+    }
+  },
+  "national bank of cambodia": {
+    "number_of_speeches": 2,
+    "name": "National Bank of Cambodia",
+    "cb_location": "Phnom Penh",
+    "currency": "Riel",
+    "audiences": {
+      "central_bank": 0.5,
+      "academic": 0.5
+    },
+    "pressures": {
+      "monetary_dominance": 0.5,
+      "fiscal_dominance": 0.0,
+      "financial_dominance": 0.5
+    }
+  },
+  "central bank of bolivia": {
+    "number_of_speeches": 1,
+    "name": "Central Bank of Bolivia",
+    "cb_location": "La Paz",
+    "currency": "Boliviano",
+    "audiences": {
+      "central_bank": 1.0
+    },
+    "pressures": {
+      "monetary_dominance": 0.2857142857142857,
+      "fiscal_dominance": 0.07142857142857142,
+      "financial_dominance": 0.6428571428571429
+    }
+  },
+  "central bank of jordan": {
+    "number_of_speeches": 1,
+    "name": "Central Bank of Jordan",
+    "cb_location": "Amman",
+    "currency": "Jordanian Dinar",
+    "audiences": {
+      "academic": 1.0
+    },
+    "pressures": {
+      "monetary_dominance": 0.8,
+      "fiscal_dominance": 0.2,
+      "financial_dominance": 0.0
+    }
+  },
+  "federal reserve bank of boston": {
+    "number_of_speeches": 5,
+    "name": "Federal Reserve Bank of Boston",
+    "cb_location": "Boston",
+    "currency": "US Dollar",
+    "audiences": {
+      "financial_market": 0.8,
+      "academic": 0.2
+    },
+    "pressures": {
+      "monetary_dominance": 0.6527225987380229,
+      "fiscal_dominance": 0.0,
+      "financial_dominance": 0.3472774012619771
+    }
+  },
+  "federal reserve bank of chicago": {
+    "number_of_speeches": 10,
+    "name": "Federal Reserve Bank of Chicago",
+    "cb_location": "Chicago",
+    "currency": "US Dollar",
+    "audiences": {
+      "financial_market": 0.5,
+      "academic": 0.4,
+      "central_bank": 0.1
+    },
+    "pressures": {
+      "monetary_dominance": 0.8769246603463459,
+      "fiscal_dominance": 0.019651023901631662,
+      "financial_dominance": 0.1034243157520225
+    }
+  },
+  "federal reserve bank of philadelphia": {
+    "number_of_speeches": 32,
+    "name": "Federal Reserve Bank of Philadelphia",
+    "cb_location": "Philadelphia",
+    "currency": "US Dollar",
+    "audiences": {
+      "academic": 0.53125,
+      "financial_market": 0.40625,
+      "political": 0.0625
+    },
+    "pressures": {
+      "monetary_dominance": 0.83463958515558,
+      "fiscal_dominance": 0.05693760849611803,
+      "financial_dominance": 0.10842280634830198
+    }
+  },
+  "federal reserve bank of minneapolis": {
+    "number_of_speeches": 23,
+    "name": "Federal Reserve Bank of Minneapolis",
+    "cb_location": "Minneapolis",
+    "currency": "US Dollar",
+    "audiences": {
+      "financial_market": 0.5217391304347826,
+      "academic": 0.43478260869565216,
+      "central_bank": 0.043478260869565216
+    },
+    "pressures": {
+      "monetary_dominance": 0.8074328377751812,
+      "fiscal_dominance": 0.039776034340340646,
+      "financial_dominance": 0.1527911278844782
+    }
+  },
+  "federal reserve bank of dallas": {
+    "number_of_speeches": 19,
+    "name": "Federal Reserve Bank of Dallas",
+    "cb_location": "Dallas",
+    "currency": "US Dollar",
+    "audiences": {
+      "financial_market": 0.7894736842105263,
+      "academic": 0.15789473684210525,
+      "political": 0.05263157894736842
+    },
+    "pressures": {
+      "monetary_dominance": 0.5012475882304402,
+      "fiscal_dominance": 0.21376431192188078,
+      "financial_dominance": 0.28498809984767887
+    }
+  },
+  "central bank of cura\u00e7ao and sint maarten": {
+    "number_of_speeches": 19,
+    "name": "Central Bank of Cura\u00e7ao and Sint Maarten",
+    "cb_location": "Willemstad",
+    "currency": "Netherlands Antillean Guilder",
+    "audiences": {
+      "financial_market": 0.3684210526315789,
+      "central_bank": 0.3157894736842105,
+      "academic": 0.2631578947368421,
+      "political": 0.05263157894736842
+    },
+    "pressures": {
+      "monetary_dominance": 0.44939511308663777,
+      "fiscal_dominance": 0.327042951213348,
+      "financial_dominance": 0.22356193570001426
+    }
+  },
+  "central bank of cyprus": {
+    "number_of_speeches": 9,
+    "name": "Central Bank of Cyprus",
+    "cb_location": "Nicosia",
+    "currency": "Euro",
+    "audiences": {
+      "financial_market": 0.5555555555555556,
+      "central_bank": 0.2222222222222222,
+      "academic": 0.2222222222222222
+    },
+    "pressures": {
+      "monetary_dominance": 0.7958722634174392,
+      "fiscal_dominance": 0.12126615492784194,
+      "financial_dominance": 0.08286158165471887
+    }
+  },
+  "central bank of belize": {
+    "number_of_speeches": 1,
+    "name": "Central Bank of Belize",
+    "cb_location": "Belmopan",
+    "currency": "Belize Dollar",
+    "audiences": {
+      "central_bank": 1.0
+    },
+    "pressures": {
+      "monetary_dominance": null,
+      "fiscal_dominance": null,
+      "financial_dominance": null
+    }
+  },
+  "bank of guyana": {
+    "number_of_speeches": 2,
+    "name": "Bank of Guyana",
+    "cb_location": "Georgetown",
+    "currency": "Guyana Dollar",
+    "audiences": {
+      "central_bank": 0.5,
+      "financial_market": 0.5
+    },
+    "pressures": {
+      "monetary_dominance": null,
+      "fiscal_dominance": null,
+      "financial_dominance": null
+    }
+  },
+  "central bank of uruguay": {
+    "number_of_speeches": 1,
+    "name": "Central Bank of Uruguay",
+    "cb_location": "Montevideo",
+    "currency": "Peso Uruguayo",
+    "audiences": {
+      "central_bank": 1.0
+    },
+    "pressures": {
+      "monetary_dominance": 0.0,
+      "fiscal_dominance": 0.03571428571428572,
+      "financial_dominance": 0.9642857142857143
+    }
+  },
+  "bank of guatemala": {
+    "number_of_speeches": 1,
+    "name": "Bank of Guatemala",
+    "cb_location": "Guatemala City",
+    "currency": "Quetzal",
+    "audiences": {
+      "financial_market": 1.0
+    },
+    "pressures": {
+      "monetary_dominance": 1.0,
+      "fiscal_dominance": 0.0,
+      "financial_dominance": 0.0
+    }
+  },
+  "bank of tanzania": {
+    "number_of_speeches": 1,
+    "name": "Bank of Tanzania",
+    "cb_location": "Dar es Salaam",
+    "currency": "Tanzanian Shilling",
+    "audiences": {
+      "financial_market": 1.0
+    },
+    "pressures": {
+      "monetary_dominance": null,
+      "fiscal_dominance": null,
+      "financial_dominance": null
+    }
+  },
+  "central bank of nepal": {
+    "number_of_speeches": 15,
+    "name": "Central Bank of Nepal",
+    "cb_location": "Kathmandu",
+    "currency": "Nepalese Rupee",
+    "audiences": {
+      "central_bank": 0.5333333333333333,
+      "financial_market": 0.26666666666666666,
+      "academic": 0.2
+    },
+    "pressures": {
+      "monetary_dominance": 0.15873015873015872,
+      "fiscal_dominance": 0.07936507936507936,
+      "financial_dominance": 0.761904761904762
+    }
+  },
+  "bank of slovenia": {
+    "number_of_speeches": 11,
+    "name": "Bank of Slovenia",
+    "cb_location": "Ljubljana",
+    "currency": "Euro",
+    "audiences": {
+      "academic": 0.45454545454545453,
+      "financial_market": 0.2727272727272727,
+      "central_bank": 0.2727272727272727
+    },
+    "pressures": {
+      "monetary_dominance": 0.7488073618568519,
+      "fiscal_dominance": 0.04834320797009246,
+      "financial_dominance": 0.20284943017305565
+    }
+  },
+  "bank of lithuania": {
+    "number_of_speeches": 30,
+    "name": "Bank of Lithuania",
+    "cb_location": "Vilnius",
+    "currency": "Euro",
+    "audiences": {
+      "central_bank": 0.36666666666666664,
+      "academic": 0.3333333333333333,
+      "financial_market": 0.23333333333333334,
+      "political": 0.06666666666666667
+    },
+    "pressures": {
+      "monetary_dominance": 0.4919658940427758,
+      "fiscal_dominance": 0.0,
+      "financial_dominance": 0.5080341059572243
+    }
+  },
+  "federal reserve bank of richmond": {
+    "number_of_speeches": 2,
+    "name": "Federal Reserve Bank of Richmond",
+    "cb_location": "Richmond",
+    "currency": "US Dollar",
+    "audiences": {
+      "financial_market": 1.0
+    },
+    "pressures": {
+      "monetary_dominance": 1.0,
+      "fiscal_dominance": 0.0,
+      "financial_dominance": 0.0
+    }
+  },
+  "federal reserve bank of atlanta": {
+    "number_of_speeches": 2,
+    "name": "Federal Reserve Bank of Atlanta",
+    "cb_location": "Atlanta",
+    "currency": "US Dollar",
+    "audiences": {
+      "financial_market": 1.0
+    },
+    "pressures": {
+      "monetary_dominance": 1.0,
+      "fiscal_dominance": 0.0,
+      "financial_dominance": 0.0
+    }
+  },
+  "central bank of seychelles": {
+    "number_of_speeches": 17,
+    "name": "Central Bank of Seychelles",
+    "cb_location": "Victoria",
+    "currency": "Seychelles Rupee",
+    "audiences": {
+      "central_bank": 0.5294117647058824,
+      "financial_market": 0.4117647058823529,
+      "political": 0.058823529411764705
+    },
+    "pressures": {
+      "monetary_dominance": 0.0,
+      "fiscal_dominance": 1.0,
+      "financial_dominance": 0.0
+    }
+  },
+  "central bank of kuwait": {
+    "number_of_speeches": 6,
+    "name": "Central Bank of Kuwait",
+    "cb_location": "Kuwait City",
+    "currency": "Kuwaiti Dinar",
+    "audiences": {
+      "central_bank": 0.6666666666666666,
+      "academic": 0.16666666666666666,
+      "financial_market": 0.16666666666666666
+    },
+    "pressures": {
+      "monetary_dominance": 0.11743159035491738,
+      "fiscal_dominance": 0.030040639393118396,
+      "financial_dominance": 0.8525277702519642
+    }
+  },
+  "bank of morocco": {
+    "number_of_speeches": 6,
+    "name": "Bank of Morocco",
+    "cb_location": "Rabat",
+    "currency": "Moroccan Dirham",
+    "audiences": {
+      "academic": 0.3333333333333333,
+      "financial_market": 0.3333333333333333,
+      "central_bank": 0.16666666666666666,
+      "political": 0.16666666666666666
+    },
+    "pressures": {
+      "monetary_dominance": null,
+      "fiscal_dominance": null,
+      "financial_dominance": null
+    }
+  },
+  "maldives monetary authority": {
+    "number_of_speeches": 4,
+    "name": "Maldives Monetary Authority",
+    "cb_location": "Mal\u00e9",
+    "currency": "Rufiyaa",
+    "audiences": {
+      "financial_market": 1.0
+    },
+    "pressures": {
+      "monetary_dominance": null,
+      "fiscal_dominance": null,
+      "financial_dominance": null
+    }
+  },
+  "central bank of the republic of kosovo": {
+    "number_of_speeches": 35,
+    "name": "Central Bank of the Republic of Kosovo",
+    "cb_location": "Pristina",
+    "currency": null,
+    "audiences": {
+      "central_bank": 0.5428571428571428,
+      "financial_market": 0.42857142857142855,
+      "academic": 0.02857142857142857
+    },
+    "pressures": {
+      "monetary_dominance": 0.2272612608976429,
+      "fiscal_dominance": 0.0,
+      "financial_dominance": 0.7727387391023571
+    }
+  },
+  "national bank of ukraine": {
+    "number_of_speeches": 30,
+    "name": "National Bank of Ukraine",
+    "cb_location": "Kyiv",
+    "currency": "Hryvnia",
+    "audiences": {
+      "central_bank": 0.6666666666666666,
+      "academic": 0.2,
+      "financial_market": 0.06666666666666667,
+      "political": 0.06666666666666667
+    },
+    "pressures": {
+      "monetary_dominance": 0.7874357028231241,
+      "fiscal_dominance": 0.09283148528891283,
+      "financial_dominance": 0.11973281188796295
+    }
+  }
+}
