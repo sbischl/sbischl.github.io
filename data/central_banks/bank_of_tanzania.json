@@ -17,9 +17,11 @@
     "audiences": {
         "financial_market": 1.0
     },
-    "monetary_dominance": null,
-    "fiscal_dominance_mean": null,
-    "financial_dominance_mean": null,
+    "pressures": {
+        "monetary_dominance": null,
+        "fiscal_dominance": null,
+        "financial_dominance": null
+    },
     "top_topics": [
         [
             "financial inclusion",
@@ -61,6 +63,56 @@
             "financial education",
             1.0
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Edwin I. Mtei",
+            "beginning_of_term": "1966-06-01",
+            "end_of_term": "1974-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Charles Nyirabu",
+            "beginning_of_term": "1974-01-01",
+            "end_of_term": "1989-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Gilman Rutihinda",
+            "beginning_of_term": "1989-01-01",
+            "end_of_term": "1993-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Idris M. Rashid",
+            "beginning_of_term": "1993-01-01",
+            "end_of_term": "1998-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Daudi T.S. Ballali",
+            "beginning_of_term": "1998-01-01",
+            "end_of_term": "2008-01-07",
+            "acting": false
+        },
+        {
+            "governor": "Benno Ndulu",
+            "beginning_of_term": "2008-01-08",
+            "end_of_term": "2018-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Florens D.A.M. Luoga",
+            "beginning_of_term": "2018-01-01",
+            "end_of_term": "2023-01-06",
+            "acting": false
+        },
+        {
+            "governor": "Emmanuel M. Tutuba",
+            "beginning_of_term": "2023-01-07",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2013

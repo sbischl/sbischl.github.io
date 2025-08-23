@@ -29,9 +29,11 @@
         "academic": 0.15,
         "political": 0.05
     },
-    "monetary_dominance": 0.5918079526633896,
-    "fiscal_dominance_mean": 0.390039633200207,
-    "financial_dominance_mean": 0.018152414136403405,
+    "pressures": {
+        "monetary_dominance": 0.5918079526633896,
+        "fiscal_dominance": 0.390039633200207,
+        "financial_dominance": 0.018152414136403405
+    },
     "top_topics": [
         [
             "economic growth",
@@ -73,6 +75,68 @@
             "investment",
             0.15
         ]
+    ],
+    "governors": [
+        {
+            "governor": "V.A. Servage",
+            "beginning_of_term": "1970-01-01",
+            "end_of_term": "1977-01-01",
+            "acting": false
+        },
+        {
+            "governor": "J.G.J. van Delden",
+            "beginning_of_term": "1977-01-01",
+            "end_of_term": "1981-01-01",
+            "acting": false
+        },
+        {
+            "governor": "P.C. Timmermans",
+            "beginning_of_term": "1981-01-01",
+            "end_of_term": "1983-01-01",
+            "acting": false
+        },
+        {
+            "governor": "L. Wong",
+            "beginning_of_term": "1983-01-01",
+            "end_of_term": "1986-01-01",
+            "acting": false
+        },
+        {
+            "governor": "V.A. Servage",
+            "beginning_of_term": "1986-01-01",
+            "end_of_term": "1991-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Emsley Tromp",
+            "beginning_of_term": "1991-01-01",
+            "end_of_term": "2007-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Alberto Romero",
+            "beginning_of_term": "2017-10-17",
+            "end_of_term": "2017-11-17",
+            "acting": false
+        },
+        {
+            "governor": "Leila Matroos-Lasten",
+            "beginning_of_term": "2017-11-17",
+            "end_of_term": "2019-06-13",
+            "acting": false
+        },
+        {
+            "governor": "Bob Traa",
+            "beginning_of_term": "2019-06-13",
+            "end_of_term": "2019-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Richard Doornbosch",
+            "beginning_of_term": "2020-08-07",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2001,

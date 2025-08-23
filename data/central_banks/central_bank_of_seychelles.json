@@ -26,9 +26,11 @@
         "financial_market": 0.4117647058823529,
         "political": 0.058823529411764705
     },
-    "monetary_dominance": 0.0,
-    "fiscal_dominance_mean": 1.0,
-    "financial_dominance_mean": 0.0,
+    "pressures": {
+        "monetary_dominance": 0.0,
+        "fiscal_dominance": 1.0,
+        "financial_dominance": 0.0
+    },
     "top_topics": [
         [
             "financial inclusion",
@@ -70,6 +72,44 @@
             "aml/cft",
             0.1764705882352941
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Guy Morel",
+            "beginning_of_term": "1978-01-01",
+            "end_of_term": "1991-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Aboo Aumeeruddy Aumeeruddy",
+            "beginning_of_term": "1991-09-01",
+            "end_of_term": "1995-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Norman Weber",
+            "beginning_of_term": "1995-05-01",
+            "end_of_term": "2001-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Francis Chang-Leng",
+            "beginning_of_term": "2001-05-01",
+            "end_of_term": "2008-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Pierre Laporte",
+            "beginning_of_term": "2008-11-01",
+            "end_of_term": "2012-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Caroline Abel",
+            "beginning_of_term": "2012-03-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2016,

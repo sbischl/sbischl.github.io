@@ -17,9 +17,11 @@
     "audiences": {
         "central_bank": 1.0
     },
-    "monetary_dominance": null,
-    "fiscal_dominance_mean": null,
-    "financial_dominance_mean": null,
+    "pressures": {
+        "monetary_dominance": null,
+        "fiscal_dominance": null,
+        "financial_dominance": null
+    },
     "top_topics": [
         [
             "human resource management",
@@ -61,6 +63,68 @@
             "labor market",
             1.0
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Saikuba Sisay",
+            "beginning_of_term": "1972-12-01",
+            "end_of_term": "1982-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Thomas Gregory George Senghore",
+            "beginning_of_term": "1982-05-01",
+            "end_of_term": "1988-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Mamour Malick Jagne",
+            "beginning_of_term": "1988-03-01",
+            "end_of_term": "1988-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Abdou A. B. Njie",
+            "beginning_of_term": "1989-01-01",
+            "end_of_term": "1994-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Momodou Clarke Bajo",
+            "beginning_of_term": "1994-10-01",
+            "end_of_term": "2003-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Famara Jatta",
+            "beginning_of_term": "2003-09-01",
+            "end_of_term": "2007-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Momodou Bamba Saho",
+            "beginning_of_term": "2007-01-01",
+            "end_of_term": "2010-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Amadou Colley",
+            "beginning_of_term": "2010-12-01",
+            "end_of_term": "2017-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Bakary Jammeh",
+            "beginning_of_term": "2017-05-01",
+            "end_of_term": "2020-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Buah Saidy",
+            "beginning_of_term": "2020-10-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2006

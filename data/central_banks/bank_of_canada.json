@@ -73,9 +73,11 @@
         "academic": 0.1675485008818342,
         "political": 0.15520282186948853
     },
-    "monetary_dominance": 0.8505773198452397,
-    "fiscal_dominance_mean": 0.029196955028805552,
-    "financial_dominance_mean": 0.12022572512595488,
+    "pressures": {
+        "monetary_dominance": 0.8505773198452397,
+        "fiscal_dominance": 0.029196955028805552,
+        "financial_dominance": 0.12022572512595488
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -117,6 +119,56 @@
             "labour market",
             0.10405643738977073
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Louis Rasminsky",
+            "beginning_of_term": "1961-07-01",
+            "end_of_term": "1973-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Gerald Bouey",
+            "beginning_of_term": "1973-02-01",
+            "end_of_term": "1987-02-01",
+            "acting": false
+        },
+        {
+            "governor": "John Crow",
+            "beginning_of_term": "1987-02-01",
+            "end_of_term": "1994-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Gordon G. Thiessen",
+            "beginning_of_term": "1994-02-01",
+            "end_of_term": "2001-01-31",
+            "acting": false
+        },
+        {
+            "governor": "David A. Dodge",
+            "beginning_of_term": "2001-02-01",
+            "end_of_term": "2008-01-31",
+            "acting": false
+        },
+        {
+            "governor": "Mark J. Carney",
+            "beginning_of_term": "2008-02-01",
+            "end_of_term": "2013-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Stephen S. Poloz",
+            "beginning_of_term": "2013-06-03",
+            "end_of_term": "2020-06-02",
+            "acting": false
+        },
+        {
+            "governor": "Tiff Macklem",
+            "beginning_of_term": "2020-06-03",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1997,

@@ -41,9 +41,11 @@
         "political": 0.07518796992481203,
         "academic": 0.045112781954887216
     },
-    "monetary_dominance": 0.5510633659336996,
-    "fiscal_dominance_mean": 0.08637336988262144,
-    "financial_dominance_mean": 0.36256326418367896,
+    "pressures": {
+        "monetary_dominance": 0.5510633659336996,
+        "fiscal_dominance": 0.08637336988262144,
+        "financial_dominance": 0.36256326418367896
+    },
     "top_topics": [
         [
             "economic growth",
@@ -85,6 +87,62 @@
             "exports",
             0.12030075187969926
         ]
+    ],
+    "governors": [
+        {
+            "governor": "R.J.A. Earland",
+            "beginning_of_term": "1975-12-01",
+            "end_of_term": "1977-05-01",
+            "acting": false
+        },
+        {
+            "governor": "H.J. Tomkins",
+            "beginning_of_term": "1977-06-01",
+            "end_of_term": "1980-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Gee",
+            "beginning_of_term": "1980-06-01",
+            "end_of_term": "1985-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Savenaca Siwatibau",
+            "beginning_of_term": "1985-01-01",
+            "end_of_term": "1988-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Ratu Jone Kubuabola",
+            "beginning_of_term": "1988-01-01",
+            "end_of_term": "2000-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Savenaca Narube",
+            "beginning_of_term": "2000-05-01",
+            "end_of_term": "2009-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Sada Reddy",
+            "beginning_of_term": "2009-06-01",
+            "end_of_term": "2009-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Barry Whiteside",
+            "beginning_of_term": "2009-12-01",
+            "end_of_term": "2017-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Ariff Ali",
+            "beginning_of_term": "2017-09-11",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2004,

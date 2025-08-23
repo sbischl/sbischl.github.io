@@ -28,9 +28,11 @@
         "financial_market": 0.36363636363636365,
         "central_bank": 0.09090909090909091
     },
-    "monetary_dominance": 0.6535685401013278,
-    "fiscal_dominance_mean": 0.12418989109192573,
-    "financial_dominance_mean": 0.22224156880674653,
+    "pressures": {
+        "monetary_dominance": 0.6535685401013278,
+        "fiscal_dominance": 0.12418989109192573,
+        "financial_dominance": 0.22224156880674653
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -72,6 +74,62 @@
             "exchange rate",
             0.18181818181818182
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Andor L\u00e1szl\u00f3",
+            "beginning_of_term": "1961-11-01",
+            "end_of_term": "1975-07-01",
+            "acting": false
+        },
+        {
+            "governor": "M\u00e1ty\u00e1s Tim\u00e1r",
+            "beginning_of_term": "1975-07-01",
+            "end_of_term": "1988-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Ferenc Bartha",
+            "beginning_of_term": "1988-06-01",
+            "end_of_term": "1990-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Gy\u00f6rgy Sur\u00e1nyi",
+            "beginning_of_term": "1990-07-01",
+            "end_of_term": "1991-12-01",
+            "acting": false
+        },
+        {
+            "governor": "\u00c1kos Bod P\u00e9ter",
+            "beginning_of_term": "1991-12-01",
+            "end_of_term": "1995-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Gy\u00f6rgy Sur\u00e1nyi",
+            "beginning_of_term": "1995-03-01",
+            "end_of_term": "2001-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Zsigmond J\u00e1rai",
+            "beginning_of_term": "2001-03-01",
+            "end_of_term": "2007-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Andras Simor",
+            "beginning_of_term": "2007-03-01",
+            "end_of_term": "2013-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Gy\u00f6rgy Matolcsy",
+            "beginning_of_term": "2013-03-04",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2006,

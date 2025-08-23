@@ -25,9 +25,11 @@
         "financial_market": 0.2727272727272727,
         "central_bank": 0.2727272727272727
     },
-    "monetary_dominance": 0.7488073618568519,
-    "fiscal_dominance_mean": 0.04834320797009246,
-    "financial_dominance_mean": 0.20284943017305565,
+    "pressures": {
+        "monetary_dominance": 0.7488073618568519,
+        "fiscal_dominance": 0.04834320797009246,
+        "financial_dominance": 0.20284943017305565
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -69,6 +71,38 @@
             "climate change",
             0.18181818181818182
         ]
+    ],
+    "governors": [
+        {
+            "governor": "France Arhar",
+            "beginning_of_term": "1991-03-06",
+            "end_of_term": "2001-03-31",
+            "acting": false
+        },
+        {
+            "governor": "Mitja Gaspari",
+            "beginning_of_term": "2001-04-01",
+            "end_of_term": "2007-03-31",
+            "acting": false
+        },
+        {
+            "governor": "Marko Kranjec",
+            "beginning_of_term": "2007-07-16",
+            "end_of_term": "2013-07-16",
+            "acting": false
+        },
+        {
+            "governor": "Bo\u0161tjan Jazbec",
+            "beginning_of_term": "2013-07-17",
+            "end_of_term": "2018-04-30",
+            "acting": false
+        },
+        {
+            "governor": "Bo\u0161tjan Vasle",
+            "beginning_of_term": "2019-01-09",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2014,

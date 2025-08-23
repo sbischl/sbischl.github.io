@@ -40,9 +40,11 @@
         "central_bank": 0.23529411764705882,
         "political": 0.09411764705882353
     },
-    "monetary_dominance": 0.5510434347812198,
-    "fiscal_dominance_mean": 0.11201472365974699,
-    "financial_dominance_mean": 0.33694184155903323,
+    "pressures": {
+        "monetary_dominance": 0.5510434347812198,
+        "fiscal_dominance": 0.11201472365974699,
+        "financial_dominance": 0.33694184155903323
+    },
     "top_topics": [
         [
             "financial stability",
@@ -84,6 +86,74 @@
             "risk management",
             0.07058823529411765
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Antonio Pinto Barbosa",
+            "beginning_of_term": "1966-04-01",
+            "end_of_term": "1974-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Manuel Jacinto Nunes",
+            "beginning_of_term": "1974-07-01",
+            "end_of_term": "1975-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Jos\u00e9 da Silva Lopes",
+            "beginning_of_term": "1975-10-01",
+            "end_of_term": "1980-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Manuel Jacinto Nunes",
+            "beginning_of_term": "1980-01-01",
+            "end_of_term": "1985-03-01",
+            "acting": false
+        },
+        {
+            "governor": "V\u00edtor Manuel Ribeiro Const\u00e2ncio",
+            "beginning_of_term": "1985-05-01",
+            "end_of_term": "1986-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Jos\u00e9 Alberto Tavares Moreira",
+            "beginning_of_term": "1986-05-01",
+            "end_of_term": "1992-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Lu\u00eds Miguel Couceiro Pizarro Beleza",
+            "beginning_of_term": "1992-01-01",
+            "end_of_term": "1994-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Ant\u00f3nio Jos\u00e9 Fernandes de Sousa",
+            "beginning_of_term": "1994-01-01",
+            "end_of_term": "1999-06-01",
+            "acting": false
+        },
+        {
+            "governor": "V\u00edtor Manuel Ribeiro Const\u00e2ncio",
+            "beginning_of_term": "2000-02-01",
+            "end_of_term": "2010-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Carlos da Silva Costa",
+            "beginning_of_term": "2010-06-07",
+            "end_of_term": "2020-07-20",
+            "acting": false
+        },
+        {
+            "governor": "Mario Centeno",
+            "beginning_of_term": "2020-07-20",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2004,

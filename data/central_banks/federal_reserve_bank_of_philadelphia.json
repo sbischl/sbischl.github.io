@@ -22,9 +22,11 @@
         "financial_market": 0.40625,
         "political": 0.0625
     },
-    "monetary_dominance": 0.83463958515558,
-    "fiscal_dominance_mean": 0.05693760849611803,
-    "financial_dominance_mean": 0.10842280634830198,
+    "pressures": {
+        "monetary_dominance": 0.83463958515558,
+        "fiscal_dominance": 0.05693760849611803,
+        "financial_dominance": 0.10842280634830198
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -66,6 +68,56 @@
             "price stability",
             0.21875
         ]
+    ],
+    "governors": [
+        {
+            "governor": "William McChesney Martin Jr.",
+            "beginning_of_term": "1951-04-02",
+            "end_of_term": "1970-01-30",
+            "acting": false
+        },
+        {
+            "governor": "Arthur F. Burns",
+            "beginning_of_term": "1970-01-31",
+            "end_of_term": "1878-03-08",
+            "acting": false
+        },
+        {
+            "governor": "G. William Miller",
+            "beginning_of_term": "1978-03-08",
+            "end_of_term": "1979-08-06",
+            "acting": false
+        },
+        {
+            "governor": "Paul A. Volcker",
+            "beginning_of_term": "1979-08-06",
+            "end_of_term": "1987-08-11",
+            "acting": false
+        },
+        {
+            "governor": "Alan Greenspan",
+            "beginning_of_term": "1987-08-11",
+            "end_of_term": "2006-01-31",
+            "acting": false
+        },
+        {
+            "governor": "Ben S. Bernanke",
+            "beginning_of_term": "2006-02-01",
+            "end_of_term": "2014-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Janet L. Yellen",
+            "beginning_of_term": "2014-02-01",
+            "end_of_term": "2018-02-03",
+            "acting": false
+        },
+        {
+            "governor": "Jerome Powell",
+            "beginning_of_term": "2018-02-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2011,

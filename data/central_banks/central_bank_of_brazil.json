@@ -30,9 +30,11 @@
         "political": 0.18181818181818182,
         "academic": 0.18181818181818182
     },
-    "monetary_dominance": 0.8392929118443023,
-    "fiscal_dominance_mean": 0.04675534058847238,
-    "financial_dominance_mean": 0.11395174756722519,
+    "pressures": {
+        "monetary_dominance": 0.8392929118443023,
+        "fiscal_dominance": 0.04675534058847238,
+        "financial_dominance": 0.11395174756722519
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -74,6 +76,170 @@
             "price stability",
             0.18181818181818182
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Ernane Galv\u00eaas",
+            "beginning_of_term": "1968-02-21",
+            "end_of_term": "1974-03-15",
+            "acting": false
+        },
+        {
+            "governor": "Paulo Lira",
+            "beginning_of_term": "1974-03-15",
+            "end_of_term": "1979-03-14",
+            "acting": false
+        },
+        {
+            "governor": "Carlos Brand\u00e3o",
+            "beginning_of_term": "1979-03-15",
+            "end_of_term": "1979-08-17",
+            "acting": false
+        },
+        {
+            "governor": "Ernane Galv\u00eaas",
+            "beginning_of_term": "1979-08-17",
+            "end_of_term": "1980-01-18",
+            "acting": false
+        },
+        {
+            "governor": "Carlos Langoni",
+            "beginning_of_term": "1980-01-18",
+            "end_of_term": "1983-09-05",
+            "acting": false
+        },
+        {
+            "governor": "Affonso Pastore",
+            "beginning_of_term": "1983-09-05",
+            "end_of_term": "1985-03-14",
+            "acting": false
+        },
+        {
+            "governor": "Antonio Lemgruber",
+            "beginning_of_term": "1985-03-15",
+            "end_of_term": "1985-08-28",
+            "acting": false
+        },
+        {
+            "governor": "Fernao Bracher",
+            "beginning_of_term": "1985-08-28",
+            "end_of_term": "1987-02-11",
+            "acting": false
+        },
+        {
+            "governor": "Francisco Gros",
+            "beginning_of_term": "1987-02-11",
+            "end_of_term": "1987-04-30",
+            "acting": false
+        },
+        {
+            "governor": "Lycio de Faria",
+            "beginning_of_term": "1987-04-30",
+            "end_of_term": "1987-05-04",
+            "acting": true
+        },
+        {
+            "governor": "Fernando de Oliveira",
+            "beginning_of_term": "1987-05-05",
+            "end_of_term": "1988-03-09",
+            "acting": false
+        },
+        {
+            "governor": "Elmo Cam\u00f5es",
+            "beginning_of_term": "1988-03-09",
+            "end_of_term": "1989-06-22",
+            "acting": false
+        },
+        {
+            "governor": "Wadico Bucchi",
+            "beginning_of_term": "1989-06-23",
+            "end_of_term": "1990-03-14",
+            "acting": true
+        },
+        {
+            "governor": "Ibrahim Eris",
+            "beginning_of_term": "1990-03-15",
+            "end_of_term": "1991-05-17",
+            "acting": false
+        },
+        {
+            "governor": "Francisco Gros",
+            "beginning_of_term": "1991-05-17",
+            "end_of_term": "1992-11-16",
+            "acting": false
+        },
+        {
+            "governor": "Gustavo Loyola",
+            "beginning_of_term": "1992-11-13",
+            "end_of_term": "1993-03-29",
+            "acting": false
+        },
+        {
+            "governor": "Paulo Cesar Ximenes Alves Ferreira",
+            "beginning_of_term": "1993-03-26",
+            "end_of_term": "1993-09-09",
+            "acting": false
+        },
+        {
+            "governor": "Pedro Sampaio Malan",
+            "beginning_of_term": "1993-09-09",
+            "end_of_term": "1994-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Gustavo Franco",
+            "beginning_of_term": "1994-12-31",
+            "end_of_term": "1995-01-11",
+            "acting": true
+        },
+        {
+            "governor": "Persio Arida",
+            "beginning_of_term": "1995-01-11",
+            "end_of_term": "1995-06-13",
+            "acting": false
+        },
+        {
+            "governor": "Gustavo Loyola",
+            "beginning_of_term": "1995-06-13",
+            "end_of_term": "1997-08-20",
+            "acting": false
+        },
+        {
+            "governor": "Gustavo Franco",
+            "beginning_of_term": "1997-08-20",
+            "end_of_term": "1999-03-04",
+            "acting": false
+        },
+        {
+            "governor": "Arminio Fraga Neto",
+            "beginning_of_term": "1999-03-04",
+            "end_of_term": "2003-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Henrique Meirelles",
+            "beginning_of_term": "2003-01-01",
+            "end_of_term": "2010-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Alexandre Antonio Tombini",
+            "beginning_of_term": "2011-01-01",
+            "end_of_term": "2016-06-13",
+            "acting": false
+        },
+        {
+            "governor": "Ilan Goldfajn",
+            "beginning_of_term": "2016-06-09",
+            "end_of_term": "2019-02-28",
+            "acting": false
+        },
+        {
+            "governor": "Roberto Campos Neto",
+            "beginning_of_term": "2019-02-28",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1999,

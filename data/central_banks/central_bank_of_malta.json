@@ -45,9 +45,11 @@
         "central_bank": 0.13559322033898305,
         "political": 0.03389830508474576
     },
-    "monetary_dominance": 0.8009104192104382,
-    "fiscal_dominance_mean": 0.09785107201403762,
-    "financial_dominance_mean": 0.10123850877552432,
+    "pressures": {
+        "monetary_dominance": 0.8009104192104382,
+        "fiscal_dominance": 0.09785107201403762,
+        "financial_dominance": 0.10123850877552432
+    },
     "top_topics": [
         [
             "economic growth",
@@ -89,6 +91,80 @@
             "labour market",
             0.13559322033898305
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Philip L. Hogg",
+            "beginning_of_term": "1968-04-17",
+            "end_of_term": "1972-03-31",
+            "acting": false
+        },
+        {
+            "governor": "Borge Andersen",
+            "beginning_of_term": "1972-04-01",
+            "end_of_term": "1973-03-16",
+            "acting": false
+        },
+        {
+            "governor": "R. J. A. Earland",
+            "beginning_of_term": "1973-03-17",
+            "end_of_term": "1974-01-25",
+            "acting": false
+        },
+        {
+            "governor": "Lino Spiteri",
+            "beginning_of_term": "1974-01-26",
+            "end_of_term": "31-11-1981",
+            "acting": false
+        },
+        {
+            "governor": "Henry C. de Gabriele",
+            "beginning_of_term": "1981-12-01",
+            "end_of_term": "1986-11-06",
+            "acting": false
+        },
+        {
+            "governor": "Anthony P. Galdes",
+            "beginning_of_term": "1987-06-03",
+            "end_of_term": "1993-06-02",
+            "acting": false
+        },
+        {
+            "governor": "Francis J. Vassallo",
+            "beginning_of_term": "1993-09-15",
+            "end_of_term": "1997-09-30",
+            "acting": false
+        },
+        {
+            "governor": "Emanuel Ellul",
+            "beginning_of_term": "1997-10-01",
+            "end_of_term": "1999-09-30",
+            "acting": false
+        },
+        {
+            "governor": "Michael C. Bonello",
+            "beginning_of_term": "1999-10-01",
+            "end_of_term": "2011-06-30",
+            "acting": false
+        },
+        {
+            "governor": "Josef Bonnici",
+            "beginning_of_term": "2011-07-01",
+            "end_of_term": "2016-06-30",
+            "acting": false
+        },
+        {
+            "governor": "Mario Vella",
+            "beginning_of_term": "2016-07-01",
+            "end_of_term": "2020-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Edward Scicluna",
+            "beginning_of_term": "2021-01-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2001,

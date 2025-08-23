@@ -31,9 +31,11 @@
         "financial_market": 0.20512820512820512,
         "academic": 0.05128205128205128
     },
-    "monetary_dominance": 0.7135551143480835,
-    "fiscal_dominance_mean": 0.09857353650960166,
-    "financial_dominance_mean": 0.18787134914231485,
+    "pressures": {
+        "monetary_dominance": 0.7135551143480835,
+        "fiscal_dominance": 0.09857353650960166,
+        "financial_dominance": 0.18787134914231485
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -75,6 +77,56 @@
             "risks",
             0.15384615384615385
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Georgy Matyukhin",
+            "beginning_of_term": "1990-12-25",
+            "end_of_term": "1992-05-16",
+            "acting": false
+        },
+        {
+            "governor": "Viktor Gerashchenko",
+            "beginning_of_term": "1992-07-17",
+            "end_of_term": "1994-10-18",
+            "acting": false
+        },
+        {
+            "governor": "Tatyana Paramonova",
+            "beginning_of_term": "1994-10-19",
+            "end_of_term": "1995-11-08",
+            "acting": false
+        },
+        {
+            "governor": "Alexander Khandruyev",
+            "beginning_of_term": "1995-11-08",
+            "end_of_term": "1995-11-22",
+            "acting": false
+        },
+        {
+            "governor": "Sergei Dubinin",
+            "beginning_of_term": "1995-11-22",
+            "end_of_term": "1998-09-11",
+            "acting": false
+        },
+        {
+            "governor": "Viktor Gerashchenko",
+            "beginning_of_term": "1998-09-11",
+            "end_of_term": "2002-03-20",
+            "acting": false
+        },
+        {
+            "governor": "Sergei Ignatyev",
+            "beginning_of_term": "2002-03-21",
+            "end_of_term": "2013-06-23",
+            "acting": false
+        },
+        {
+            "governor": "Elvira Nabiullina",
+            "beginning_of_term": "2013-06-24",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2007,

@@ -58,9 +58,11 @@
         "central_bank": 0.19941348973607037,
         "political": 0.17008797653958943
     },
-    "monetary_dominance": 0.5711968675372588,
-    "fiscal_dominance_mean": 0.128902576673378,
-    "financial_dominance_mean": 0.29990055578936314,
+    "pressures": {
+        "monetary_dominance": 0.5711968675372588,
+        "fiscal_dominance": 0.128902576673378,
+        "financial_dominance": 0.29990055578936314
+    },
     "top_topics": [
         [
             "financial stability",
@@ -102,6 +104,62 @@
             "economic growth",
             0.09090909090909091
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Thomas K. Whitaker",
+            "beginning_of_term": "1969-03-01",
+            "end_of_term": "1976-02-29",
+            "acting": false
+        },
+        {
+            "governor": "Charles H. Murray",
+            "beginning_of_term": "1976-03-01",
+            "end_of_term": "1981-10-31",
+            "acting": false
+        },
+        {
+            "governor": "Tomas O'Cofaigh",
+            "beginning_of_term": "1981-11-01",
+            "end_of_term": "1987-04-30",
+            "acting": false
+        },
+        {
+            "governor": "Maurice F. Doyle",
+            "beginning_of_term": "1987-05-01",
+            "end_of_term": "1994-04-30",
+            "acting": false
+        },
+        {
+            "governor": "Maurice O'Connell",
+            "beginning_of_term": "1994-05-01",
+            "end_of_term": "2002-03-10",
+            "acting": false
+        },
+        {
+            "governor": "John Hurley",
+            "beginning_of_term": "2002-03-11",
+            "end_of_term": "2009-09-25",
+            "acting": false
+        },
+        {
+            "governor": "Patrick Honohan",
+            "beginning_of_term": "2009-09-26",
+            "end_of_term": "2015-11-25",
+            "acting": false
+        },
+        {
+            "governor": "Philip Lane",
+            "beginning_of_term": "2015-11-03",
+            "end_of_term": "2019-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Gabriel Makhlouf",
+            "beginning_of_term": "2019-09-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1997,

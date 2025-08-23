@@ -42,9 +42,11 @@
         "academic": 0.2647058823529412,
         "political": 0.029411764705882353
     },
-    "monetary_dominance": 0.5721718862608358,
-    "fiscal_dominance_mean": 0.20225837121448956,
-    "financial_dominance_mean": 0.22556974252467465,
+    "pressures": {
+        "monetary_dominance": 0.5721718862608358,
+        "fiscal_dominance": 0.20225837121448956,
+        "financial_dominance": 0.22556974252467465
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -86,6 +88,86 @@
             "financial system stability",
             0.10294117647058823
         ]
+    ],
+    "governors": [
+        {
+            "governor": "William Tennekoon",
+            "beginning_of_term": "1967-08-31",
+            "end_of_term": "1971-05-31",
+            "acting": false
+        },
+        {
+            "governor": "Herbert Tennekoon",
+            "beginning_of_term": "1971-07-01",
+            "end_of_term": "1979-01-22",
+            "acting": false
+        },
+        {
+            "governor": "Warnasena Rasaputra",
+            "beginning_of_term": "1979-02-15",
+            "end_of_term": "1988-11-18",
+            "acting": false
+        },
+        {
+            "governor": "Neville Karunatilake",
+            "beginning_of_term": "1988-11-19",
+            "end_of_term": "1992-06-30",
+            "acting": false
+        },
+        {
+            "governor": "Heen Banda Dissanayaka",
+            "beginning_of_term": "1992-07-01",
+            "end_of_term": "1995-11-14",
+            "acting": false
+        },
+        {
+            "governor": "Amarananda Jayawardena",
+            "beginning_of_term": "1995-11-15",
+            "end_of_term": "2004-06-30",
+            "acting": false
+        },
+        {
+            "governor": "Sunil Mendis",
+            "beginning_of_term": "2004-07-01",
+            "end_of_term": "2006-06-30",
+            "acting": false
+        },
+        {
+            "governor": "Ajith Nivard Cabraal",
+            "beginning_of_term": "2006-07-01",
+            "end_of_term": "2015-01-09",
+            "acting": false
+        },
+        {
+            "governor": "Arjuna Mahendran",
+            "beginning_of_term": "2015-01-26",
+            "end_of_term": "2016-06-30",
+            "acting": false
+        },
+        {
+            "governor": "Indrajit Coomaraswamy",
+            "beginning_of_term": "2016-07-02",
+            "end_of_term": "2019-12-20",
+            "acting": false
+        },
+        {
+            "governor": "W. D. Lakshman",
+            "beginning_of_term": "2019-12-24",
+            "end_of_term": "2021-09-14",
+            "acting": false
+        },
+        {
+            "governor": "Ajith Nivard Cabraal",
+            "beginning_of_term": "2021-09-15",
+            "end_of_term": "2022-04-04",
+            "acting": false
+        },
+        {
+            "governor": "Nandalal Weerasinghe",
+            "beginning_of_term": "2022-04-08",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2004,

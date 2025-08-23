@@ -30,9 +30,11 @@
         "academic": 0.2631578947368421,
         "political": 0.05263157894736842
     },
-    "monetary_dominance": 0.44939511308663777,
-    "fiscal_dominance_mean": 0.327042951213348,
-    "financial_dominance_mean": 0.22356193570001426,
+    "pressures": {
+        "monetary_dominance": 0.44939511308663777,
+        "fiscal_dominance": 0.327042951213348,
+        "financial_dominance": 0.22356193570001426
+    },
     "top_topics": [
         [
             "financial stability",
@@ -75,6 +77,7 @@
             0.10526315789473684
         ]
     ],
+    "governors": [],
     "year": [
         2011,
         2012,

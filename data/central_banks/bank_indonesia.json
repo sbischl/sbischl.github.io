@@ -51,9 +51,11 @@
         "academic": 0.18461538461538463,
         "political": 0.03076923076923077
     },
-    "monetary_dominance": 0.6432818808317498,
-    "fiscal_dominance_mean": 0.07327515123072777,
-    "financial_dominance_mean": 0.28344296793752255,
+    "pressures": {
+        "monetary_dominance": 0.6432818808317498,
+        "fiscal_dominance": 0.07327515123072777,
+        "financial_dominance": 0.28344296793752255
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -95,6 +97,80 @@
             "exchange rate",
             0.10769230769230768
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Rachmat Saleh",
+            "beginning_of_term": "1973-01-01",
+            "end_of_term": "1983-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Arifin Mohamed Siregar",
+            "beginning_of_term": "1983-03-01",
+            "end_of_term": "1988-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Adrianus Mooy",
+            "beginning_of_term": "1988-03-01",
+            "end_of_term": "1993-03-01",
+            "acting": false
+        },
+        {
+            "governor": "J. Soedradjad Djiwandono",
+            "beginning_of_term": "1993-03-01",
+            "end_of_term": "1998-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Syahril Sabirin",
+            "beginning_of_term": "1998-02-01",
+            "end_of_term": "2003-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Burhanuddin Abdullah",
+            "beginning_of_term": "2003-05-17",
+            "end_of_term": "2008-05-17",
+            "acting": false
+        },
+        {
+            "governor": "Boediono",
+            "beginning_of_term": "2008-05-22",
+            "end_of_term": "2009-05-16",
+            "acting": false
+        },
+        {
+            "governor": "Miranda Goeltom",
+            "beginning_of_term": "2009-05-16",
+            "end_of_term": "2009-07-27",
+            "acting": true
+        },
+        {
+            "governor": "Darmin Nasution",
+            "beginning_of_term": "2009-07-27",
+            "end_of_term": "2010-09-01",
+            "acting": true
+        },
+        {
+            "governor": "Darmin Nasution",
+            "beginning_of_term": "2010-09-01",
+            "end_of_term": "2013-05-23",
+            "acting": false
+        },
+        {
+            "governor": "Agus Dermawan Wintarto Martowardojo",
+            "beginning_of_term": "2013-05-24",
+            "end_of_term": "2018-05-24",
+            "acting": false
+        },
+        {
+            "governor": "Perry Warjiyo",
+            "beginning_of_term": "2018-05-24",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1999,

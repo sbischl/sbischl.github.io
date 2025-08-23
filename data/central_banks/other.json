@@ -30,9 +30,11 @@
         "financial_market": 0.6,
         "central_bank": 0.4
     },
-    "monetary_dominance": 0.5405351636327465,
-    "fiscal_dominance_mean": 0.0,
-    "financial_dominance_mean": 0.45946483636725355,
+    "pressures": {
+        "monetary_dominance": 0.5405351636327465,
+        "fiscal_dominance": 0.0,
+        "financial_dominance": 0.45946483636725355
+    },
     "top_topics": [
         [
             "risk management",
@@ -75,6 +77,7 @@
             0.2
         ]
     ],
+    "governors": [],
     "year": [
         2000,
         2003,

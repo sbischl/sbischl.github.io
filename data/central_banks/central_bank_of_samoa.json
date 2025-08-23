@@ -24,9 +24,11 @@
         "financial_market": 0.3333333333333333,
         "academic": 0.16666666666666666
     },
-    "monetary_dominance": 0.23931623931623933,
-    "fiscal_dominance_mean": 0.1794871794871795,
-    "financial_dominance_mean": 0.5811965811965812,
+    "pressures": {
+        "monetary_dominance": 0.23931623931623933,
+        "fiscal_dominance": 0.1794871794871795,
+        "financial_dominance": 0.5811965811965812
+    },
     "top_topics": [
         [
             "financial inclusion",
@@ -68,6 +70,32 @@
             "financial supervision",
             0.16666666666666666
         ]
+    ],
+    "governors": [
+        {
+            "governor": "William E. Davies",
+            "beginning_of_term": "1984-01-01",
+            "end_of_term": "1987-02-01",
+            "acting": false
+        },
+        {
+            "governor": "John A. Howard",
+            "beginning_of_term": "1987-02-01",
+            "end_of_term": "1989-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Papali'i Tommy Scanlan",
+            "beginning_of_term": "1989-04-01",
+            "end_of_term": "2011-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Maiava Atalina Emma Ainuu-Enari",
+            "beginning_of_term": "2011-08-11",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2007,

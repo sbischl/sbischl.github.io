@@ -30,9 +30,11 @@
         "academic": 0.09803921568627451,
         "political": 0.0196078431372549
     },
-    "monetary_dominance": 0.10972211163309181,
-    "fiscal_dominance_mean": 0.0,
-    "financial_dominance_mean": 0.8902778883669082,
+    "pressures": {
+        "monetary_dominance": 0.10972211163309181,
+        "fiscal_dominance": 0.0,
+        "financial_dominance": 0.8902778883669082
+    },
     "top_topics": [
         [
             "islamic finance",
@@ -74,6 +76,38 @@
             "takaful",
             0.13725490196078433
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Abdul Karim",
+            "beginning_of_term": "1975-01-01",
+            "end_of_term": "1977-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Abdulla Hassan Saif",
+            "beginning_of_term": "1977-01-01",
+            "end_of_term": "1999-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Shaikh Abdulla bin Khalifa Al Khalifa",
+            "beginning_of_term": "1999-01-01",
+            "end_of_term": "2001-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Shaikh Ahmed bin Mohammed Al Khalifa",
+            "beginning_of_term": "2002-01-01",
+            "end_of_term": "2005-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Rasheed Mohammed Al Maraj",
+            "beginning_of_term": "2005-01-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2005,

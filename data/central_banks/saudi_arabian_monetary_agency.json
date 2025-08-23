@@ -30,9 +30,11 @@
         "academic": 0.14285714285714285,
         "central_bank": 0.10714285714285714
     },
-    "monetary_dominance": 0.5234417096219713,
-    "fiscal_dominance_mean": 0.38181314049616094,
-    "financial_dominance_mean": 0.09474514988186762,
+    "pressures": {
+        "monetary_dominance": 0.5234417096219713,
+        "fiscal_dominance": 0.38181314049616094,
+        "financial_dominance": 0.09474514988186762
+    },
     "top_topics": [
         [
             "economic growth",
@@ -74,6 +76,68 @@
             "monetary policy",
             0.17857142857142855
         ]
+    ],
+    "governors": [
+        {
+            "governor": "George A. Blowers",
+            "beginning_of_term": "1952-01-01",
+            "end_of_term": "1954-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Ralph Standish",
+            "beginning_of_term": "1954-01-01",
+            "end_of_term": "1958-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Anwar Ali",
+            "beginning_of_term": "1958-10-11",
+            "end_of_term": "1974-11-05",
+            "acting": false
+        },
+        {
+            "governor": "Abdul Aziz Al Quraishi",
+            "beginning_of_term": "1974-11-01",
+            "end_of_term": "1983-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Hamad Ibn Saud Al Sayari",
+            "beginning_of_term": "1983-04-01",
+            "end_of_term": "2009-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Muhammed Al-Jasser",
+            "beginning_of_term": "2009-02-28",
+            "end_of_term": "2011-12-13",
+            "acting": false
+        },
+        {
+            "governor": "Fahad al-Mubarak",
+            "beginning_of_term": "2011-12-01",
+            "end_of_term": "2016-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Ahmed Alkholifey",
+            "beginning_of_term": "2016-05-01",
+            "end_of_term": "2021-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Fahad al-Mubarak",
+            "beginning_of_term": "2021-01-01",
+            "end_of_term": "2023-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Ayman bin Mohammed Alsayari",
+            "beginning_of_term": "2023-02-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2006,

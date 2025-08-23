@@ -18,9 +18,11 @@
     "audiences": {
         "financial_market": 1.0
     },
-    "monetary_dominance": null,
-    "fiscal_dominance_mean": null,
-    "financial_dominance_mean": null,
+    "pressures": {
+        "monetary_dominance": null,
+        "fiscal_dominance": null,
+        "financial_dominance": null
+    },
     "top_topics": [
         [
             "economic growth",
@@ -62,6 +64,56 @@
             "inflation",
             0.25
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Maumoon Abdul Gayoom",
+            "beginning_of_term": "1981-07-01",
+            "end_of_term": "2004-08-31",
+            "acting": false
+        },
+        {
+            "governor": "Mohamed Jaleel",
+            "beginning_of_term": "2004-09-01",
+            "end_of_term": "2005-07-14",
+            "acting": false
+        },
+        {
+            "governor": "Qasim Ibrahim",
+            "beginning_of_term": "2005-08-18",
+            "end_of_term": "2007-04-05",
+            "acting": false
+        },
+        {
+            "governor": "Abdullah Jihad",
+            "beginning_of_term": "2007-08-08",
+            "end_of_term": "2008-07-15",
+            "acting": false
+        },
+        {
+            "governor": "Fazeel Najeeb",
+            "beginning_of_term": "2008-10-22",
+            "end_of_term": "2013-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Azeema Adam",
+            "beginning_of_term": "2014-04-20",
+            "end_of_term": "2017-08-16",
+            "acting": false
+        },
+        {
+            "governor": "Ahmed Naseer",
+            "beginning_of_term": "2017-08-24",
+            "end_of_term": "2019-07-24",
+            "acting": false
+        },
+        {
+            "governor": "Ali Hashim",
+            "beginning_of_term": "2019-09-08",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2018,

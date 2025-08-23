@@ -20,9 +20,11 @@
         "central_bank": 0.5,
         "financial_market": 0.5
     },
-    "monetary_dominance": 1.0,
-    "fiscal_dominance_mean": 0.0,
-    "financial_dominance_mean": 0.0,
+    "pressures": {
+        "monetary_dominance": 1.0,
+        "fiscal_dominance": 0.0,
+        "financial_dominance": 0.0
+    },
     "top_topics": [
         [
             "economic growth",
@@ -64,6 +66,62 @@
             "balance of payment",
             0.5
         ]
+    ],
+    "governors": [
+        {
+            "governor": "John A. Howard",
+            "beginning_of_term": "1981-01-01",
+            "end_of_term": "1982-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Patrick Noel",
+            "beginning_of_term": "1983-01-01",
+            "end_of_term": "1984-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Edward Fillingham",
+            "beginning_of_term": "1985-01-01",
+            "end_of_term": "1987-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Franklyn Kere",
+            "beginning_of_term": "1988-01-01",
+            "end_of_term": "1992-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Virani",
+            "beginning_of_term": "1992-08-01",
+            "end_of_term": "1993-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Sampson Ngwele",
+            "beginning_of_term": "1993-04-01",
+            "end_of_term": "1997-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Andrew Kausiama",
+            "beginning_of_term": "1998-04-01",
+            "end_of_term": "2003-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Odo Tevi",
+            "beginning_of_term": "2003-01-01",
+            "end_of_term": "2012-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Simeon Malachi Athy",
+            "beginning_of_term": "2013-01-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2006,

@@ -77,9 +77,11 @@
         "central_bank": 0.2171837708830549,
         "political": 0.06324582338902147
     },
-    "monetary_dominance": 0.6331011288380846,
-    "fiscal_dominance_mean": 0.10569988649909036,
-    "financial_dominance_mean": 0.2611989846628251,
+    "pressures": {
+        "monetary_dominance": 0.6331011288380846,
+        "fiscal_dominance": 0.10569988649909036,
+        "financial_dominance": 0.2611989846628251
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -121,6 +123,62 @@
             "financial markets",
             0.08591885441527447
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Karl Klasen",
+            "beginning_of_term": "1970-01-01",
+            "end_of_term": "1977-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Otmar Emminger",
+            "beginning_of_term": "1977-06-01",
+            "end_of_term": "1979-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Karl Otto P\u00f6hl",
+            "beginning_of_term": "1980-01-01",
+            "end_of_term": "1991-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Helmut Schlesinger",
+            "beginning_of_term": "1991-08-01",
+            "end_of_term": "1993-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Hans Tietmeyer",
+            "beginning_of_term": "1993-10-01",
+            "end_of_term": "1999-08-31",
+            "acting": false
+        },
+        {
+            "governor": "Ernst Welteke",
+            "beginning_of_term": "1999-09-01",
+            "end_of_term": "2004-04-16",
+            "acting": false
+        },
+        {
+            "governor": "Axel Alfred Weber",
+            "beginning_of_term": "2004-04-30",
+            "end_of_term": "2011-04-30",
+            "acting": false
+        },
+        {
+            "governor": "Jens Weidmann",
+            "beginning_of_term": "2011-05-01",
+            "end_of_term": "2021-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Joachim Nagel",
+            "beginning_of_term": "2022-01-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1996,

@@ -27,9 +27,11 @@
         "financial_market": 0.42857142857142855,
         "academic": 0.02857142857142857
     },
-    "monetary_dominance": 0.2272612608976429,
-    "fiscal_dominance_mean": 0.0,
-    "financial_dominance_mean": 0.7727387391023571,
+    "pressures": {
+        "monetary_dominance": 0.2272612608976429,
+        "fiscal_dominance": 0.0,
+        "financial_dominance": 0.7727387391023571
+    },
     "top_topics": [
         [
             "financial stability",
@@ -72,6 +74,7 @@
             0.17142857142857143
         ]
     ],
+    "governors": [],
     "year": [
         2018,
         2019,

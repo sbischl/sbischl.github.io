@@ -39,9 +39,11 @@
         "political": 0.044444444444444446,
         "academic": 0.044444444444444446
     },
-    "monetary_dominance": 0.8468658737963858,
-    "fiscal_dominance_mean": 0.07593902452366978,
-    "financial_dominance_mean": 0.07719510167994442,
+    "pressures": {
+        "monetary_dominance": 0.8468658737963858,
+        "fiscal_dominance": 0.07593902452366978,
+        "financial_dominance": 0.07719510167994442
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -83,6 +85,56 @@
             "interest rates",
             0.11111111111111112
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Hermans",
+            "beginning_of_term": "1975-01-01",
+            "end_of_term": "1977-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Leavitt",
+            "beginning_of_term": "1978-01-01",
+            "end_of_term": "1980-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Mogae",
+            "beginning_of_term": "1980-01-01",
+            "end_of_term": "1982-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Kikonygo",
+            "beginning_of_term": "1982-01-01",
+            "end_of_term": "1987-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Hermans",
+            "beginning_of_term": "1987-01-01",
+            "end_of_term": "1997-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Gaolathe",
+            "beginning_of_term": "1997-07-01",
+            "end_of_term": "1999-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Linah Mohohlo",
+            "beginning_of_term": "1999-10-01",
+            "end_of_term": "2016-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Moses Dinekere Pelaelo",
+            "beginning_of_term": "2016-10-21",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2001,

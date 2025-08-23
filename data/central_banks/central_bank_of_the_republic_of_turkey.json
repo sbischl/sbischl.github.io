@@ -47,9 +47,11 @@
         "academic": 0.2653061224489796,
         "political": 0.030612244897959183
     },
-    "monetary_dominance": 0.7422858409594829,
-    "fiscal_dominance_mean": 0.07356372412229897,
-    "financial_dominance_mean": 0.18415043491821811,
+    "pressures": {
+        "monetary_dominance": 0.7422858409594829,
+        "fiscal_dominance": 0.07356372412229897,
+        "financial_dominance": 0.18415043491821811
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -91,6 +93,116 @@
             "central bank independence",
             0.13265306122448978
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Mehmet Naim Talu",
+            "beginning_of_term": "1966-02-01",
+            "end_of_term": "1971-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Memduh G\u00fcpg\u00fcpo\u011flu",
+            "beginning_of_term": "1971-12-01",
+            "end_of_term": "1975-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Cafer Tayyar Sad\u0131klar",
+            "beginning_of_term": "1976-07-01",
+            "end_of_term": "1978-09-01",
+            "acting": false
+        },
+        {
+            "governor": "I. Hakki Ayd\u0131no\u011flu",
+            "beginning_of_term": "1978-10-01",
+            "end_of_term": "1981-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Osman \u015e\u0131klar",
+            "beginning_of_term": "1981-01-01",
+            "end_of_term": "1984-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Yavuz Canevi",
+            "beginning_of_term": "1984-01-01",
+            "end_of_term": "1986-11-01",
+            "acting": false
+        },
+        {
+            "governor": "R\u00fc\u015fd\u00fc Saraco\u011flu",
+            "beginning_of_term": "1987-07-01",
+            "end_of_term": "1993-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Nihat B\u00fclent G\u00fcltekin",
+            "beginning_of_term": "1993-09-01",
+            "end_of_term": "1994-01-01",
+            "acting": false
+        },
+        {
+            "governor": "\u015e. Yaman T\u00f6r\u00fcner",
+            "beginning_of_term": "1994-02-01",
+            "end_of_term": "1995-11-01",
+            "acting": false
+        },
+        {
+            "governor": "Gazi Er\u00e7el",
+            "beginning_of_term": "1996-04-01",
+            "end_of_term": "2001-03-01",
+            "acting": false
+        },
+        {
+            "governor": "N. S\u00fcreyya Serdenge\u00e7ti",
+            "beginning_of_term": "2001-03-14",
+            "end_of_term": "2006-03-14",
+            "acting": false
+        },
+        {
+            "governor": "Durmu\u015f Yilmaz",
+            "beginning_of_term": "2006-04-18",
+            "end_of_term": "2011-04-18",
+            "acting": false
+        },
+        {
+            "governor": "Erdem Ba\u015f\u00e7\u0131",
+            "beginning_of_term": "2011-04-19",
+            "end_of_term": "2016-04-19",
+            "acting": false
+        },
+        {
+            "governor": "Murat \u00c7etinkaya",
+            "beginning_of_term": "2016-04-19",
+            "end_of_term": "2019-07-05",
+            "acting": false
+        },
+        {
+            "governor": "Murat Uysal",
+            "beginning_of_term": "2019-07-05",
+            "end_of_term": "2020-11-07",
+            "acting": false
+        },
+        {
+            "governor": "Naci A\u011fbal",
+            "beginning_of_term": "2020-11-01",
+            "end_of_term": "2021-03-19",
+            "acting": false
+        },
+        {
+            "governor": "\u015eahap Kavc\u0131o\u011flu",
+            "beginning_of_term": "2021-03-19",
+            "end_of_term": "2023-06-09",
+            "acting": false
+        },
+        {
+            "governor": "Hafize Gaye Erkan",
+            "beginning_of_term": "2023-06-09",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1997,

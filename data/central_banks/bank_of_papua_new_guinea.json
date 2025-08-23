@@ -41,9 +41,11 @@
         "political": 0.16666666666666666,
         "academic": 0.16666666666666666
     },
-    "monetary_dominance": 0.5736538608286756,
-    "fiscal_dominance_mean": 0.2983633196178976,
-    "financial_dominance_mean": 0.1279828195534268,
+    "pressures": {
+        "monetary_dominance": 0.5736538608286756,
+        "fiscal_dominance": 0.2983633196178976,
+        "financial_dominance": 0.1279828195534268
+    },
     "top_topics": [
         [
             "financial inclusion",
@@ -85,6 +87,62 @@
             "financial system",
             0.15
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Henry ToRobert",
+            "beginning_of_term": "1973-01-01",
+            "end_of_term": "1993-07-30",
+            "acting": false
+        },
+        {
+            "governor": "Mekere Morauta",
+            "beginning_of_term": "1993-07-31",
+            "end_of_term": "1994-09-14",
+            "acting": false
+        },
+        {
+            "governor": "Koiari Tarata",
+            "beginning_of_term": "1994-09-15",
+            "end_of_term": "1998-04-08",
+            "acting": false
+        },
+        {
+            "governor": "Morea Vele",
+            "beginning_of_term": "1998-01-01",
+            "end_of_term": "1999-01-01",
+            "acting": false
+        },
+        {
+            "governor": "John Vulupindi",
+            "beginning_of_term": "1998-04-09",
+            "end_of_term": "1998-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Leonard Wilson Kamit",
+            "beginning_of_term": "1999-01-01",
+            "end_of_term": "2009-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Loi Bakani",
+            "beginning_of_term": "2009-12-01",
+            "end_of_term": "2021-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Benny Popoitai",
+            "beginning_of_term": "2021-12-01",
+            "end_of_term": "2023-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Elizabeth Genia",
+            "beginning_of_term": "2023-01-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2003,

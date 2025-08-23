@@ -42,9 +42,11 @@
         "central_bank": 0.2631578947368421,
         "academic": 0.05263157894736842
     },
-    "monetary_dominance": 0.6707483098422097,
-    "fiscal_dominance_mean": 0.1564502343267484,
-    "financial_dominance_mean": 0.1728014558310419,
+    "pressures": {
+        "monetary_dominance": 0.6707483098422097,
+        "fiscal_dominance": 0.1564502343267484,
+        "financial_dominance": 0.1728014558310419
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -86,6 +88,98 @@
             "capital adequacy",
             0.14035087719298245
         ]
+    ],
+    "governors": [
+        {
+            "governor": "A. Eggleston",
+            "beginning_of_term": "1957-08-01",
+            "end_of_term": "1959-04-03",
+            "acting": false
+        },
+        {
+            "governor": "H. Kessels",
+            "beginning_of_term": "1959-08-21",
+            "end_of_term": "1962-09-08",
+            "acting": false
+        },
+        {
+            "governor": "W.M.Q. Halm",
+            "beginning_of_term": "1962-10-05",
+            "end_of_term": "1965-08-13",
+            "acting": false
+        },
+        {
+            "governor": "A. Adomako",
+            "beginning_of_term": "1965-09-10",
+            "end_of_term": "1968-02-09",
+            "acting": false
+        },
+        {
+            "governor": "J.H. Frimpong-Ansah",
+            "beginning_of_term": "1968-03-08",
+            "end_of_term": "1973-02-28",
+            "acting": false
+        },
+        {
+            "governor": "Amon Nikoi",
+            "beginning_of_term": "1973-03-16",
+            "end_of_term": "1977-06-30",
+            "acting": false
+        },
+        {
+            "governor": "A.E.K. Ashiabor",
+            "beginning_of_term": "1977-07-15",
+            "end_of_term": "1983-03-08",
+            "acting": false
+        },
+        {
+            "governor": "J.S. Addo",
+            "beginning_of_term": "1983-03-29",
+            "end_of_term": "1987-06-03",
+            "acting": false
+        },
+        {
+            "governor": "G.K. Agama",
+            "beginning_of_term": "1988-07-15",
+            "end_of_term": "1997-07-16",
+            "acting": false
+        },
+        {
+            "governor": "Kwabena Duffuor",
+            "beginning_of_term": "1997-07-17",
+            "end_of_term": "2001-09-30",
+            "acting": false
+        },
+        {
+            "governor": "Paul A. Acquah",
+            "beginning_of_term": "2001-10-01",
+            "end_of_term": "2009-09-30",
+            "acting": false
+        },
+        {
+            "governor": "K. B. Amissah-Arthur",
+            "beginning_of_term": "2009-10-01",
+            "end_of_term": "2012-08-06",
+            "acting": false
+        },
+        {
+            "governor": "Henry Kofi Wampah",
+            "beginning_of_term": "2012-08-06",
+            "end_of_term": "2016-03-31",
+            "acting": false
+        },
+        {
+            "governor": "Abdul Nashiru Issahaku",
+            "beginning_of_term": "2016-04-01",
+            "end_of_term": "2017-03-31",
+            "acting": false
+        },
+        {
+            "governor": "Ernest Kwamina Yedu Addison",
+            "beginning_of_term": "2017-04-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2005,

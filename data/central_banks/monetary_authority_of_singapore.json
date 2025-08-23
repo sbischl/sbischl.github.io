@@ -58,9 +58,11 @@
         "academic": 0.08414239482200647,
         "political": 0.07766990291262135
     },
-    "monetary_dominance": 0.5486390430556526,
-    "fiscal_dominance_mean": 0.05169367992555572,
-    "financial_dominance_mean": 0.3996672770187916,
+    "pressures": {
+        "monetary_dominance": 0.5486390430556526,
+        "fiscal_dominance": 0.05169367992555572,
+        "financial_dominance": 0.3996672770187916
+    },
     "top_topics": [
         [
             "risk management",
@@ -102,6 +104,44 @@
             "innovation",
             0.09061488673139159
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Hon Sui Sen",
+            "beginning_of_term": "1971-01-01",
+            "end_of_term": "1980-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Goh Keng Swee",
+            "beginning_of_term": "1980-08-01",
+            "end_of_term": "1985-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Richard Hu",
+            "beginning_of_term": "1985-01-01",
+            "end_of_term": "1997-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Lee Hsien Loong",
+            "beginning_of_term": "1998-01-01",
+            "end_of_term": "2004-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Goh Chok Tong",
+            "beginning_of_term": "2004-08-01",
+            "end_of_term": "2011-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Tharman Shanmugaratnam",
+            "beginning_of_term": "2011-05-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1999,

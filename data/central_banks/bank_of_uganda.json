@@ -38,9 +38,11 @@
         "political": 0.11688311688311688,
         "academic": 0.08441558441558442
     },
-    "monetary_dominance": 0.7396876689553157,
-    "fiscal_dominance_mean": 0.1169339758797714,
-    "financial_dominance_mean": 0.1433783551649129,
+    "pressures": {
+        "monetary_dominance": 0.7396876689553157,
+        "fiscal_dominance": 0.1169339758797714,
+        "financial_dominance": 0.1433783551649129
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -82,6 +84,80 @@
             "bank of uganda",
             0.07792207792207792
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Joseph Mary Mubiru",
+            "beginning_of_term": "1966-08-15",
+            "end_of_term": "1971-08-30",
+            "acting": false
+        },
+        {
+            "governor": "Simeon Moses Kiingi",
+            "beginning_of_term": "1971-08-30",
+            "end_of_term": "1973-08-30",
+            "acting": false
+        },
+        {
+            "governor": "Onegi- Obel",
+            "beginning_of_term": "1973-08-30",
+            "end_of_term": "1978-08-30",
+            "acting": false
+        },
+        {
+            "governor": "Henry Kajura",
+            "beginning_of_term": "1978-10-01",
+            "end_of_term": "1979-02-22",
+            "acting": false
+        },
+        {
+            "governor": "Charles N. Kikonyogo",
+            "beginning_of_term": "1979-02-22",
+            "end_of_term": "1979-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Nkojo Gideon",
+            "beginning_of_term": "1979-05-01",
+            "end_of_term": "1980-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Leo Kibirango",
+            "beginning_of_term": "1980-09-01",
+            "end_of_term": "1981-11-01",
+            "acting": true
+        },
+        {
+            "governor": "Leo Kibirango",
+            "beginning_of_term": "1981-11-01",
+            "end_of_term": "1986-11-23",
+            "acting": false
+        },
+        {
+            "governor": "Suleiman Kiggundu",
+            "beginning_of_term": "1986-11-23",
+            "end_of_term": "1990-11-10",
+            "acting": false
+        },
+        {
+            "governor": "Charles N. Kikonyogo",
+            "beginning_of_term": "1990-11-01",
+            "end_of_term": "2000-11-01",
+            "acting": false
+        },
+        {
+            "governor": "Emmanuel Tumusiime Mutebire",
+            "beginning_of_term": "2000-12-01",
+            "end_of_term": "2022-01-23",
+            "acting": false
+        },
+        {
+            "governor": "Michael Atingi-Ego",
+            "beginning_of_term": "2022-01-24",
+            "end_of_term": null,
+            "acting": true
+        }
     ],
     "year": [
         2005,

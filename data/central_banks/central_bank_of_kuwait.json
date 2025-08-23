@@ -24,9 +24,11 @@
         "academic": 0.16666666666666666,
         "financial_market": 0.16666666666666666
     },
-    "monetary_dominance": 0.11743159035491738,
-    "fiscal_dominance_mean": 0.030040639393118396,
-    "financial_dominance_mean": 0.8525277702519642,
+    "pressures": {
+        "monetary_dominance": 0.11743159035491738,
+        "fiscal_dominance": 0.030040639393118396,
+        "financial_dominance": 0.8525277702519642
+    },
     "top_topics": [
         [
             "financial stability",
@@ -68,6 +70,38 @@
             "corporate governance",
             0.16666666666666666
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Hamza A. Hussein",
+            "beginning_of_term": "1973-09-12",
+            "end_of_term": "1983-09-11",
+            "acting": false
+        },
+        {
+            "governor": "Abdulwahab Al-Tammar",
+            "beginning_of_term": "1983-11-01",
+            "end_of_term": "1986-09-30",
+            "acting": false
+        },
+        {
+            "governor": "Salem Abdulaziz Al Sabah",
+            "beginning_of_term": "1986-10-01",
+            "end_of_term": "2012-02-11",
+            "acting": false
+        },
+        {
+            "governor": "Mohammad Y. Al-Hashel",
+            "beginning_of_term": "2012-04-01",
+            "end_of_term": "2022-03-31",
+            "acting": false
+        },
+        {
+            "governor": "Basel Ahmad Al-Haroon",
+            "beginning_of_term": "2022-04-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2016,

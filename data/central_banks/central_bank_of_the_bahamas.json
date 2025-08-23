@@ -25,9 +25,11 @@
         "central_bank": 0.17647058823529413,
         "academic": 0.11764705882352941
     },
-    "monetary_dominance": 0.5603917468712524,
-    "fiscal_dominance_mean": 0.2194428215614526,
-    "financial_dominance_mean": 0.22016543156729493,
+    "pressures": {
+        "monetary_dominance": 0.5603917468712524,
+        "fiscal_dominance": 0.2194428215614526,
+        "financial_dominance": 0.22016543156729493
+    },
     "top_topics": [
         [
             "financial inclusion",
@@ -69,6 +71,44 @@
             "financial sector",
             0.1764705882352941
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Timothy B. Donaldson",
+            "beginning_of_term": "1974-06-01",
+            "end_of_term": "1980-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Sir William C. Allen",
+            "beginning_of_term": "1980-06-01",
+            "end_of_term": "1987-01-01",
+            "acting": false
+        },
+        {
+            "governor": "James H. Smith",
+            "beginning_of_term": "1987-02-01",
+            "end_of_term": "1997-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Julian W. Francis",
+            "beginning_of_term": "1997-02-01",
+            "end_of_term": "2005-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Wendy M. Craigg",
+            "beginning_of_term": "2005-06-01",
+            "end_of_term": "2015-12-31",
+            "acting": false
+        },
+        {
+            "governor": "John A. Rolle",
+            "beginning_of_term": "2016-01-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2004,

@@ -60,9 +60,11 @@
         "political": 0.15992647058823528,
         "central_bank": 0.04044117647058824
     },
-    "monetary_dominance": 0.7031441236995837,
-    "fiscal_dominance_mean": 0.055143529263273115,
-    "financial_dominance_mean": 0.24171234703714312,
+    "pressures": {
+        "monetary_dominance": 0.7031441236995837,
+        "fiscal_dominance": 0.055143529263273115,
+        "financial_dominance": 0.24171234703714312
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -104,6 +106,56 @@
             "productivity",
             0.09926470588235294
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Herbert Cole (Nugget) Coombs",
+            "beginning_of_term": "1960-01-01",
+            "end_of_term": "1968-06-01",
+            "acting": false
+        },
+        {
+            "governor": "John Grant (Jock) Phillips",
+            "beginning_of_term": "1968-07-01",
+            "end_of_term": "1975-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Harold Murray (Harry) Knight",
+            "beginning_of_term": "1975-07-01",
+            "end_of_term": "1982-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Robert Alan (Bob) Johnston",
+            "beginning_of_term": "1982-08-01",
+            "end_of_term": "1989-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Bernard William (Bernie) Fraser",
+            "beginning_of_term": "1989-09-01",
+            "end_of_term": "1996-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Ian John Macfarlane",
+            "beginning_of_term": "1996-09-01",
+            "end_of_term": "2006-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Glenn Robert Stevens",
+            "beginning_of_term": "2006-09-01",
+            "end_of_term": "2016-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Philip William Lowe",
+            "beginning_of_term": "2016-09-18",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1997,

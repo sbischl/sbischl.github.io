@@ -57,9 +57,11 @@
         "central_bank": 0.16666666666666666,
         "political": 0.09701492537313433
     },
-    "monetary_dominance": 0.7310826241682088,
-    "fiscal_dominance_mean": 0.07046849197307006,
-    "financial_dominance_mean": 0.19844888385872114,
+    "pressures": {
+        "monetary_dominance": 0.7310826241682088,
+        "fiscal_dominance": 0.07046849197307006,
+        "financial_dominance": 0.19844888385872114
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -101,6 +103,50 @@
             "south africa",
             0.12935323383084577
         ]
+    ],
+    "governors": [
+        {
+            "governor": "G. Rissik",
+            "beginning_of_term": "1962-07-01",
+            "end_of_term": "1967-06-01",
+            "acting": false
+        },
+        {
+            "governor": "T. W. de Jongh",
+            "beginning_of_term": "1967-07-01",
+            "end_of_term": "1980-12-01",
+            "acting": false
+        },
+        {
+            "governor": "G. P. C. de Kock",
+            "beginning_of_term": "1981-01-01",
+            "end_of_term": "1989-08-01",
+            "acting": false
+        },
+        {
+            "governor": "C. L. Stals",
+            "beginning_of_term": "1989-08-01",
+            "end_of_term": "1999-08-01",
+            "acting": false
+        },
+        {
+            "governor": "TT. Mboweni",
+            "beginning_of_term": "1999-08-01",
+            "end_of_term": "2009-11-01",
+            "acting": false
+        },
+        {
+            "governor": "Gill Marcus",
+            "beginning_of_term": "2009-11-01",
+            "end_of_term": "2014-11-01",
+            "acting": false
+        },
+        {
+            "governor": "Lesetja Kganyago",
+            "beginning_of_term": "2014-11-09",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1997,

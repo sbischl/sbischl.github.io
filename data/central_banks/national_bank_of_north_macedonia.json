@@ -45,9 +45,11 @@
         "academic": 0.2,
         "political": 0.12222222222222222
     },
-    "monetary_dominance": 0.7077017697202749,
-    "fiscal_dominance_mean": 0.0407908998257562,
-    "financial_dominance_mean": 0.25150733045396895,
+    "pressures": {
+        "monetary_dominance": 0.7077017697202749,
+        "fiscal_dominance": 0.0407908998257562,
+        "financial_dominance": 0.25150733045396895
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -89,6 +91,32 @@
             "central banks",
             0.1
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Ljube Trpeski",
+            "beginning_of_term": "1997-05-01",
+            "end_of_term": "2004-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Petar Goshev",
+            "beginning_of_term": "2004-05-01",
+            "end_of_term": "2011-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Dimitar Bogov",
+            "beginning_of_term": "2011-05-01",
+            "end_of_term": "2018-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Anita Angelovska Bezhoska",
+            "beginning_of_term": "2018-05-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2001,

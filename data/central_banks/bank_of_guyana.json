@@ -18,9 +18,11 @@
         "central_bank": 0.5,
         "financial_market": 0.5
     },
-    "monetary_dominance": null,
-    "fiscal_dominance_mean": null,
-    "financial_dominance_mean": null,
+    "pressures": {
+        "monetary_dominance": null,
+        "fiscal_dominance": null,
+        "financial_dominance": null
+    },
     "top_topics": [
         [
             "information technology",
@@ -62,6 +64,44 @@
             "risk mitigation",
             0.5
         ]
+    ],
+    "governors": [
+        {
+            "governor": "William Peter D'Andrade",
+            "beginning_of_term": "1968-01-01",
+            "end_of_term": "1975-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Patrick E. Matthews",
+            "beginning_of_term": "1975-02-01",
+            "end_of_term": "1991-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Archibald Meredith",
+            "beginning_of_term": "1991-09-01",
+            "end_of_term": "1998-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Dolly Sursattie Singh",
+            "beginning_of_term": "1998-04-01",
+            "end_of_term": "2004-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Lawrence Williams",
+            "beginning_of_term": "2005-06-01",
+            "end_of_term": "2014-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Gobind Ganga",
+            "beginning_of_term": "2014-12-02",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2012

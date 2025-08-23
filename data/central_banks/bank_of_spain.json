@@ -51,9 +51,11 @@
         "political": 0.16338028169014085,
         "central_bank": 0.16056338028169015
     },
-    "monetary_dominance": 0.6839774681389356,
-    "fiscal_dominance_mean": 0.08562299335472318,
-    "financial_dominance_mean": 0.23039953850634126,
+    "pressures": {
+        "monetary_dominance": 0.6839774681389356,
+        "fiscal_dominance": 0.08562299335472318,
+        "financial_dominance": 0.23039953850634126
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -95,6 +97,62 @@
             "fiscal consolidation",
             0.08450704225352113
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Luis Coronel de Palma",
+            "beginning_of_term": "1970-07-01",
+            "end_of_term": "1976-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Jos\u00e9 Mar\u00eda L\u00f3pez de Letona",
+            "beginning_of_term": "1976-08-01",
+            "end_of_term": "1978-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Jos\u00e9 Ram\u00f3n \u00c1lvarez Rendueles",
+            "beginning_of_term": "1978-03-01",
+            "end_of_term": "1984-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Mariano Rubio Jim\u00e9nez",
+            "beginning_of_term": "1984-07-01",
+            "end_of_term": "1992-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Luis \u00c1ngel Rojo Duque",
+            "beginning_of_term": "1992-07-01",
+            "end_of_term": "2000-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Jaime Caruana Lacorte",
+            "beginning_of_term": "2000-07-01",
+            "end_of_term": "2006-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Miguel Fern\u00e1ndez Ord\u00f3\u00f1ez",
+            "beginning_of_term": "2006-07-01",
+            "end_of_term": "2012-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Luis M. Linde de Castro",
+            "beginning_of_term": "2012-07-01",
+            "end_of_term": "2018-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Pablo Hern\u00e1ndez de Cos",
+            "beginning_of_term": "2018-06-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2000,

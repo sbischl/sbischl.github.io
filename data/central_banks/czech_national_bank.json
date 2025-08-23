@@ -46,9 +46,11 @@
         "central_bank": 0.22413793103448276,
         "political": 0.05172413793103448
     },
-    "monetary_dominance": 0.711705904085941,
-    "fiscal_dominance_mean": 0.06144097077570412,
-    "financial_dominance_mean": 0.22685312513835482,
+    "pressures": {
+        "monetary_dominance": 0.711705904085941,
+        "fiscal_dominance": 0.06144097077570412,
+        "financial_dominance": 0.22685312513835482
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -90,6 +92,50 @@
             "czech republic",
             0.10344827586206896
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Josef To\u0161ovsk\u00fd",
+            "beginning_of_term": "1993-01-20",
+            "end_of_term": "1997-12-17",
+            "acting": false
+        },
+        {
+            "governor": "Pavel Kysilka",
+            "beginning_of_term": "1997-12-17",
+            "end_of_term": "1998-06-22",
+            "acting": false
+        },
+        {
+            "governor": "Josef To\u0161ovsk\u00fd",
+            "beginning_of_term": "1998-06-22",
+            "end_of_term": "2000-11-01",
+            "acting": false
+        },
+        {
+            "governor": "Zden\u011bk T\u016fma",
+            "beginning_of_term": "2000-12-01",
+            "end_of_term": "2010-06-30",
+            "acting": false
+        },
+        {
+            "governor": "Miroslav Singer",
+            "beginning_of_term": "2010-07-01",
+            "end_of_term": "2016-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Jiri Rusnok",
+            "beginning_of_term": "2016-07-01",
+            "end_of_term": "2022-06-30",
+            "acting": false
+        },
+        {
+            "governor": "Ale\u0161 Michl",
+            "beginning_of_term": "2022-07-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1997,

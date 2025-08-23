@@ -32,9 +32,11 @@
         "central_bank": 0.3157894736842105,
         "financial_market": 0.21052631578947367
     },
-    "monetary_dominance": 0.4326402679091139,
-    "fiscal_dominance_mean": 0.023769756426803526,
-    "financial_dominance_mean": 0.5435899756640826,
+    "pressures": {
+        "monetary_dominance": 0.4326402679091139,
+        "fiscal_dominance": 0.023769756426803526,
+        "financial_dominance": 0.5435899756640826
+    },
     "top_topics": [
         [
             "financial stability",
@@ -77,6 +79,7 @@
             0.11111111111111112
         ]
     ],
+    "governors": [],
     "year": [
         1997,
         1998,

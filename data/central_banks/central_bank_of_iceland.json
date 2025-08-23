@@ -52,9 +52,11 @@
         "academic": 0.2111111111111111,
         "political": 0.05555555555555555
     },
-    "monetary_dominance": 0.6244912423838825,
-    "fiscal_dominance_mean": 0.07596351200430225,
-    "financial_dominance_mean": 0.29954524561181506,
+    "pressures": {
+        "monetary_dominance": 0.6244912423838825,
+        "fiscal_dominance": 0.07596351200430225,
+        "financial_dominance": 0.29954524561181506
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -96,6 +98,50 @@
             "icelandic economy",
             0.13333333333333333
         ]
+    ],
+    "governors": [
+        {
+            "governor": "J\u00f3hannes Nordal",
+            "beginning_of_term": "1961-01-01",
+            "end_of_term": "1993-01-01",
+            "acting": false
+        },
+        {
+            "governor": "J\u00f3n Sigur\u00f0sson",
+            "beginning_of_term": "1993-01-01",
+            "end_of_term": "1994-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Eir\u00edkur Gu\u00f0nason",
+            "beginning_of_term": "1994-01-01",
+            "end_of_term": "2005-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Dav\u00ed\u00f0 Oddsson",
+            "beginning_of_term": "2005-10-01",
+            "end_of_term": "2009-02-26",
+            "acting": false
+        },
+        {
+            "governor": "Svein Harald \u00d8ygard",
+            "beginning_of_term": "2009-02-27",
+            "end_of_term": "2009-08-19",
+            "acting": true
+        },
+        {
+            "governor": "M\u00e1r Gudmundsson",
+            "beginning_of_term": "2009-08-20",
+            "end_of_term": "2019-07-01",
+            "acting": false
+        },
+        {
+            "governor": "\u00c1sgeir J\u00f3nsson",
+            "beginning_of_term": "2019-07-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1998,

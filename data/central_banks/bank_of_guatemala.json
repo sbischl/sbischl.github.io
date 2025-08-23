@@ -17,9 +17,11 @@
     "audiences": {
         "financial_market": 1.0
     },
-    "monetary_dominance": 1.0,
-    "fiscal_dominance_mean": 0.0,
-    "financial_dominance_mean": 0.0,
+    "pressures": {
+        "monetary_dominance": 1.0,
+        "fiscal_dominance": 0.0,
+        "financial_dominance": 0.0
+    },
     "top_topics": [
         [
             "global economic prospects",
@@ -61,6 +63,140 @@
             "economic stability",
             1.0
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Augusto Contreras Godoy",
+            "beginning_of_term": "1970-07-01",
+            "end_of_term": "1974-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Manuel M\u00e9ndez Escobar",
+            "beginning_of_term": "1974-07-01",
+            "end_of_term": "1978-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Plinio Alfredo Grazioso Barillas",
+            "beginning_of_term": "1978-07-01",
+            "end_of_term": "1982-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Jorge Gonz\u00e1lez del Valle",
+            "beginning_of_term": "1982-04-01",
+            "end_of_term": "1982-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Armando Gonz\u00e1lez Campo",
+            "beginning_of_term": "1983-01-01",
+            "end_of_term": "1983-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Carlos Humberto Alp\u00edre P\u00e9rez",
+            "beginning_of_term": "1983-10-01",
+            "end_of_term": "1984-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Oscar Alvarez Marroquin",
+            "beginning_of_term": "1984-10-01",
+            "end_of_term": "1985-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Jorge Luis Monz\u00f3n Ju\u00e1rez",
+            "beginning_of_term": "1985-10-01",
+            "end_of_term": "1985-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Jos\u00e9 Federico Linares Mart\u00ednez",
+            "beginning_of_term": "1986-01-01",
+            "end_of_term": "1987-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Jos\u00e9 Miguel Gait\u00e1n Ram\u00edrez",
+            "beginning_of_term": "1987-11-01",
+            "end_of_term": "1988-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Lizardo Arturo Sosa L\u00f3pez",
+            "beginning_of_term": "1989-01-01",
+            "end_of_term": "1990-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Oscar Humberto Pineda Robles",
+            "beginning_of_term": "1990-09-01",
+            "end_of_term": "1990-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Jos\u00e9 Federico Linares Mart\u00ednez",
+            "beginning_of_term": "1991-01-01",
+            "end_of_term": "1992-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Lizardo Arturo Sosa L\u00f3pez",
+            "beginning_of_term": "1993-01-01",
+            "end_of_term": "1993-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Willy Waldemar Zapata Sagastume",
+            "beginning_of_term": "1993-07-01",
+            "end_of_term": "1997-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Edin Homero Vel\u00e1zquez Escobedo",
+            "beginning_of_term": "1997-07-01",
+            "end_of_term": "2000-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Lizardo Arturo Sosa Ramirez",
+            "beginning_of_term": "2000-02-01",
+            "end_of_term": "2006-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Mar\u00eda Antonieta Del Cid Navas de Bonilla",
+            "beginning_of_term": "2006-10-01",
+            "end_of_term": "2010-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Edgar Baltazar Barqu\u00edn Dur\u00e1n",
+            "beginning_of_term": "2010-01-01",
+            "end_of_term": "2014-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Julio Roberto Su\u00e1rez Guerra",
+            "beginning_of_term": "2014-10-01",
+            "end_of_term": "2018-09-30",
+            "acting": false
+        },
+        {
+            "governor": "Sergio Francisco Recinos Rivera",
+            "beginning_of_term": "2018-10-01",
+            "end_of_term": "2022-09-30",
+            "acting": false
+        },
+        {
+            "governor": "Alvaro Gonz\u00e1lez Ricci",
+            "beginning_of_term": "2022-10-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2012

@@ -25,9 +25,11 @@
         "central_bank": 0.5714285714285714,
         "financial_market": 0.42857142857142855
     },
-    "monetary_dominance": 0.40266168059832813,
-    "fiscal_dominance_mean": 0.28673559172899254,
-    "financial_dominance_mean": 0.31060272767267927,
+    "pressures": {
+        "monetary_dominance": 0.40266168059832813,
+        "fiscal_dominance": 0.28673559172899254,
+        "financial_dominance": 0.31060272767267927
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -69,6 +71,86 @@
             "investment",
             0.14285714285714285
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Seghir Mostefai",
+            "beginning_of_term": "1962-12-13",
+            "end_of_term": "1981-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Mahfoud Aoufi",
+            "beginning_of_term": "1981-01-01",
+            "end_of_term": "1982-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Rachid Bouraoui",
+            "beginning_of_term": "1982-09-01",
+            "end_of_term": "1985-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Bader Eddine Nouioua",
+            "beginning_of_term": "1985-06-01",
+            "end_of_term": "1989-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Abderrahmane Hadj-Nacer",
+            "beginning_of_term": "1989-02-01",
+            "end_of_term": "1992-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Abdelwahab Keramane",
+            "beginning_of_term": "1992-07-01",
+            "end_of_term": "2001-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Mohamed Laksaci",
+            "beginning_of_term": "2001-01-01",
+            "end_of_term": "2016-05-31",
+            "acting": false
+        },
+        {
+            "governor": "Mohamed Loukal",
+            "beginning_of_term": "2016-05-31",
+            "end_of_term": "2019-03-31",
+            "acting": false
+        },
+        {
+            "governor": "Amar Hiouani",
+            "beginning_of_term": "2019-04-20",
+            "end_of_term": "2019-11-14",
+            "acting": true
+        },
+        {
+            "governor": "Benabderrahmane Aymane",
+            "beginning_of_term": "2019-11-14",
+            "end_of_term": "2020-07-23",
+            "acting": false
+        },
+        {
+            "governor": "Rosthom Fadli",
+            "beginning_of_term": "2020-06-23",
+            "end_of_term": "2020-09-15",
+            "acting": true
+        },
+        {
+            "governor": "Rosthom Fadli",
+            "beginning_of_term": "2020-09-15",
+            "end_of_term": "2022-05-23",
+            "acting": false
+        },
+        {
+            "governor": "Salah Eddine Taleb",
+            "beginning_of_term": "2022-05-23",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2009,

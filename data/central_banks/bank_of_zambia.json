@@ -42,9 +42,11 @@
         "academic": 0.12738853503184713,
         "political": 0.050955414012738856
     },
-    "monetary_dominance": 0.7475522407187911,
-    "fiscal_dominance_mean": 0.10099834894707045,
-    "financial_dominance_mean": 0.1514494103341385,
+    "pressures": {
+        "monetary_dominance": 0.7475522407187911,
+        "fiscal_dominance": 0.10099834894707045,
+        "financial_dominance": 0.1514494103341385
+    },
     "top_topics": [
         [
             "economic growth",
@@ -86,6 +88,110 @@
             "financial stability",
             0.10828025477707005
         ]
+    ],
+    "governors": [
+        {
+            "governor": "R.C.H. Hallet",
+            "beginning_of_term": "1964-08-07",
+            "end_of_term": "1967-01-01",
+            "acting": false
+        },
+        {
+            "governor": "J.B. Zulu",
+            "beginning_of_term": "1967-10-01",
+            "end_of_term": "1970-10-01",
+            "acting": false
+        },
+        {
+            "governor": "V.S. Musakanya",
+            "beginning_of_term": "1970-10-01",
+            "end_of_term": "1972-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Bitwell R. Kuwani",
+            "beginning_of_term": "1972-06-01",
+            "end_of_term": "1976-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Luke J. Mwananshiku",
+            "beginning_of_term": "1976-05-01",
+            "end_of_term": "1981-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Bitwell R. Kuwani",
+            "beginning_of_term": "1981-05-01",
+            "end_of_term": "1984-02-01",
+            "acting": false
+        },
+        {
+            "governor": "David A.R. Phiri",
+            "beginning_of_term": "1984-04-01",
+            "end_of_term": "1986-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Leonard Chivuno",
+            "beginning_of_term": "1986-06-01",
+            "end_of_term": "1987-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Francis X. Nkhoma",
+            "beginning_of_term": "1987-01-01",
+            "end_of_term": "1989-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Jacques A. Boussieres",
+            "beginning_of_term": "1990-01-01",
+            "end_of_term": "1992-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Dominic C. Mulaisho",
+            "beginning_of_term": "1992-07-01",
+            "end_of_term": "1995-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Jacob Mwanza",
+            "beginning_of_term": "1995-08-01",
+            "end_of_term": "2002-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Caleb Mailoni Fundanga",
+            "beginning_of_term": "2002-04-01",
+            "end_of_term": "2011-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Michael Mikayeli Gondwe",
+            "beginning_of_term": "2011-12-23",
+            "end_of_term": "2015-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Denny H. Kalyalya",
+            "beginning_of_term": "2015-02-01",
+            "end_of_term": "2020-08-22",
+            "acting": false
+        },
+        {
+            "governor": "Christopher M. Mvunga",
+            "beginning_of_term": "2020-08-24",
+            "end_of_term": "2021-09-07",
+            "acting": false
+        },
+        {
+            "governor": "Denny H. Kalyalya (reinstated)",
+            "beginning_of_term": "2021-01-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2003,

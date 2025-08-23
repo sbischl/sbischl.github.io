@@ -37,9 +37,11 @@
         "central_bank": 0.19047619047619047,
         "financial_market": 0.09523809523809523
     },
-    "monetary_dominance": 0.8599199171596524,
-    "fiscal_dominance_mean": 0.0627725341936621,
-    "financial_dominance_mean": 0.07730754864668551,
+    "pressures": {
+        "monetary_dominance": 0.8599199171596524,
+        "fiscal_dominance": 0.0627725341936621,
+        "financial_dominance": 0.07730754864668551
+    },
     "top_topics": [
         [
             "fiscal policy",
@@ -81,6 +83,44 @@
             "euro adoption",
             0.1904761904761905
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Rein Otsason",
+            "beginning_of_term": "1990-01-01",
+            "end_of_term": "1991-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Siim Kallas",
+            "beginning_of_term": "1991-09-01",
+            "end_of_term": "1995-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Vahur Kraft",
+            "beginning_of_term": "1995-04-01",
+            "end_of_term": "2005-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Andres Lipstok",
+            "beginning_of_term": "2005-07-01",
+            "end_of_term": "2012-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Ardo Hansson",
+            "beginning_of_term": "2012-06-01",
+            "end_of_term": "2019-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Madis M\u00fcller",
+            "beginning_of_term": "2019-06-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2001,

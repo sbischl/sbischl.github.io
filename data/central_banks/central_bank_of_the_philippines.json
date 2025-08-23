@@ -45,9 +45,11 @@
         "academic": 0.054945054945054944,
         "political": 0.03663003663003663
     },
-    "monetary_dominance": 0.7480941658584815,
-    "fiscal_dominance_mean": 0.1158784577616053,
-    "financial_dominance_mean": 0.1360273763799132,
+    "pressures": {
+        "monetary_dominance": 0.7480941658584815,
+        "fiscal_dominance": 0.1158784577616053,
+        "financial_dominance": 0.1360273763799132
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -89,6 +91,74 @@
             "microfinance",
             0.10073260073260074
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Alfonso Calalang",
+            "beginning_of_term": "1968-01-01",
+            "end_of_term": "1970-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Gregorio S. Licaros",
+            "beginning_of_term": "1970-01-01",
+            "end_of_term": "1981-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Jaime C. Laya",
+            "beginning_of_term": "1981-01-01",
+            "end_of_term": "1984-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Jose B. Fernandez, Jr.",
+            "beginning_of_term": "1984-01-01",
+            "end_of_term": "1990-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Jose L. Cuisa, Jr.",
+            "beginning_of_term": "1990-02-01",
+            "end_of_term": "1993-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Gabriel C. Singson",
+            "beginning_of_term": "1993-07-01",
+            "end_of_term": "1999-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Rafael B. Buenaventura",
+            "beginning_of_term": "1999-07-01",
+            "end_of_term": "2005-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Amando M. Tetangco, Jr.",
+            "beginning_of_term": "2005-07-01",
+            "end_of_term": "2017-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Nestor Espenilla",
+            "beginning_of_term": "2017-07-03",
+            "end_of_term": "2019-02-23",
+            "acting": false
+        },
+        {
+            "governor": "Benjamin Diokno",
+            "beginning_of_term": "2019-03-04",
+            "end_of_term": "2022-06-30",
+            "acting": false
+        },
+        {
+            "governor": "Felipe M. Medalla",
+            "beginning_of_term": "2022-06-30",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2004,

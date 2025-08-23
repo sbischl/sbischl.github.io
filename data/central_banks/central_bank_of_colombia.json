@@ -24,9 +24,11 @@
         "political": 0.3333333333333333,
         "financial_market": 0.16666666666666666
     },
-    "monetary_dominance": 0.6784178550430583,
-    "fiscal_dominance_mean": 0.09038193283607898,
-    "financial_dominance_mean": 0.23120021212086275,
+    "pressures": {
+        "monetary_dominance": 0.6784178550430583,
+        "fiscal_dominance": 0.09038193283607898,
+        "financial_dominance": 0.23120021212086275
+    },
     "top_topics": [
         [
             "inflation",
@@ -68,6 +70,56 @@
             "external factors",
             0.16666666666666666
         ]
+    ],
+    "governors": [
+        {
+            "governor": "German Botero de los Rios",
+            "beginning_of_term": "1969-10-01",
+            "end_of_term": "1978-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Rafael Gamma Quijano",
+            "beginning_of_term": "1978-08-01",
+            "end_of_term": "1982-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Hugo Palacios Mej\u00eda",
+            "beginning_of_term": "1982-09-01",
+            "end_of_term": "1985-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Francisco J. Ortega Acoste",
+            "beginning_of_term": "1985-10-01",
+            "end_of_term": "1993-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Miguel Urrutia Montoya",
+            "beginning_of_term": "1993-02-01",
+            "end_of_term": "2005-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Jose Dario Uribe Escobar",
+            "beginning_of_term": "2005-01-01",
+            "end_of_term": "2017-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Juan Jose Echavarria",
+            "beginning_of_term": "2017-01-01",
+            "end_of_term": "2020-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Leonardo Villar",
+            "beginning_of_term": "2021-01-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2004,

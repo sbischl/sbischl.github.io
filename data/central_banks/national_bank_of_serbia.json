@@ -44,9 +44,11 @@
         "academic": 0.0975609756097561,
         "political": 0.07317073170731707
     },
-    "monetary_dominance": 0.8402598483023682,
-    "fiscal_dominance_mean": 0.06626948331798238,
-    "financial_dominance_mean": 0.09347066837964946,
+    "pressures": {
+        "monetary_dominance": 0.8402598483023682,
+        "fiscal_dominance": 0.06626948331798238,
+        "financial_dominance": 0.09347066837964946
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -89,6 +91,7 @@
             0.13008130081300812
         ]
     ],
+    "governors": [],
     "year": [
         2004,
         2005,

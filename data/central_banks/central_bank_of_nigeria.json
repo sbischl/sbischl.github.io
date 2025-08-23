@@ -35,9 +35,11 @@
         "academic": 0.3333333333333333,
         "central_bank": 0.24242424242424243
     },
-    "monetary_dominance": 0.4608099196346248,
-    "fiscal_dominance_mean": 0.32235468206924733,
-    "financial_dominance_mean": 0.21683539829612777,
+    "pressures": {
+        "monetary_dominance": 0.4608099196346248,
+        "fiscal_dominance": 0.32235468206924733,
+        "financial_dominance": 0.21683539829612777
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -79,6 +81,68 @@
             "nigeria",
             0.09090909090909091
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Clement Nyong Isong",
+            "beginning_of_term": "1967-08-15",
+            "end_of_term": "1975-09-22",
+            "acting": false
+        },
+        {
+            "governor": "Mallam Adamu Ciroma",
+            "beginning_of_term": "1975-09-24",
+            "end_of_term": "1977-06-28",
+            "acting": false
+        },
+        {
+            "governor": "Ola Vincent",
+            "beginning_of_term": "1977-06-28",
+            "end_of_term": "1982-06-28",
+            "acting": false
+        },
+        {
+            "governor": "Abdulkadir Ahmed",
+            "beginning_of_term": "1982-06-28",
+            "end_of_term": "1993-09-30",
+            "acting": false
+        },
+        {
+            "governor": "Paul A. Ogwuma",
+            "beginning_of_term": "1993-10-01",
+            "end_of_term": "1999-05-29",
+            "acting": false
+        },
+        {
+            "governor": "J. O. Sanusi",
+            "beginning_of_term": "1999-05-29",
+            "end_of_term": "2004-05-29",
+            "acting": false
+        },
+        {
+            "governor": "Chukwuma C. Soludo",
+            "beginning_of_term": "2004-05-29",
+            "end_of_term": "2009-05-29",
+            "acting": false
+        },
+        {
+            "governor": "Mallam Sanusi Lamido Sanusi",
+            "beginning_of_term": "2009-06-03",
+            "end_of_term": "2014-06-02",
+            "acting": false
+        },
+        {
+            "governor": "Godwin Emefiele",
+            "beginning_of_term": "2014-06-03",
+            "end_of_term": "2018-10-17",
+            "acting": false
+        },
+        {
+            "governor": "Folashodun Adebisi Shonubi",
+            "beginning_of_term": "2018-10-17",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2003,

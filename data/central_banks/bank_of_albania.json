@@ -46,9 +46,11 @@
         "academic": 0.19063545150501673,
         "political": 0.14381270903010032
     },
-    "monetary_dominance": 0.8108915762925762,
-    "fiscal_dominance_mean": 0.05943697724132108,
-    "financial_dominance_mean": 0.12967144646610268,
+    "pressures": {
+        "monetary_dominance": 0.8108915762925762,
+        "fiscal_dominance": 0.05943697724132108,
+        "financial_dominance": 0.12967144646610268
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -90,6 +92,50 @@
             "financial inclusion",
             0.11036789297658862
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Ilir Hoti",
+            "beginning_of_term": "1992-05-01",
+            "end_of_term": "1993-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Dylber Vrioni",
+            "beginning_of_term": "1993-09-01",
+            "end_of_term": "1994-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Kristaq Luniku",
+            "beginning_of_term": "1994-12-01",
+            "end_of_term": "1997-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Qamil Tusha",
+            "beginning_of_term": "1997-04-01",
+            "end_of_term": "1997-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Shk\u00eblqim Cani",
+            "beginning_of_term": "1997-08-01",
+            "end_of_term": "2004-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Ardian Fullani",
+            "beginning_of_term": "2004-10-01",
+            "end_of_term": "2014-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Gent Sejko",
+            "beginning_of_term": "2015-02-05",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2003,

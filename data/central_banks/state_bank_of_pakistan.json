@@ -48,9 +48,11 @@
         "political": 0.1111111111111111,
         "central_bank": 0.05925925925925926
     },
-    "monetary_dominance": 0.5736886739327,
-    "fiscal_dominance_mean": 0.2715612010144681,
-    "financial_dominance_mean": 0.15475012505283184,
+    "pressures": {
+        "monetary_dominance": 0.5736886739327,
+        "fiscal_dominance": 0.2715612010144681,
+        "financial_dominance": 0.15475012505283184
+    },
     "top_topics": [
         [
             "financial inclusion",
@@ -92,6 +94,122 @@
             "islamic finance",
             0.11111111111111112
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Mahbubur Raschid",
+            "beginning_of_term": "1967-07-20",
+            "end_of_term": "1971-07-01",
+            "acting": false
+        },
+        {
+            "governor": "S.U. Durrani",
+            "beginning_of_term": "1971-07-01",
+            "end_of_term": "1971-12-22",
+            "acting": false
+        },
+        {
+            "governor": "Ghulam Ishaq Khan",
+            "beginning_of_term": "1971-12-22",
+            "end_of_term": "1975-11-30",
+            "acting": false
+        },
+        {
+            "governor": "S. Osman Ali",
+            "beginning_of_term": "1975-12-01",
+            "end_of_term": "1978-07-01",
+            "acting": false
+        },
+        {
+            "governor": "A.G.N. Kazi",
+            "beginning_of_term": "1978-07-15",
+            "end_of_term": "1986-07-09",
+            "acting": false
+        },
+        {
+            "governor": "V.A. Jafarey",
+            "beginning_of_term": "1986-07-10",
+            "end_of_term": "1988-08-16",
+            "acting": false
+        },
+        {
+            "governor": "I.A. Hanfi",
+            "beginning_of_term": "1988-08-17",
+            "end_of_term": "1989-09-02",
+            "acting": false
+        },
+        {
+            "governor": "Kassim Parekh",
+            "beginning_of_term": "1989-09-05",
+            "end_of_term": "1990-08-30",
+            "acting": false
+        },
+        {
+            "governor": "I.A. Hanfi",
+            "beginning_of_term": "1990-09-01",
+            "end_of_term": "1993-06-30",
+            "acting": false
+        },
+        {
+            "governor": "Muhammad Yaqub",
+            "beginning_of_term": "1993-07-25",
+            "end_of_term": "1999-11-05",
+            "acting": false
+        },
+        {
+            "governor": "Ishrat Husain",
+            "beginning_of_term": "1999-12-02",
+            "end_of_term": "2005-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Shamshad Akhtar",
+            "beginning_of_term": "2006-01-02",
+            "end_of_term": "2009-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Syed Salim Raza",
+            "beginning_of_term": "2009-01-02",
+            "end_of_term": "2010-06-02",
+            "acting": false
+        },
+        {
+            "governor": "Shahid Hafiz Kardar",
+            "beginning_of_term": "2010-09-09",
+            "end_of_term": "2011-07-18",
+            "acting": false
+        },
+        {
+            "governor": "Yaseen Anwar",
+            "beginning_of_term": "2011-10-20",
+            "end_of_term": "2014-01-31",
+            "acting": false
+        },
+        {
+            "governor": "Ashraf Mahmood Wathra",
+            "beginning_of_term": "2014-04-29",
+            "end_of_term": "2017-04-28",
+            "acting": false
+        },
+        {
+            "governor": "Tariq Bajwa",
+            "beginning_of_term": "2017-07-07",
+            "end_of_term": "2019-05-04",
+            "acting": false
+        },
+        {
+            "governor": "Reza Baqir",
+            "beginning_of_term": "2019-05-04",
+            "end_of_term": "2022-05-04",
+            "acting": false
+        },
+        {
+            "governor": "Jameel Ahmed",
+            "beginning_of_term": "2022-08-26",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2001,

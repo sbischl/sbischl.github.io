@@ -87,9 +87,11 @@
         "central_bank": 0.12253829321663019,
         "political": 0.030634573304157548
     },
-    "monetary_dominance": 0.4861678235456277,
-    "fiscal_dominance_mean": 0.13036313960757162,
-    "financial_dominance_mean": 0.3834690368468006,
+    "pressures": {
+        "monetary_dominance": 0.4861678235456277,
+        "fiscal_dominance": 0.13036313960757162,
+        "financial_dominance": 0.3834690368468006
+    },
     "top_topics": [
         [
             "financial inclusion",
@@ -131,6 +133,116 @@
             "corporate governance",
             0.06455142231947483
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Lakshmi Kant Jha",
+            "beginning_of_term": "1967-07-01",
+            "end_of_term": "1970-05-03",
+            "acting": false
+        },
+        {
+            "governor": "Bhaskar Namdeo Adarkar",
+            "beginning_of_term": "1970-05-04",
+            "end_of_term": "1970-06-15",
+            "acting": false
+        },
+        {
+            "governor": "Sarukkai Jagannathan",
+            "beginning_of_term": "1970-06-16",
+            "end_of_term": "1975-05-19",
+            "acting": false
+        },
+        {
+            "governor": "Nirmal Chandra Sen Gupta",
+            "beginning_of_term": "1975-05-19",
+            "end_of_term": "1975-08-19",
+            "acting": false
+        },
+        {
+            "governor": "K. R. Puri",
+            "beginning_of_term": "1975-08-20",
+            "end_of_term": "1977-05-02",
+            "acting": false
+        },
+        {
+            "governor": "Maidavolu Narasimham",
+            "beginning_of_term": "1977-05-02",
+            "end_of_term": "1977-11-30",
+            "acting": false
+        },
+        {
+            "governor": "Indraprasad Gordhanbhai Patel",
+            "beginning_of_term": "1977-12-01",
+            "end_of_term": "1982-09-15",
+            "acting": false
+        },
+        {
+            "governor": "Manmohan Singh",
+            "beginning_of_term": "1982-09-16",
+            "end_of_term": "1985-01-14",
+            "acting": false
+        },
+        {
+            "governor": "Amitav Ghosh",
+            "beginning_of_term": "1985-01-15",
+            "end_of_term": "1985-02-04",
+            "acting": false
+        },
+        {
+            "governor": "Ram Narain Malhotra",
+            "beginning_of_term": "1985-02-04",
+            "end_of_term": "1990-12-22",
+            "acting": false
+        },
+        {
+            "governor": "Sri Venkitaramanan",
+            "beginning_of_term": "1990-12-22",
+            "end_of_term": "1992-12-21",
+            "acting": false
+        },
+        {
+            "governor": "Chakravarthi Rangarajan",
+            "beginning_of_term": "1992-12-22",
+            "end_of_term": "1997-11-21",
+            "acting": false
+        },
+        {
+            "governor": "Bimal Jalan",
+            "beginning_of_term": "1997-11-22",
+            "end_of_term": "2003-09-04",
+            "acting": false
+        },
+        {
+            "governor": "Yaga Venugopal Reddy",
+            "beginning_of_term": "2003-09-06",
+            "end_of_term": "2008-09-05",
+            "acting": false
+        },
+        {
+            "governor": "Duvvuri Subbarao",
+            "beginning_of_term": "2008-09-05",
+            "end_of_term": "2013-09-04",
+            "acting": false
+        },
+        {
+            "governor": "Raghuram Rajan",
+            "beginning_of_term": "2013-09-04",
+            "end_of_term": "2016-09-04",
+            "acting": false
+        },
+        {
+            "governor": "Urjit Patel",
+            "beginning_of_term": "2016-09-04",
+            "end_of_term": "2018-12-10",
+            "acting": false
+        },
+        {
+            "governor": "Shaktikanta Das",
+            "beginning_of_term": "2018-12-11",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1996,

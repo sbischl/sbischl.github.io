@@ -29,9 +29,11 @@
         "financial_market": 0.23333333333333334,
         "political": 0.06666666666666667
     },
-    "monetary_dominance": 0.4919658940427758,
-    "fiscal_dominance_mean": 0.0,
-    "financial_dominance_mean": 0.5080341059572243,
+    "pressures": {
+        "monetary_dominance": 0.4919658940427758,
+        "fiscal_dominance": 0.0,
+        "financial_dominance": 0.5080341059572243
+    },
     "top_topics": [
         [
             "financial stability",
@@ -73,6 +75,50 @@
             "competition",
             0.1
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Bronius Povilaitis",
+            "beginning_of_term": "1990-03-13",
+            "end_of_term": "1990-07-31",
+            "acting": false
+        },
+        {
+            "governor": "Vilius Baldisis",
+            "beginning_of_term": "1990-07-31",
+            "end_of_term": "1993-03-23",
+            "acting": false
+        },
+        {
+            "governor": "Romualdas Visokavicius",
+            "beginning_of_term": "1993-03-23",
+            "end_of_term": "1993-11-17",
+            "acting": false
+        },
+        {
+            "governor": "Kazys Ratkevicius",
+            "beginning_of_term": "1993-11-17",
+            "end_of_term": "1996-02-15",
+            "acting": false
+        },
+        {
+            "governor": "Reinoldijus Sarkinas",
+            "beginning_of_term": "1996-02-15",
+            "end_of_term": "2011-03-24",
+            "acting": false
+        },
+        {
+            "governor": "Vitas Vasiliauskas",
+            "beginning_of_term": "2011-03-24",
+            "end_of_term": "2021-04-07",
+            "acting": false
+        },
+        {
+            "governor": "Gediminas \u0160imkus",
+            "beginning_of_term": "2021-04-07",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2015,

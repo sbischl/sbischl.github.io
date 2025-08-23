@@ -35,9 +35,11 @@
         "academic": 0.2,
         "political": 0.04
     },
-    "monetary_dominance": 0.5994474300238674,
-    "fiscal_dominance_mean": 0.3176974049162416,
-    "financial_dominance_mean": 0.08285516505989095,
+    "pressures": {
+        "monetary_dominance": 0.5994474300238674,
+        "fiscal_dominance": 0.3176974049162416,
+        "financial_dominance": 0.08285516505989095
+    },
     "top_topics": [
         [
             "economic growth",
@@ -79,6 +81,80 @@
             "capital markets",
             0.12
         ]
+    ],
+    "governors": [
+        {
+            "governor": "John Tembo",
+            "beginning_of_term": "1970-01-01",
+            "end_of_term": "1984-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Chakakala Chaziya",
+            "beginning_of_term": "1984-01-01",
+            "end_of_term": "1986-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Stephen Chimwemwe Hara",
+            "beginning_of_term": "1986-01-01",
+            "end_of_term": "1988-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Hans Joachim Lesshafft",
+            "beginning_of_term": "1988-01-01",
+            "end_of_term": "1992-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Francis Perekamoya",
+            "beginning_of_term": "1992-01-01",
+            "end_of_term": "1995-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Mathews Chikaonda",
+            "beginning_of_term": "1995-01-01",
+            "end_of_term": "2000-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Elias Ngalande",
+            "beginning_of_term": "2000-03-01",
+            "end_of_term": "2005-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Victor Mbewe",
+            "beginning_of_term": "2005-05-01",
+            "end_of_term": "2009-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Perks Ligoya",
+            "beginning_of_term": "2009-09-01",
+            "end_of_term": "2012-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Charles Chuka",
+            "beginning_of_term": "2012-04-01",
+            "end_of_term": "2017-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Dalitso Kabambe",
+            "beginning_of_term": "2017-04-21",
+            "end_of_term": "2020-07-08",
+            "acting": false
+        },
+        {
+            "governor": "Wilson Banda",
+            "beginning_of_term": "2020-07-08",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2003,

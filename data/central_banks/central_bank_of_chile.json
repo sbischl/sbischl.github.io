@@ -47,9 +47,11 @@
         "central_bank": 0.171875,
         "financial_market": 0.15625
     },
-    "monetary_dominance": 0.7555635276719326,
-    "fiscal_dominance_mean": 0.03853095088470022,
-    "financial_dominance_mean": 0.20590552144336732,
+    "pressures": {
+        "monetary_dominance": 0.7555635276719326,
+        "fiscal_dominance": 0.03853095088470022,
+        "financial_dominance": 0.20590552144336732
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -91,6 +93,128 @@
             "financial crisis",
             0.140625
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Alfonso Inostroza Cuevas",
+            "beginning_of_term": "1970-01-01",
+            "end_of_term": "1973-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Eduardo Cano Quijada",
+            "beginning_of_term": "1973-01-01",
+            "end_of_term": "1975-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Carlos Matus Romo",
+            "beginning_of_term": "1973-06-01",
+            "end_of_term": "1973-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Pablo Baraona Urz\u00faa",
+            "beginning_of_term": "1975-01-01",
+            "end_of_term": "1976-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Alvaro Bard\u00f3n Mu\u00f1oz",
+            "beginning_of_term": "1977-01-01",
+            "end_of_term": "1981-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Sergio de la Cuadra Fabres",
+            "beginning_of_term": "1981-01-01",
+            "end_of_term": "1982-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Miguel Kast Rist",
+            "beginning_of_term": "1982-04-01",
+            "end_of_term": "1982-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Carlos C\u00e1ceres Contreras",
+            "beginning_of_term": "1982-09-01",
+            "end_of_term": "1983-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Hern\u00e1n Felipe Err\u00e1zuriz Correa",
+            "beginning_of_term": "1983-02-01",
+            "end_of_term": "1984-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Francisco Ib\u00e1nez Barcel\u00f3",
+            "beginning_of_term": "1984-05-01",
+            "end_of_term": "1985-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Enrique Seguel Morel",
+            "beginning_of_term": "1985-01-01",
+            "end_of_term": "1989-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Andr\u00e9s Bianchi Larre",
+            "beginning_of_term": "1989-01-01",
+            "end_of_term": "1991-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Manuel Concha Mart\u00ednez",
+            "beginning_of_term": "1989-04-01",
+            "end_of_term": "1989-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Roberto Zahler Mayanz",
+            "beginning_of_term": "1991-12-01",
+            "end_of_term": "1996-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Carlos Massad Abud",
+            "beginning_of_term": "1996-07-01",
+            "end_of_term": "2003-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Vittorio Corbo Lioi",
+            "beginning_of_term": "2003-01-01",
+            "end_of_term": "2007-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Jose de Gregorio R.",
+            "beginning_of_term": "2007-01-01",
+            "end_of_term": "2011-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Rodrigo Vergara",
+            "beginning_of_term": "2011-12-01",
+            "end_of_term": "2016-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Mario Marcel",
+            "beginning_of_term": "2016-12-01",
+            "end_of_term": "2022-01-27",
+            "acting": false
+        },
+        {
+            "governor": "Rosanna Costa",
+            "beginning_of_term": "2022-02-03",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2001,

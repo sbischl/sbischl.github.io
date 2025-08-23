@@ -40,9 +40,11 @@
         "academic": 0.1308411214953271,
         "political": 0.018691588785046728
     },
-    "monetary_dominance": 0.4505043389807605,
-    "fiscal_dominance_mean": 0.25609030108507164,
-    "financial_dominance_mean": 0.29340535993416783,
+    "pressures": {
+        "monetary_dominance": 0.4505043389807605,
+        "fiscal_dominance": 0.25609030108507164,
+        "financial_dominance": 0.29340535993416783
+    },
     "top_topics": [
         [
             "financial stability",
@@ -84,6 +86,56 @@
             "non-energy sector",
             0.11214953271028036
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Victor Bruce",
+            "beginning_of_term": "1969-07-01",
+            "end_of_term": "1984-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Euric Bobb",
+            "beginning_of_term": "1984-08-01",
+            "end_of_term": "1988-02-01",
+            "acting": false
+        },
+        {
+            "governor": "William Demas",
+            "beginning_of_term": "1988-02-01",
+            "end_of_term": "1992-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Thomas Ainsworth Harewood",
+            "beginning_of_term": "1992-07-01",
+            "end_of_term": "1997-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Winston Dookeran",
+            "beginning_of_term": "1997-07-01",
+            "end_of_term": "2002-07-16",
+            "acting": false
+        },
+        {
+            "governor": "Ewart Williams",
+            "beginning_of_term": "2002-07-17",
+            "end_of_term": "2012-07-16",
+            "acting": false
+        },
+        {
+            "governor": "Jwala Rambarran",
+            "beginning_of_term": "2012-07-17",
+            "end_of_term": "2015-12-23",
+            "acting": false
+        },
+        {
+            "governor": "Alvin Hilaire",
+            "beginning_of_term": "2015-12-24",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2001,

@@ -21,9 +21,11 @@
         "financial_market": 0.6,
         "central_bank": 0.4
     },
-    "monetary_dominance": 0.9,
-    "fiscal_dominance_mean": 0.09999999999999999,
-    "financial_dominance_mean": 0.0,
+    "pressures": {
+        "monetary_dominance": 0.9,
+        "fiscal_dominance": 0.09999999999999999,
+        "financial_dominance": 0.0
+    },
     "top_topics": [
         [
             "economic growth",
@@ -65,6 +67,50 @@
             "territorial expansion",
             0.2
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Alberto Cassimo",
+            "beginning_of_term": "1975-05-01",
+            "end_of_term": "1978-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Sergio Viera",
+            "beginning_of_term": "1978-04-01",
+            "end_of_term": "1981-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Prakash Ratilal",
+            "beginning_of_term": "1981-12-01",
+            "end_of_term": "1986-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Eneas Comiche",
+            "beginning_of_term": "1986-04-01",
+            "end_of_term": "1991-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Adriano Afonso Maleiane",
+            "beginning_of_term": "1991-07-01",
+            "end_of_term": "2006-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Ernesto Gouveia Gove",
+            "beginning_of_term": "2006-07-01",
+            "end_of_term": "2016-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Rogerio Lucas Zandamela",
+            "beginning_of_term": "2016-08-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2006,

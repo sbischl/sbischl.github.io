@@ -29,9 +29,11 @@
         "financial_market": 0.06666666666666667,
         "political": 0.06666666666666667
     },
-    "monetary_dominance": 0.7874357028231241,
-    "fiscal_dominance_mean": 0.09283148528891283,
-    "financial_dominance_mean": 0.11973281188796295,
+    "pressures": {
+        "monetary_dominance": 0.7874357028231241,
+        "fiscal_dominance": 0.09283148528891283,
+        "financial_dominance": 0.11973281188796295
+    },
     "top_topics": [
         [
             "inflation",
@@ -73,6 +75,92 @@
             "current account deficit",
             0.16666666666666666
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Volodymyr Matvienko",
+            "beginning_of_term": "1991-08-24",
+            "end_of_term": "1992-03-23",
+            "acting": false
+        },
+        {
+            "governor": "Hetman Vadym Petrovych",
+            "beginning_of_term": "1992-03-24",
+            "end_of_term": "1993-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Viktor Yushchenko",
+            "beginning_of_term": "1993-01-01",
+            "end_of_term": "1999-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Volodymyr S. Stelmakh",
+            "beginning_of_term": "2000-01-01",
+            "end_of_term": "2002-12-18",
+            "acting": false
+        },
+        {
+            "governor": "Sergei Tigipko",
+            "beginning_of_term": "2002-12-18",
+            "end_of_term": "2004-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Volodymyr S. Stelmakh",
+            "beginning_of_term": "2004-12-16",
+            "end_of_term": "2011-01-18",
+            "acting": false
+        },
+        {
+            "governor": "Sergiy Arbuzov",
+            "beginning_of_term": "2011-01-19",
+            "end_of_term": "2013-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Ivor Sorkin",
+            "beginning_of_term": "2013-01-11",
+            "end_of_term": "2014-02-24",
+            "acting": false
+        },
+        {
+            "governor": "Stepan Kubiv",
+            "beginning_of_term": "2014-02-24",
+            "end_of_term": "2014-06-18",
+            "acting": false
+        },
+        {
+            "governor": "Valeria Oleksiyivna Hontareva",
+            "beginning_of_term": "2014-06-19",
+            "end_of_term": "2017-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Yakiv Smolii",
+            "beginning_of_term": "2017-05-11",
+            "end_of_term": "2018-03-14",
+            "acting": true
+        },
+        {
+            "governor": "Yakiv Smolii",
+            "beginning_of_term": "2018-03-15",
+            "end_of_term": "2020-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Kyrylo Shevchenko",
+            "beginning_of_term": "2020-07-16",
+            "end_of_term": "2022-10-06",
+            "acting": false
+        },
+        {
+            "governor": "Andriy Pyshnyy",
+            "beginning_of_term": "2022-10-07",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2019,

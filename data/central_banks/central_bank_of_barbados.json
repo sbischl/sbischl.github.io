@@ -44,9 +44,11 @@
         "academic": 0.18085106382978725,
         "political": 0.02127659574468085
     },
-    "monetary_dominance": 0.6159095573810776,
-    "fiscal_dominance_mean": 0.22243552776987166,
-    "financial_dominance_mean": 0.16165491484905084,
+    "pressures": {
+        "monetary_dominance": 0.6159095573810776,
+        "fiscal_dominance": 0.22243552776987166,
+        "financial_dominance": 0.16165491484905084
+    },
     "top_topics": [
         [
             "economic growth",
@@ -88,6 +90,56 @@
             "investment",
             0.09574468085106383
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Courtney Blackman",
+            "beginning_of_term": "1972-06-01",
+            "end_of_term": "1987-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Kurleigh King",
+            "beginning_of_term": "1987-09-15",
+            "end_of_term": "1992-09-14",
+            "acting": false
+        },
+        {
+            "governor": "Calvin Springer",
+            "beginning_of_term": "1992-12-04",
+            "end_of_term": "1997-09-14",
+            "acting": false
+        },
+        {
+            "governor": "Winston Cox",
+            "beginning_of_term": "1997-09-01",
+            "end_of_term": "1999-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Marion Williams",
+            "beginning_of_term": "1999-11-01",
+            "end_of_term": "2009-01-01",
+            "acting": false
+        },
+        {
+            "governor": "DeLisle Worrell",
+            "beginning_of_term": "2009-01-01",
+            "end_of_term": "2017-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Cleviston Haynes",
+            "beginning_of_term": "2017-01-01",
+            "end_of_term": "2023-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Kevin Greenidge",
+            "beginning_of_term": "2023-03-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2004,

@@ -53,9 +53,11 @@
         "central_bank": 0.19875776397515527,
         "political": 0.08074534161490683
     },
-    "monetary_dominance": 0.663487962314904,
-    "fiscal_dominance_mean": 0.13253875808024573,
-    "financial_dominance_mean": 0.2039732796048503,
+    "pressures": {
+        "monetary_dominance": 0.663487962314904,
+        "fiscal_dominance": 0.13253875808024573,
+        "financial_dominance": 0.2039732796048503
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -97,6 +99,80 @@
             "banking union",
             0.11801242236024845
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Dimitrios Galanis",
+            "beginning_of_term": "1967-08-07",
+            "end_of_term": "1973-05-04",
+            "acting": false
+        },
+        {
+            "governor": "Konstantinos Papagiannis",
+            "beginning_of_term": "1973-05-07",
+            "end_of_term": "1974-08-09",
+            "acting": false
+        },
+        {
+            "governor": "Panagis Papaligouras",
+            "beginning_of_term": "1974-08-09",
+            "end_of_term": "1974-10-24",
+            "acting": false
+        },
+        {
+            "governor": "Xenophon Zolotas",
+            "beginning_of_term": "1974-11-26",
+            "end_of_term": "1981-11-03",
+            "acting": false
+        },
+        {
+            "governor": "Gerasimos Arsenis",
+            "beginning_of_term": "1981-11-03",
+            "end_of_term": "1984-02-20",
+            "acting": false
+        },
+        {
+            "governor": "Dimitrios Chalikias",
+            "beginning_of_term": "1984-02-20",
+            "end_of_term": "1992-02-20",
+            "acting": false
+        },
+        {
+            "governor": "Efthymios Christodoulou",
+            "beginning_of_term": "1992-02-20",
+            "end_of_term": "1993-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Ioannis Boutos",
+            "beginning_of_term": "1993-12-01",
+            "end_of_term": "1994-10-26",
+            "acting": false
+        },
+        {
+            "governor": "Lucas Papademos",
+            "beginning_of_term": "1994-10-26",
+            "end_of_term": "2002-06-14",
+            "acting": false
+        },
+        {
+            "governor": "Nikolaos Garganas",
+            "beginning_of_term": "2002-06-14",
+            "end_of_term": "2008-06-14",
+            "acting": false
+        },
+        {
+            "governor": "Georgios A. Provopoulos",
+            "beginning_of_term": "2008-06-20",
+            "end_of_term": "2014-06-20",
+            "acting": false
+        },
+        {
+            "governor": "Yannis Stournaras",
+            "beginning_of_term": "2014-06-20",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1999,

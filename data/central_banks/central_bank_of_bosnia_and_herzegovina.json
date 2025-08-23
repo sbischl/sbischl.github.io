@@ -30,9 +30,11 @@
         "financial_market": 0.2,
         "political": 0.06666666666666667
     },
-    "monetary_dominance": 0.8376191337040769,
-    "fiscal_dominance_mean": 0.10644496641269174,
-    "financial_dominance_mean": 0.055935899883231374,
+    "pressures": {
+        "monetary_dominance": 0.8376191337040769,
+        "fiscal_dominance": 0.10644496641269174,
+        "financial_dominance": 0.055935899883231374
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -74,6 +76,26 @@
             "foreign banks",
             0.13333333333333333
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Peter Nicholl",
+            "beginning_of_term": "1997-01-01",
+            "end_of_term": "2004-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Kemal Kozari\u0107",
+            "beginning_of_term": "2005-01-01",
+            "end_of_term": "2015-08-11",
+            "acting": false
+        },
+        {
+            "governor": "Senad Softi\u0107",
+            "beginning_of_term": "2015-08-11",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2001,

@@ -30,9 +30,11 @@
         "political": 0.23076923076923078,
         "central_bank": 0.15384615384615385
     },
-    "monetary_dominance": 0.581088814911423,
-    "fiscal_dominance_mean": 0.13291740601872917,
-    "financial_dominance_mean": 0.28599377906984785,
+    "pressures": {
+        "monetary_dominance": 0.581088814911423,
+        "fiscal_dominance": 0.13291740601872917,
+        "financial_dominance": 0.28599377906984785
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -74,6 +76,38 @@
             "fiscal policy",
             0.15384615384615385
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Ante Cicin-\u0160ain",
+            "beginning_of_term": "1990-08-01",
+            "end_of_term": "1992-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Pero Jurkovic",
+            "beginning_of_term": "1992-06-01",
+            "end_of_term": "1996-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Marko \u0160kreb",
+            "beginning_of_term": "1996-03-01",
+            "end_of_term": "2000-07-01",
+            "acting": false
+        },
+        {
+            "governor": "\u017deljko Rohatinski",
+            "beginning_of_term": "2000-07-01",
+            "end_of_term": "2012-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Boris Vuj\u010di\u0107",
+            "beginning_of_term": "2012-07-08",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2000,

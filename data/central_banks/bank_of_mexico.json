@@ -43,9 +43,11 @@
         "central_bank": 0.13541666666666666,
         "political": 0.010416666666666666
     },
-    "monetary_dominance": 0.6464013095772997,
-    "fiscal_dominance_mean": 0.06226370457860558,
-    "financial_dominance_mean": 0.2913349858440947,
+    "pressures": {
+        "monetary_dominance": 0.6464013095772997,
+        "fiscal_dominance": 0.06226370457860558,
+        "financial_dominance": 0.2913349858440947
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -87,6 +89,62 @@
             "emerging markets",
             0.10416666666666666
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Ernesto Fern\u00e1ndez Hurtado",
+            "beginning_of_term": "1970-10-01",
+            "end_of_term": "1976-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Gustavo Romero Kolbeck",
+            "beginning_of_term": "1976-12-01",
+            "end_of_term": "1982-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Miguel Mancera Aguayo",
+            "beginning_of_term": "1982-05-01",
+            "end_of_term": "1982-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Carlos Tello Macias",
+            "beginning_of_term": "1982-09-01",
+            "end_of_term": "1982-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Miguel Mancera Aguayo",
+            "beginning_of_term": "1982-12-01",
+            "end_of_term": "1997-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Guillermo Ortiz Martinez",
+            "beginning_of_term": "1998-01-01",
+            "end_of_term": "2009-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Agustin Carstens",
+            "beginning_of_term": "2010-01-01",
+            "end_of_term": "2017-11-30",
+            "acting": false
+        },
+        {
+            "governor": "Alejandro D\u00edaz de Le\u00f3n Carrillo",
+            "beginning_of_term": "2017-12-01",
+            "end_of_term": "2021-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Victoria Rodri\u0301guez Ceja",
+            "beginning_of_term": "2022-01-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2003,

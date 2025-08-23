@@ -51,9 +51,11 @@
         "academic": 0.14678899082568808,
         "political": 0.05504587155963303
     },
-    "monetary_dominance": 0.606387722038403,
-    "fiscal_dominance_mean": 0.10488261032685021,
-    "financial_dominance_mean": 0.2887296676347469,
+    "pressures": {
+        "monetary_dominance": 0.606387722038403,
+        "fiscal_dominance": 0.10488261032685021,
+        "financial_dominance": 0.2887296676347469
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -95,6 +97,38 @@
             "financial crisis",
             0.11009174311926606
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Erik Hoffmeyer",
+            "beginning_of_term": "1965-01-01",
+            "end_of_term": "1994-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Bodil Nyboe Andersen",
+            "beginning_of_term": "1995-01-01",
+            "end_of_term": "2005-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Nils Bernstein",
+            "beginning_of_term": "2005-10-01",
+            "end_of_term": "2013-01-31",
+            "acting": false
+        },
+        {
+            "governor": "Lars Rohde",
+            "beginning_of_term": "2013-02-01",
+            "end_of_term": "2023-01-31",
+            "acting": false
+        },
+        {
+            "governor": "Christian Kettel Thomsen",
+            "beginning_of_term": "2023-02-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2000,

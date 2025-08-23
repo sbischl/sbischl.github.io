@@ -37,9 +37,11 @@
         "central_bank": 0.2631578947368421,
         "political": 0.02631578947368421
     },
-    "monetary_dominance": 0.8114687148206897,
-    "fiscal_dominance_mean": 0.013766441206229068,
-    "financial_dominance_mean": 0.17476484397308123,
+    "pressures": {
+        "monetary_dominance": 0.8114687148206897,
+        "fiscal_dominance": 0.013766441206229068,
+        "financial_dominance": 0.17476484397308123
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -81,6 +83,62 @@
             "euro area",
             0.10526315789473684
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Hubert Ansiaux",
+            "beginning_of_term": "1957-08-01",
+            "end_of_term": "1971-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Robert Vandeputte",
+            "beginning_of_term": "1971-03-01",
+            "end_of_term": "1975-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Cecil de Strycker",
+            "beginning_of_term": "1975-02-01",
+            "end_of_term": "1982-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Jean Godeaux",
+            "beginning_of_term": "1982-03-01",
+            "end_of_term": "1989-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Alfons Verplaetse",
+            "beginning_of_term": "1989-07-01",
+            "end_of_term": "1999-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Guy Quaden",
+            "beginning_of_term": "1999-03-01",
+            "end_of_term": "2011-03-31",
+            "acting": false
+        },
+        {
+            "governor": "Luc Coene",
+            "beginning_of_term": "2011-04-01",
+            "end_of_term": "2015-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Jan Smets",
+            "beginning_of_term": "2015-03-11",
+            "end_of_term": "2019-01-02",
+            "acting": false
+        },
+        {
+            "governor": "Pierre Wunsch",
+            "beginning_of_term": "2019-01-02",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1999,

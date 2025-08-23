@@ -31,9 +31,11 @@
         "central_bank": 0.13157894736842105,
         "political": 0.07894736842105263
     },
-    "monetary_dominance": 0.671851777759502,
-    "fiscal_dominance_mean": 0.0672214979946267,
-    "financial_dominance_mean": 0.26092672424587127,
+    "pressures": {
+        "monetary_dominance": 0.671851777759502,
+        "fiscal_dominance": 0.0672214979946267,
+        "financial_dominance": 0.26092672424587127
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -75,6 +77,20 @@
             "financial crisis",
             0.10526315789473684
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Yves Mersch",
+            "beginning_of_term": "1998-06-01",
+            "end_of_term": "2012-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Gaston Reinesch",
+            "beginning_of_term": "2013-01-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2002,

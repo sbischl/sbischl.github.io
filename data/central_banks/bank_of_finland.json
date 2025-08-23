@@ -50,9 +50,11 @@
         "financial_market": 0.22346368715083798,
         "political": 0.12849162011173185
     },
-    "monetary_dominance": 0.7351938365499228,
-    "fiscal_dominance_mean": 0.050523870059840784,
-    "financial_dominance_mean": 0.2142822933902365,
+    "pressures": {
+        "monetary_dominance": 0.7351938365499228,
+        "fiscal_dominance": 0.050523870059840784,
+        "financial_dominance": 0.2142822933902365
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -94,6 +96,50 @@
             "financial crisis",
             0.07262569832402235
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Mauno Koivisto",
+            "beginning_of_term": "1968-01-01",
+            "end_of_term": "1982-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Ahti Karjalainen",
+            "beginning_of_term": "1982-03-01",
+            "end_of_term": "1983-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Rolf Kullberg",
+            "beginning_of_term": "1983-06-01",
+            "end_of_term": "1992-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Sirkka H\u00e4m\u00e4l\u00e4inen",
+            "beginning_of_term": "1992-04-05",
+            "end_of_term": "1998-05-31",
+            "acting": false
+        },
+        {
+            "governor": "Matti Vanhala",
+            "beginning_of_term": "1998-06-05",
+            "end_of_term": "2004-03-31",
+            "acting": false
+        },
+        {
+            "governor": "Erkki Liikanen",
+            "beginning_of_term": "2004-07-12",
+            "end_of_term": "2018-07-11",
+            "acting": false
+        },
+        {
+            "governor": "Olli Rehn",
+            "beginning_of_term": "2018-07-12",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1997,

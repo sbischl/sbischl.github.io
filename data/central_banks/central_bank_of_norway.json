@@ -54,9 +54,11 @@
         "central_bank": 0.25,
         "political": 0.18055555555555555
     },
-    "monetary_dominance": 0.7560818996010726,
-    "fiscal_dominance_mean": 0.10690714205558391,
-    "financial_dominance_mean": 0.13701095834334343,
+    "pressures": {
+        "monetary_dominance": 0.7560818996010726,
+        "fiscal_dominance": 0.10690714205558391,
+        "financial_dominance": 0.13701095834334343
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -98,6 +100,56 @@
             "interest rate",
             0.1388888888888889
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Erik Brofoss",
+            "beginning_of_term": "1954-07-01",
+            "end_of_term": "1970-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Knut Getz Wold",
+            "beginning_of_term": "1970-11-01",
+            "end_of_term": "1985-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Hermod Sk\u00e5nland",
+            "beginning_of_term": "1985-04-01",
+            "end_of_term": "1993-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Torstein Moland",
+            "beginning_of_term": "1994-01-01",
+            "end_of_term": "1995-11-01",
+            "acting": false
+        },
+        {
+            "governor": "Kjell Storvik",
+            "beginning_of_term": "1996-02-01",
+            "end_of_term": "1998-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Svein Gjedrem",
+            "beginning_of_term": "1999-01-01",
+            "end_of_term": "2011-01-01",
+            "acting": false
+        },
+        {
+            "governor": "\u00d8ystein Olsen",
+            "beginning_of_term": "2011-01-01",
+            "end_of_term": "2022-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Ida Wolden Bache",
+            "beginning_of_term": "2022-03-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1999,

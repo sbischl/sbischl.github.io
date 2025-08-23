@@ -48,9 +48,11 @@
         "political": 0.0875,
         "central_bank": 0.075
     },
-    "monetary_dominance": 0.7986293852591757,
-    "fiscal_dominance_mean": 0.0521694053108516,
-    "financial_dominance_mean": 0.14920120942997256,
+    "pressures": {
+        "monetary_dominance": 0.7986293852591757,
+        "fiscal_dominance": 0.0521694053108516,
+        "financial_dominance": 0.14920120942997256
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -92,6 +94,68 @@
             "euro area",
             0.15
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Wolfgang Schmitz",
+            "beginning_of_term": "1968-02-01",
+            "end_of_term": "1973-01-30",
+            "acting": false
+        },
+        {
+            "governor": "Hans Kloss",
+            "beginning_of_term": "1973-02-01",
+            "end_of_term": "1978-01-30",
+            "acting": false
+        },
+        {
+            "governor": "Stefan Koren",
+            "beginning_of_term": "1978-02-01",
+            "end_of_term": "1988-01-26",
+            "acting": false
+        },
+        {
+            "governor": "Herbert Koller",
+            "beginning_of_term": "1988-01-27",
+            "end_of_term": "1988-08-31",
+            "acting": true
+        },
+        {
+            "governor": "Hellmuth Klauhs",
+            "beginning_of_term": "1988-09-01",
+            "end_of_term": "1990-04-26",
+            "acting": false
+        },
+        {
+            "governor": "Heinz Kienzl",
+            "beginning_of_term": "1990-04-27",
+            "end_of_term": "1990-05-31",
+            "acting": true
+        },
+        {
+            "governor": "Maria Schaumayer",
+            "beginning_of_term": "1990-06-01",
+            "end_of_term": "1995-05-31",
+            "acting": false
+        },
+        {
+            "governor": "Klaus Liebscher",
+            "beginning_of_term": "1995-06-01",
+            "end_of_term": "2008-08-31",
+            "acting": false
+        },
+        {
+            "governor": "Ewald Nowotny",
+            "beginning_of_term": "2008-09-01",
+            "end_of_term": "2019-08-31",
+            "acting": false
+        },
+        {
+            "governor": "Robert Holzmann",
+            "beginning_of_term": "2019-09-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1998,

@@ -33,9 +33,11 @@
         "academic": 0.16666666666666666,
         "political": 0.05555555555555555
     },
-    "monetary_dominance": 0.7894736842105263,
-    "fiscal_dominance_mean": 0.10526315789473684,
-    "financial_dominance_mean": 0.10526315789473684,
+    "pressures": {
+        "monetary_dominance": 0.7894736842105263,
+        "fiscal_dominance": 0.10526315789473684,
+        "financial_dominance": 0.10526315789473684
+    },
     "top_topics": [
         [
             "financial inclusion",
@@ -77,6 +79,32 @@
             "education",
             0.11111111111111112
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Anthony V. Huges",
+            "beginning_of_term": "1983-02-01",
+            "end_of_term": "1993-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Rick N. Houenipwela",
+            "beginning_of_term": "1993-08-01",
+            "end_of_term": "2008-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Denton Rarawa",
+            "beginning_of_term": "2008-09-01",
+            "end_of_term": "2019-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Luke Forau",
+            "beginning_of_term": "2019-10-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2006,

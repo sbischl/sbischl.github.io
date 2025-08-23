@@ -23,9 +23,11 @@
         "central_bank": 0.16666666666666666,
         "political": 0.16666666666666666
     },
-    "monetary_dominance": null,
-    "fiscal_dominance_mean": null,
-    "financial_dominance_mean": null,
+    "pressures": {
+        "monetary_dominance": null,
+        "fiscal_dominance": null,
+        "financial_dominance": null
+    },
     "top_topics": [
         [
             "financial inclusion",
@@ -67,6 +69,32 @@
             "indicators",
             0.16666666666666666
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Moulay Hassan Ben El Mehdi",
+            "beginning_of_term": "1969-02-01",
+            "end_of_term": "1985-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Ahmed Bennani",
+            "beginning_of_term": "1985-03-01",
+            "end_of_term": "1989-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Mohamed Seqat",
+            "beginning_of_term": "1989-10-01",
+            "end_of_term": "2003-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Abdellatif Jouahri",
+            "beginning_of_term": "2003-03-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2017,

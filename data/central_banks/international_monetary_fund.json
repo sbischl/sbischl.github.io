@@ -21,9 +21,11 @@
         "central_bank": 0.6666666666666666,
         "academic": 0.3333333333333333
     },
-    "monetary_dominance": 0.4457142857142857,
-    "fiscal_dominance_mean": 0.0,
-    "financial_dominance_mean": 0.5542857142857142,
+    "pressures": {
+        "monetary_dominance": 0.4457142857142857,
+        "fiscal_dominance": 0.0,
+        "financial_dominance": 0.5542857142857142
+    },
     "top_topics": [
         [
             "capital flows",
@@ -66,6 +68,7 @@
             0.3333333333333333
         ]
     ],
+    "governors": [],
     "year": [
         1997,
         1998,

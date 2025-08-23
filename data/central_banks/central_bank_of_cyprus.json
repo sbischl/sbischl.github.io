@@ -23,9 +23,11 @@
         "central_bank": 0.2222222222222222,
         "academic": 0.2222222222222222
     },
-    "monetary_dominance": 0.7958722634174392,
-    "fiscal_dominance_mean": 0.12126615492784194,
-    "financial_dominance_mean": 0.08286158165471887,
+    "pressures": {
+        "monetary_dominance": 0.7958722634174392,
+        "fiscal_dominance": 0.12126615492784194,
+        "financial_dominance": 0.08286158165471887
+    },
     "top_topics": [
         [
             "financial stability",
@@ -67,6 +69,56 @@
             "cybersecurity",
             0.22222222222222224
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Haris Gavrielides",
+            "beginning_of_term": "1963-01-01",
+            "end_of_term": "1965-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Christakis Stephani",
+            "beginning_of_term": "1965-10-01",
+            "end_of_term": "1982-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Afxentis Afxentiou",
+            "beginning_of_term": "1982-05-01",
+            "end_of_term": "2002-04-30",
+            "acting": false
+        },
+        {
+            "governor": "Christodoulos Christodoulou",
+            "beginning_of_term": "2002-05-02",
+            "end_of_term": "2007-04-30",
+            "acting": false
+        },
+        {
+            "governor": "Athanasios Orphanides",
+            "beginning_of_term": "2007-05-02",
+            "end_of_term": "2012-05-02",
+            "acting": false
+        },
+        {
+            "governor": "Panicos O. Demetriades",
+            "beginning_of_term": "2012-05-03",
+            "end_of_term": "2014-04-10",
+            "acting": false
+        },
+        {
+            "governor": "Chrystalla Georghadji",
+            "beginning_of_term": "2014-04-11",
+            "end_of_term": "2019-04-10",
+            "acting": false
+        },
+        {
+            "governor": "Constantinos Herodotou",
+            "beginning_of_term": "2019-04-11",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2011,

@@ -17,9 +17,11 @@
     "audiences": {
         "central_bank": 1.0
     },
-    "monetary_dominance": 0.0,
-    "fiscal_dominance_mean": 0.03571428571428572,
-    "financial_dominance_mean": 0.9642857142857143,
+    "pressures": {
+        "monetary_dominance": 0.0,
+        "fiscal_dominance": 0.03571428571428572,
+        "financial_dominance": 0.9642857142857143
+    },
     "top_topics": [
         [
             "financial stability",
@@ -61,6 +63,146 @@
             "microeconomic policy",
             1.0
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Enrique Iglesias",
+            "beginning_of_term": "1967-05-16",
+            "end_of_term": "1969-01-09",
+            "acting": false
+        },
+        {
+            "governor": "Carlos Snguinetti",
+            "beginning_of_term": "1969-01-10",
+            "end_of_term": "1970-10-27",
+            "acting": false
+        },
+        {
+            "governor": "Armando R. Malet",
+            "beginning_of_term": "1970-10-27",
+            "end_of_term": "1970-11-21",
+            "acting": false
+        },
+        {
+            "governor": "Nilo R. Marquez",
+            "beginning_of_term": "1970-12-14",
+            "end_of_term": "1971-08-12",
+            "acting": false
+        },
+        {
+            "governor": "Jorge Echevarria Leunda",
+            "beginning_of_term": "1971-08-13",
+            "end_of_term": "1972-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Juan Pedro Amestoy",
+            "beginning_of_term": "1972-03-01",
+            "end_of_term": "1973-06-04",
+            "acting": false
+        },
+        {
+            "governor": "Carlos E. Ricci",
+            "beginning_of_term": "1973-06-04",
+            "end_of_term": "1974-12-23",
+            "acting": false
+        },
+        {
+            "governor": "Jos\u00e9 Gil Diaz",
+            "beginning_of_term": "1974-12-23",
+            "end_of_term": "1982-07-05",
+            "acting": false
+        },
+        {
+            "governor": "Jos\u00e9 Mar\u00eda Puppo",
+            "beginning_of_term": "1982-07-05",
+            "end_of_term": "1984-02-24",
+            "acting": false
+        },
+        {
+            "governor": "Juan Carlos Protasi",
+            "beginning_of_term": "1984-02-24",
+            "end_of_term": "1985-04-15",
+            "acting": false
+        },
+        {
+            "governor": "Ricardo Pascale",
+            "beginning_of_term": "1985-04-16",
+            "end_of_term": "1990-04-09",
+            "acting": false
+        },
+        {
+            "governor": "Ram\u00f3n P. Diaz",
+            "beginning_of_term": "1990-04-04",
+            "end_of_term": "1993-10-18",
+            "acting": false
+        },
+        {
+            "governor": "Enrique Braga",
+            "beginning_of_term": "1993-10-18",
+            "end_of_term": "1995-04-07",
+            "acting": false
+        },
+        {
+            "governor": "Ricardo Pascale",
+            "beginning_of_term": "1995-04-07",
+            "end_of_term": "1996-04-18",
+            "acting": false
+        },
+        {
+            "governor": "Humberto Capote",
+            "beginning_of_term": "1996-04-18",
+            "end_of_term": "2000-04-12",
+            "acting": false
+        },
+        {
+            "governor": "C\u00e9sar Rodr\u00edguez Batlle",
+            "beginning_of_term": "2000-04-13",
+            "end_of_term": "2002-07-24",
+            "acting": false
+        },
+        {
+            "governor": "Julio de Brun",
+            "beginning_of_term": "2002-07-25",
+            "end_of_term": "2005-03-10",
+            "acting": false
+        },
+        {
+            "governor": "Walter Cancela",
+            "beginning_of_term": "2005-03-10",
+            "end_of_term": "2008-10-24",
+            "acting": false
+        },
+        {
+            "governor": "Mario Bergara Duque",
+            "beginning_of_term": "2008-11-11",
+            "end_of_term": "2013-12-26",
+            "acting": false
+        },
+        {
+            "governor": "Alberto Gra\u00f1a",
+            "beginning_of_term": "2014-01-10",
+            "end_of_term": "2015-04-20",
+            "acting": false
+        },
+        {
+            "governor": "Mario Bergara Duque",
+            "beginning_of_term": "2015-04-21",
+            "end_of_term": "2018-10-11",
+            "acting": false
+        },
+        {
+            "governor": "Alberto Gra\u00f1a",
+            "beginning_of_term": "2018-10-11",
+            "end_of_term": "2020-02-15",
+            "acting": false
+        },
+        {
+            "governor": "Diego Labat",
+            "beginning_of_term": "2020-03-04",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2012

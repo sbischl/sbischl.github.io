@@ -17,9 +17,11 @@
     "audiences": {
         "academic": 1.0
     },
-    "monetary_dominance": 0.8,
-    "fiscal_dominance_mean": 0.2,
-    "financial_dominance_mean": 0.0,
+    "pressures": {
+        "monetary_dominance": 0.8,
+        "fiscal_dominance": 0.2,
+        "financial_dominance": 0.0
+    },
     "top_topics": [
         [
             "bretton woods system",
@@ -61,6 +63,62 @@
             "fiscal consolidation",
             1.0
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Khalil Al-Salem",
+            "beginning_of_term": "1963-01-01",
+            "end_of_term": "1973-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Mohammad Said Al-Nabulsi",
+            "beginning_of_term": "1973-01-01",
+            "end_of_term": "1985-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Hussein Al-Qasim (resigned)",
+            "beginning_of_term": "1985-01-01",
+            "end_of_term": "1989-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Mohammad Said Al-Nabulsi",
+            "beginning_of_term": "1989-01-01",
+            "end_of_term": "1995-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Ziad Fariz",
+            "beginning_of_term": "1996-01-01",
+            "end_of_term": "2000-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Ummaya Salah Toukan",
+            "beginning_of_term": "2000-01-01",
+            "end_of_term": "2010-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Faris Abdel Hamid Sharaf",
+            "beginning_of_term": "2010-11-01",
+            "end_of_term": "2012-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Ziad Fariz",
+            "beginning_of_term": "2012-01-01",
+            "end_of_term": "2022-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Adel Al-Sharkas",
+            "beginning_of_term": "2022-01-10",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2010

@@ -17,9 +17,11 @@
     "audiences": {
         "central_bank": 1.0
     },
-    "monetary_dominance": 1.0,
-    "fiscal_dominance_mean": 0.0,
-    "financial_dominance_mean": 0.0,
+    "pressures": {
+        "monetary_dominance": 1.0,
+        "fiscal_dominance": 0.0,
+        "financial_dominance": 0.0
+    },
     "top_topics": [
         [
             "central bank operations",
@@ -61,6 +63,248 @@
             "financial system",
             1.0
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Cesar Duran Ballen",
+            "beginning_of_term": "1970-07-01",
+            "end_of_term": "1970-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Fernando Manrique Morales",
+            "beginning_of_term": "1971-01-01",
+            "end_of_term": "1971-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Jaime Morillo Battle",
+            "beginning_of_term": "1972-04-01",
+            "end_of_term": "1974-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Jaime Moncayo Garcia",
+            "beginning_of_term": "1974-05-01",
+            "end_of_term": "1975-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Jaime Morillo Battle",
+            "beginning_of_term": "1975-09-01",
+            "end_of_term": "1975-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Jose Salazar Barragan",
+            "beginning_of_term": "1975-09-01",
+            "end_of_term": "1976-11-01",
+            "acting": false
+        },
+        {
+            "governor": "Ricardo Munoz Chavez",
+            "beginning_of_term": "1977-01-01",
+            "end_of_term": "1979-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Leon Roldos Aguilera",
+            "beginning_of_term": "1979-08-01",
+            "end_of_term": "1981-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Gonzalo Cordero Crespo",
+            "beginning_of_term": "1981-06-01",
+            "end_of_term": "1981-11-01",
+            "acting": false
+        },
+        {
+            "governor": "Jose Antonio Correa E.",
+            "beginning_of_term": "1982-08-01",
+            "end_of_term": "1984-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Raul Clemente Huerta Rendon",
+            "beginning_of_term": "1984-08-01",
+            "end_of_term": "1986-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Alberto Dahik Garzozi",
+            "beginning_of_term": "1986-01-01",
+            "end_of_term": "1986-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Frederico Arteta Rivera",
+            "beginning_of_term": "1986-07-01",
+            "end_of_term": "1988-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Rodrigo Espinosa Bermeo",
+            "beginning_of_term": "1988-01-01",
+            "end_of_term": "1988-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Abelardo Panchano Bertero",
+            "beginning_of_term": "1988-08-01",
+            "end_of_term": "1990-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Andres Vallejo Arcos",
+            "beginning_of_term": "1990-06-01",
+            "end_of_term": "1990-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Germanico Salgado Penaherrara",
+            "beginning_of_term": "1990-10-01",
+            "end_of_term": "1991-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Rodrigo E. Moscoso C.",
+            "beginning_of_term": "1991-06-01",
+            "end_of_term": "1992-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Roberto baquerzio Valenzuela",
+            "beginning_of_term": "1992-08-01",
+            "end_of_term": "1993-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Ana Lucia Armijos Hidalgo",
+            "beginning_of_term": "1993-06-01",
+            "end_of_term": "1996-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Alvaro Noboa Ponton",
+            "beginning_of_term": "1996-08-01",
+            "end_of_term": "1997-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Danilo Carrera Drouet",
+            "beginning_of_term": "1997-02-01",
+            "end_of_term": "1998-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Francisco Swett Morales",
+            "beginning_of_term": "1998-03-01",
+            "end_of_term": "1998-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Luis Jacome Hidalgo",
+            "beginning_of_term": "1998-09-01",
+            "end_of_term": "1999-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Pablo Better Grunbaum",
+            "beginning_of_term": "1999-06-01",
+            "end_of_term": "2000-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Modesto Correra San Andres",
+            "beginning_of_term": "2000-01-01",
+            "end_of_term": "2000-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Jose Luis Ycaza Pazmino",
+            "beginning_of_term": "2000-06-01",
+            "end_of_term": "2001-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Mauricio Yepez Najas",
+            "beginning_of_term": "2001-09-01",
+            "end_of_term": "2004-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Polibio Cordova",
+            "beginning_of_term": "2005-01-01",
+            "end_of_term": "2005-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Mauricio Pareja C.",
+            "beginning_of_term": "2005-04-01",
+            "end_of_term": "2005-11-01",
+            "acting": false
+        },
+        {
+            "governor": "Eduardo Cabezas Molina",
+            "beginning_of_term": "2005-11-01",
+            "end_of_term": "2008-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Carlos Vallejo Lopez",
+            "beginning_of_term": "2008-01-01",
+            "end_of_term": "2010-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Diego Borja Cornejo",
+            "beginning_of_term": "2010-04-01",
+            "end_of_term": "2011-11-01",
+            "acting": false
+        },
+        {
+            "governor": "Pedro Delgado",
+            "beginning_of_term": "2011-11-01",
+            "end_of_term": "2012-12-19",
+            "acting": false
+        },
+        {
+            "governor": "Diego Martinez",
+            "beginning_of_term": "2013-01-16",
+            "end_of_term": "2013-01-23",
+            "acting": false
+        },
+        {
+            "governor": "Mateo Patricio Villalba Andrade",
+            "beginning_of_term": "2013-01-23",
+            "end_of_term": "2015-07-14",
+            "acting": false
+        },
+        {
+            "governor": "Diego Mart\u00ednez Vinueza",
+            "beginning_of_term": "2015-08-12",
+            "end_of_term": "2016-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Madeleine Abarca",
+            "beginning_of_term": "2016-12-15",
+            "end_of_term": "2017-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Veronica Artola Jarrin",
+            "beginning_of_term": "2017-06-01",
+            "end_of_term": "2021-05-25",
+            "acting": false
+        },
+        {
+            "governor": "Guillermo Enrique Avellan Solines",
+            "beginning_of_term": "2021-06-09",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2005

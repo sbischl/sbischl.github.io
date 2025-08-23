@@ -22,9 +22,11 @@
         "financial_market": 0.35,
         "political": 0.2
     },
-    "monetary_dominance": 0.6124637071088767,
-    "fiscal_dominance_mean": 0.0415426881813009,
-    "financial_dominance_mean": 0.3459936047098225,
+    "pressures": {
+        "monetary_dominance": 0.6124637071088767,
+        "fiscal_dominance": 0.0415426881813009,
+        "financial_dominance": 0.3459936047098225
+    },
     "top_topics": [
         [
             "financial markets",
@@ -66,6 +68,92 @@
             "global labour market",
             0.15
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Leonard Siemiatkowski",
+            "beginning_of_term": "1968-07-01",
+            "end_of_term": "1972-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Witold Bien",
+            "beginning_of_term": "1973-04-01",
+            "end_of_term": "1980-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Stanislaw Majewski",
+            "beginning_of_term": "1981-01-01",
+            "end_of_term": "1985-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Zdzislaw Pakula (not officially appointed)",
+            "beginning_of_term": "1985-04-01",
+            "end_of_term": "1985-11-01",
+            "acting": false
+        },
+        {
+            "governor": "Wladyslaw Baka",
+            "beginning_of_term": "1985-11-01",
+            "end_of_term": "1988-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Zdzislaw Pakula",
+            "beginning_of_term": "1988-07-01",
+            "end_of_term": "1989-09-01",
+            "acting": false
+        },
+        {
+            "governor": "Wladyslaw Baka",
+            "beginning_of_term": "1989-09-01",
+            "end_of_term": "1991-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Grzegorz W\u00f3jtowicz",
+            "beginning_of_term": "1991-01-01",
+            "end_of_term": "1991-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Andrzej Topi\u0144ski",
+            "beginning_of_term": "1991-08-01",
+            "end_of_term": "1992-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Hanna Gronkiewicz-Waltz",
+            "beginning_of_term": "1992-03-01",
+            "end_of_term": "2000-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Leszek Balcerowicz",
+            "beginning_of_term": "2001-01-01",
+            "end_of_term": "2007-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Slawomir Skrzypek",
+            "beginning_of_term": "2007-01-01",
+            "end_of_term": "2010-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Marek Belka",
+            "beginning_of_term": "2010-06-01",
+            "end_of_term": "2016-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Adam Glapinski",
+            "beginning_of_term": "2016-06-21",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2001,

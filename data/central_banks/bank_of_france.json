@@ -57,9 +57,11 @@
         "central_bank": 0.165,
         "political": 0.0425
     },
-    "monetary_dominance": 0.678836802495966,
-    "fiscal_dominance_mean": 0.06457850488479383,
-    "financial_dominance_mean": 0.25658469261924016,
+    "pressures": {
+        "monetary_dominance": 0.678836802495966,
+        "fiscal_dominance": 0.06457850488479383,
+        "financial_dominance": 0.25658469261924016
+    },
     "top_topics": [
         [
             "financial stability",
@@ -101,6 +103,56 @@
             "euro",
             0.0975
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Olivier Wormser",
+            "beginning_of_term": "1969-04-08",
+            "end_of_term": "1974-06-13",
+            "acting": false
+        },
+        {
+            "governor": "Bernard Clappier",
+            "beginning_of_term": "1974-06-14",
+            "end_of_term": "1979-11-20",
+            "acting": false
+        },
+        {
+            "governor": "Renaud de la G\u00e9ni\u00e8re",
+            "beginning_of_term": "1979-11-21",
+            "end_of_term": "1984-11-13",
+            "acting": false
+        },
+        {
+            "governor": "Michel Camdessus",
+            "beginning_of_term": "1984-11-14",
+            "end_of_term": "1987-01-15",
+            "acting": false
+        },
+        {
+            "governor": "Jacques Larosi\u00e8re de Champfeu",
+            "beginning_of_term": "1987-01-16",
+            "end_of_term": "1993-09-15",
+            "acting": false
+        },
+        {
+            "governor": "Jean-Claude Trichet",
+            "beginning_of_term": "1993-09-16",
+            "end_of_term": "2003-10-21",
+            "acting": false
+        },
+        {
+            "governor": "Christian Noyer",
+            "beginning_of_term": "2003-10-22",
+            "end_of_term": "2015-10-31",
+            "acting": false
+        },
+        {
+            "governor": "Fran\u00e7ois Villeroy de Galhau",
+            "beginning_of_term": "2015-11-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1996,

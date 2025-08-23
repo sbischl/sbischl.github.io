@@ -25,9 +25,11 @@
         "academic": 0.8,
         "central_bank": 0.2
     },
-    "monetary_dominance": 0.7555555555555555,
-    "fiscal_dominance_mean": 0.24444444444444444,
-    "financial_dominance_mean": 0.0,
+    "pressures": {
+        "monetary_dominance": 0.7555555555555555,
+        "fiscal_dominance": 0.24444444444444444,
+        "financial_dominance": 0.0
+    },
     "top_topics": [
         [
             "maastricht criteria",
@@ -69,6 +71,44 @@
             "nominal convergence",
             0.2
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Mari\u00e1n Tkac",
+            "beginning_of_term": "1993-01-01",
+            "end_of_term": "1993-07-28",
+            "acting": false
+        },
+        {
+            "governor": "Vladim\u00edr Mas\u00e1r",
+            "beginning_of_term": "1993-07-29",
+            "end_of_term": "1999-07-29",
+            "acting": false
+        },
+        {
+            "governor": "Mari\u00e1n Jusko",
+            "beginning_of_term": "1999-07-30",
+            "end_of_term": "2004-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Ivan \u0160ramko",
+            "beginning_of_term": "2005-01-01",
+            "end_of_term": "2010-01-11",
+            "acting": false
+        },
+        {
+            "governor": "Jozef Mak\u00fach",
+            "beginning_of_term": "2010-01-12",
+            "end_of_term": "2019-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Peter Ka\u017eim\u00edr",
+            "beginning_of_term": "2019-06-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2003,

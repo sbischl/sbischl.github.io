@@ -19,9 +19,11 @@
     "audiences": {
         "financial_market": 1.0
     },
-    "monetary_dominance": 0.5,
-    "fiscal_dominance_mean": 0.5,
-    "financial_dominance_mean": 0.0,
+    "pressures": {
+        "monetary_dominance": 0.5,
+        "fiscal_dominance": 0.5,
+        "financial_dominance": 0.0
+    },
     "top_topics": [
         [
             "financial services",
@@ -64,6 +66,7 @@
             0.3333333333333333
         ]
     ],
+    "governors": [],
     "year": [
         2005,
         2006,

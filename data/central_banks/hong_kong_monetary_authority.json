@@ -60,9 +60,11 @@
         "central_bank": 0.09854014598540146,
         "political": 0.021897810218978103
     },
-    "monetary_dominance": 0.5025101212541278,
-    "fiscal_dominance_mean": 0.06908247650272649,
-    "financial_dominance_mean": 0.42840740224314566,
+    "pressures": {
+        "monetary_dominance": 0.5025101212541278,
+        "fiscal_dominance": 0.06908247650272649,
+        "financial_dominance": 0.42840740224314566
+    },
     "top_topics": [
         [
             "financial stability",
@@ -104,6 +106,26 @@
             "green finance",
             0.058394160583941604
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Joseph Yam",
+            "beginning_of_term": "1993-04-01",
+            "end_of_term": "2009-09-30",
+            "acting": false
+        },
+        {
+            "governor": "Norman Chan",
+            "beginning_of_term": "2009-10-01",
+            "end_of_term": "2019-09-30",
+            "acting": false
+        },
+        {
+            "governor": "Eddie Yue",
+            "beginning_of_term": "2019-10-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1997,

@@ -33,9 +33,11 @@
         "financial_market": 0.17647058823529413,
         "political": 0.08823529411764706
     },
-    "monetary_dominance": 0.6293084934705506,
-    "fiscal_dominance_mean": 0.0753638901821214,
-    "financial_dominance_mean": 0.29532761634732796,
+    "pressures": {
+        "monetary_dominance": 0.6293084934705506,
+        "fiscal_dominance": 0.0753638901821214,
+        "financial_dominance": 0.29532761634732796
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -77,6 +79,248 @@
             "emerging economies",
             0.1764705882352941
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Egidio Iannella",
+            "beginning_of_term": "1969-06-25",
+            "end_of_term": "1970-10-26",
+            "acting": false
+        },
+        {
+            "governor": "Daniel Fernandez",
+            "beginning_of_term": "1970-10-26",
+            "end_of_term": "1971-04-20",
+            "acting": false
+        },
+        {
+            "governor": "Ricardo Gruneisen",
+            "beginning_of_term": "1971-04-28",
+            "end_of_term": "1971-08-24",
+            "acting": false
+        },
+        {
+            "governor": "Carlos Brignone",
+            "beginning_of_term": "1971-08-24",
+            "end_of_term": "1972-07-26",
+            "acting": false
+        },
+        {
+            "governor": "Jorge Bermudez Emparanza",
+            "beginning_of_term": "1972-07-26",
+            "end_of_term": "1973-05-29",
+            "acting": false
+        },
+        {
+            "governor": "Alfredo Gomez Morales",
+            "beginning_of_term": "1973-05-29",
+            "end_of_term": "1974-09-02",
+            "acting": false
+        },
+        {
+            "governor": "Hernan Aldabe",
+            "beginning_of_term": "1974-10-11",
+            "end_of_term": "1974-10-29",
+            "acting": false
+        },
+        {
+            "governor": "Ricardo A. Cairoli",
+            "beginning_of_term": "1974-10-29",
+            "end_of_term": "1975-07-17",
+            "acting": false
+        },
+        {
+            "governor": "Emilio Mondelli",
+            "beginning_of_term": "1975-08-01",
+            "end_of_term": "1976-02-03",
+            "acting": false
+        },
+        {
+            "governor": "Eduardo A. Zalduendo",
+            "beginning_of_term": "1976-02-04",
+            "end_of_term": "1976-03-24",
+            "acting": false
+        },
+        {
+            "governor": "Alfredo G. Cassino",
+            "beginning_of_term": "1976-03-24",
+            "end_of_term": "1976-04-02",
+            "acting": false
+        },
+        {
+            "governor": "Adolfo C. Diz",
+            "beginning_of_term": "1976-04-02",
+            "end_of_term": "1981-03-27",
+            "acting": false
+        },
+        {
+            "governor": "Julio Jose Gomez",
+            "beginning_of_term": "1981-03-31",
+            "end_of_term": "1981-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Egidio Ianella",
+            "beginning_of_term": "1981-06-01",
+            "end_of_term": "1982-07-02",
+            "acting": false
+        },
+        {
+            "governor": "Domingo Felipe Cavallo",
+            "beginning_of_term": "1982-07-02",
+            "end_of_term": "1982-08-26",
+            "acting": false
+        },
+        {
+            "governor": "Julio C. Gonzalez del Solar",
+            "beginning_of_term": "1982-08-26",
+            "end_of_term": "1983-12-07",
+            "acting": false
+        },
+        {
+            "governor": "Enrique Garcia Vazquez",
+            "beginning_of_term": "1983-12-10",
+            "end_of_term": "1985-02-19",
+            "acting": false
+        },
+        {
+            "governor": "Juan Jose A. Concepcion",
+            "beginning_of_term": "1985-02-19",
+            "end_of_term": "1986-08-25",
+            "acting": false
+        },
+        {
+            "governor": "Jose Luis Machinea",
+            "beginning_of_term": "1986-08-25",
+            "end_of_term": "1989-04-04",
+            "acting": false
+        },
+        {
+            "governor": "Enrique Garcia Vazquez",
+            "beginning_of_term": "1989-04-04",
+            "end_of_term": "1989-07-03",
+            "acting": false
+        },
+        {
+            "governor": "Javier A. Gonzalez Fraga",
+            "beginning_of_term": "1989-07-08",
+            "end_of_term": "1989-11-24",
+            "acting": false
+        },
+        {
+            "governor": "Egidio Ianella",
+            "beginning_of_term": "1989-11-24",
+            "end_of_term": "1989-12-20",
+            "acting": false
+        },
+        {
+            "governor": "Rodolfo C. Rossi",
+            "beginning_of_term": "1989-12-20",
+            "end_of_term": "1990-01-22",
+            "acting": false
+        },
+        {
+            "governor": "Enrique E. Folcini",
+            "beginning_of_term": "1990-01-23",
+            "end_of_term": "1990-03-20",
+            "acting": false
+        },
+        {
+            "governor": "Antonio Erman Gonzalez",
+            "beginning_of_term": "1990-03-20",
+            "end_of_term": "1990-06-13",
+            "acting": false
+        },
+        {
+            "governor": "Javier A. Gonzalez Fraga",
+            "beginning_of_term": "1990-06-13",
+            "end_of_term": "1991-01-29",
+            "acting": false
+        },
+        {
+            "governor": "Roque Benjamin Fernandez",
+            "beginning_of_term": "1991-02-05",
+            "end_of_term": "1996-08-04",
+            "acting": false
+        },
+        {
+            "governor": "Pedro Pou",
+            "beginning_of_term": "1996-08-05",
+            "end_of_term": "2001-04-25",
+            "acting": false
+        },
+        {
+            "governor": "Roque Maccarone",
+            "beginning_of_term": "2001-04-25",
+            "end_of_term": "2002-01-18",
+            "acting": false
+        },
+        {
+            "governor": "Mario Blejer",
+            "beginning_of_term": "2002-01-28",
+            "end_of_term": "2002-06-25",
+            "acting": false
+        },
+        {
+            "governor": "Aldo Ruben Pignanelli",
+            "beginning_of_term": "2002-06-25",
+            "end_of_term": "2002-12-11",
+            "acting": false
+        },
+        {
+            "governor": "Alfonso Prat Gay",
+            "beginning_of_term": "2002-12-11",
+            "end_of_term": "2004-09-23",
+            "acting": false
+        },
+        {
+            "governor": "Martin Redrado",
+            "beginning_of_term": "2004-09-24",
+            "end_of_term": "2010-01-22",
+            "acting": false
+        },
+        {
+            "governor": "Mercedes Marco del Pont",
+            "beginning_of_term": "2010-01-23",
+            "end_of_term": "2013-11-18",
+            "acting": false
+        },
+        {
+            "governor": "Juan Carlos Fabrega",
+            "beginning_of_term": "2013-11-19",
+            "end_of_term": "2014-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Alejandro Vanoli",
+            "beginning_of_term": "2014-10-02",
+            "end_of_term": "2015-12-10",
+            "acting": false
+        },
+        {
+            "governor": "Federico Adolfo Sturzenegger",
+            "beginning_of_term": "2015-12-11",
+            "end_of_term": "2018-06-14",
+            "acting": false
+        },
+        {
+            "governor": "Luis Andres Caputo",
+            "beginning_of_term": "2018-06-18",
+            "end_of_term": "2018-09-25",
+            "acting": false
+        },
+        {
+            "governor": "Guido Sandleris",
+            "beginning_of_term": "2018-09-25",
+            "end_of_term": "2019-12-09",
+            "acting": false
+        },
+        {
+            "governor": "Miguel Angel Pesce",
+            "beginning_of_term": "2019-12-10",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2004,

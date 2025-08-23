@@ -43,9 +43,11 @@
         "political": 0.08571428571428572,
         "academic": 0.05714285714285714
     },
-    "monetary_dominance": 0.5737958942734919,
-    "fiscal_dominance_mean": 0.010831232209463689,
-    "financial_dominance_mean": 0.41537287351704444,
+    "pressures": {
+        "monetary_dominance": 0.5737958942734919,
+        "fiscal_dominance": 0.010831232209463689,
+        "financial_dominance": 0.41537287351704444
+    },
     "top_topics": [
         [
             "financial inclusion",
@@ -87,6 +89,44 @@
             "payment system",
             0.11428571428571428
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Wouter Bernard",
+            "beginning_of_term": "1990-06-16",
+            "end_of_term": "1991-08-31",
+            "acting": false
+        },
+        {
+            "governor": "Erik Lennart Karlsson",
+            "beginning_of_term": "1991-09-01",
+            "end_of_term": "1993-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Jafaar bin Ahmad",
+            "beginning_of_term": "1994-01-01",
+            "end_of_term": "1996-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Tom Alweendo",
+            "beginning_of_term": "1997-01-01",
+            "end_of_term": "2010-03-25",
+            "acting": false
+        },
+        {
+            "governor": "Ipumbu Shiimi",
+            "beginning_of_term": "2010-03-25",
+            "end_of_term": "2020-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Johannes !Gawaxab",
+            "beginning_of_term": "2020-06-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1999,

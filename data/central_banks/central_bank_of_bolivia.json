@@ -17,9 +17,11 @@
     "audiences": {
         "central_bank": 1.0
     },
-    "monetary_dominance": 0.2857142857142857,
-    "fiscal_dominance_mean": 0.07142857142857142,
-    "financial_dominance_mean": 0.6428571428571429,
+    "pressures": {
+        "monetary_dominance": 0.2857142857142857,
+        "fiscal_dominance": 0.07142857142857142,
+        "financial_dominance": 0.6428571428571429
+    },
     "top_topics": [
         [
             "macroprudential regulation",
@@ -61,6 +63,194 @@
             "macroeconomic policy",
             1.0
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Jorge Jord\u00e1n Ferrufino",
+            "beginning_of_term": "1967-01-01",
+            "end_of_term": "1969-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Oscar Vega L\u00f3pez",
+            "beginning_of_term": "1969-01-01",
+            "end_of_term": "1970-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Wenceslao Alba Quiroz",
+            "beginning_of_term": "1970-01-01",
+            "end_of_term": "1971-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Arturo Nu\u00f1ez del Prado",
+            "beginning_of_term": "1971-01-01",
+            "end_of_term": "1971-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Manuel Mercado Montero",
+            "beginning_of_term": "1971-01-01",
+            "end_of_term": "1972-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Luis Bedregal Rodo",
+            "beginning_of_term": "1972-01-01",
+            "end_of_term": "1972-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Jos\u00e9 Justiniano Aguilera",
+            "beginning_of_term": "1977-01-01",
+            "end_of_term": "1978-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Miguel Fabbri Cohn",
+            "beginning_of_term": "1978-01-01",
+            "end_of_term": "1979-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Enrique Garc\u00eda Ayaviri",
+            "beginning_of_term": "1979-01-01",
+            "end_of_term": "1979-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Marcelo Montero N. del P.",
+            "beginning_of_term": "1980-01-01",
+            "end_of_term": "1981-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Guido Salinas",
+            "beginning_of_term": "1981-01-01",
+            "end_of_term": "1981-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Gonzalo Ruiz Ballivian",
+            "beginning_of_term": "1982-01-01",
+            "end_of_term": "1982-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Luis Viscarra Cruz",
+            "beginning_of_term": "1982-01-01",
+            "end_of_term": "1983-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Herbert M\u00fcller Costas",
+            "beginning_of_term": "1983-01-01",
+            "end_of_term": "1984-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Marcelo Zalles Barriga",
+            "beginning_of_term": "1984-01-01",
+            "end_of_term": "1984-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Reynaldo Cardozo Arellano",
+            "beginning_of_term": "1984-01-01",
+            "end_of_term": "1985-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Tamara S\u00e1nchez Pe\u00f1a",
+            "beginning_of_term": "1985-01-01",
+            "end_of_term": "1985-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Ren\u00e9 G\u00f3mez Garc\u00eda",
+            "beginning_of_term": "1985-01-01",
+            "end_of_term": "1986-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Javier Nogales Iturri",
+            "beginning_of_term": "1986-01-01",
+            "end_of_term": "1988-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Jacques Trigo Loubiere",
+            "beginning_of_term": "1988-01-01",
+            "end_of_term": "1989-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Ra\u00fal Boada Rodr\u00edguez",
+            "beginning_of_term": "1989-01-01",
+            "end_of_term": "1992-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Armando M\u00e9ndez Morales",
+            "beginning_of_term": "1992-01-01",
+            "end_of_term": "1993-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Fernando Candia Castillo",
+            "beginning_of_term": "1993-01-01",
+            "end_of_term": "1995-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Juan Antonio Morales",
+            "beginning_of_term": "1996-01-01",
+            "end_of_term": "2006-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Raul Garron Claure",
+            "beginning_of_term": "2006-01-01",
+            "end_of_term": "2008-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Gabriel Loza Telleria",
+            "beginning_of_term": "2008-01-01",
+            "end_of_term": "2010-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Marcelo Zabalaga Estrada",
+            "beginning_of_term": "2010-11-01",
+            "end_of_term": "2017-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Pablo Ramos Sanchez",
+            "beginning_of_term": "2017-01-01",
+            "end_of_term": "2019-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Guillermo Aponte",
+            "beginning_of_term": "2019-01-01",
+            "end_of_term": "2020-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Agustin Saavedra Weise",
+            "beginning_of_term": "2020-01-01",
+            "end_of_term": "2020-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Roger Edwin Rojas Ulo",
+            "beginning_of_term": "2020-01-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2010

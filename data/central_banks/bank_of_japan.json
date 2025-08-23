@@ -89,9 +89,11 @@
         "central_bank": 0.22811671087533156,
         "political": 0.07029177718832891
     },
-    "monetary_dominance": 0.642606602593198,
-    "fiscal_dominance_mean": 0.048341171002542815,
-    "financial_dominance_mean": 0.3090522264042591,
+    "pressures": {
+        "monetary_dominance": 0.642606602593198,
+        "fiscal_dominance": 0.048341171002542815,
+        "financial_dominance": 0.3090522264042591
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -133,6 +135,74 @@
             "business fixed investment",
             0.125
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Tadashi Sasaki",
+            "beginning_of_term": "1969-12-17",
+            "end_of_term": "1974-12-16",
+            "acting": false
+        },
+        {
+            "governor": "Teiichiro Morinaga",
+            "beginning_of_term": "1974-12-17",
+            "end_of_term": "1979-12-16",
+            "acting": false
+        },
+        {
+            "governor": "Haruo Mayekawa",
+            "beginning_of_term": "1979-12-17",
+            "end_of_term": "1984-12-16",
+            "acting": false
+        },
+        {
+            "governor": "Satoshi Sumita",
+            "beginning_of_term": "1984-12-17",
+            "end_of_term": "1989-12-16",
+            "acting": false
+        },
+        {
+            "governor": "Yasushi Mieno",
+            "beginning_of_term": "1989-12-17",
+            "end_of_term": "1994-12-16",
+            "acting": false
+        },
+        {
+            "governor": "Yasuo Matsushita",
+            "beginning_of_term": "1994-12-17",
+            "end_of_term": "1998-03-20",
+            "acting": false
+        },
+        {
+            "governor": "Masaru Hayami",
+            "beginning_of_term": "1998-03-20",
+            "end_of_term": "2003-03-19",
+            "acting": false
+        },
+        {
+            "governor": "Toshihiko Fukui",
+            "beginning_of_term": "2003-03-20",
+            "end_of_term": "2008-03-19",
+            "acting": false
+        },
+        {
+            "governor": "Masaaki Shirakawa",
+            "beginning_of_term": "2008-04-09",
+            "end_of_term": "2013-03-19",
+            "acting": false
+        },
+        {
+            "governor": "Haruhiko Kuroda",
+            "beginning_of_term": "2013-03-20",
+            "end_of_term": "2023-04-09",
+            "acting": false
+        },
+        {
+            "governor": "Kazuo Ueda",
+            "beginning_of_term": "2023-04-09",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1996,

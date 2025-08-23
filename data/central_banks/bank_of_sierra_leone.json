@@ -28,9 +28,11 @@
         "political": 0.16666666666666666,
         "academic": 0.08333333333333333
     },
-    "monetary_dominance": 0.5071528751753156,
-    "fiscal_dominance_mean": 0.4844319775596072,
-    "financial_dominance_mean": 0.008415147265077139,
+    "pressures": {
+        "monetary_dominance": 0.5071528751753156,
+        "fiscal_dominance": 0.4844319775596072,
+        "financial_dominance": 0.008415147265077139
+    },
     "top_topics": [
         [
             "inflation",
@@ -73,6 +75,7 @@
             0.16666666666666666
         ]
     ],
+    "governors": [],
     "year": [
         2004,
         2006,

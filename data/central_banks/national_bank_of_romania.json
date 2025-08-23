@@ -40,9 +40,11 @@
         "central_bank": 0.2463768115942029,
         "political": 0.13043478260869565
     },
-    "monetary_dominance": 0.7007023438263519,
-    "fiscal_dominance_mean": 0.08138135868927712,
-    "financial_dominance_mean": 0.21791629748437102,
+    "pressures": {
+        "monetary_dominance": 0.7007023438263519,
+        "fiscal_dominance": 0.08138135868927712,
+        "financial_dominance": 0.21791629748437102
+    },
     "top_topics": [
         [
             "financial stability",
@@ -85,6 +87,7 @@
             0.11594202898550725
         ]
     ],
+    "governors": [],
     "year": [
         2005,
         2008,

@@ -46,9 +46,11 @@
         "political": 0.21100917431192662,
         "central_bank": 0.12844036697247707
     },
-    "monetary_dominance": 0.7040450059599319,
-    "fiscal_dominance_mean": 0.14865167328540752,
-    "financial_dominance_mean": 0.14730332075466054,
+    "pressures": {
+        "monetary_dominance": 0.7040450059599319,
+        "fiscal_dominance": 0.14865167328540752,
+        "financial_dominance": 0.14730332075466054
+    },
     "top_topics": [
         [
             "economic growth",
@@ -90,6 +92,68 @@
             "price stability",
             0.13761467889908258
         ]
+    ],
+    "governors": [
+        {
+            "governor": "David Horowitz",
+            "beginning_of_term": "1954-01-01",
+            "end_of_term": "1971-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Moshe Sanbar",
+            "beginning_of_term": "1971-10-01",
+            "end_of_term": "1976-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Arnon Gafny",
+            "beginning_of_term": "1976-11-01",
+            "end_of_term": "1981-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Moshe Mandelbaum",
+            "beginning_of_term": "1982-01-01",
+            "end_of_term": "1986-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Michael Bruno",
+            "beginning_of_term": "1986-06-01",
+            "end_of_term": "1991-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Jacob Frenkel",
+            "beginning_of_term": "1991-08-01",
+            "end_of_term": "2000-01-01",
+            "acting": false
+        },
+        {
+            "governor": "David Klein",
+            "beginning_of_term": "2000-01-01",
+            "end_of_term": "2005-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Stanley Fischer",
+            "beginning_of_term": "2005-05-01",
+            "end_of_term": "2013-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Karnit Flug",
+            "beginning_of_term": "2013-11-01",
+            "end_of_term": "2018-11-01",
+            "acting": false
+        },
+        {
+            "governor": "Amir Yaron",
+            "beginning_of_term": "2018-12-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2001,

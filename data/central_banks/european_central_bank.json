@@ -72,9 +72,11 @@
         "financial_market": 0.2818218788125254,
         "political": 0.12403416022773485
     },
-    "monetary_dominance": 0.8000105525378858,
-    "fiscal_dominance_mean": 0.039755472846980285,
-    "financial_dominance_mean": 0.16023397461513397,
+    "pressures": {
+        "monetary_dominance": 0.8000105525378858,
+        "fiscal_dominance": 0.039755472846980285,
+        "financial_dominance": 0.16023397461513397
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -116,6 +118,32 @@
             "banking union",
             0.10858072387149248
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Willem Frederik Duisenberg",
+            "beginning_of_term": "1998-06-01",
+            "end_of_term": "2003-10-31",
+            "acting": false
+        },
+        {
+            "governor": "Jean-Claude Trichet",
+            "beginning_of_term": "2003-11-01",
+            "end_of_term": "2011-10-31",
+            "acting": false
+        },
+        {
+            "governor": "Mario Draghi",
+            "beginning_of_term": "2011-11-01",
+            "end_of_term": "2019-10-31",
+            "acting": false
+        },
+        {
+            "governor": "Christine Lagarde",
+            "beginning_of_term": "2019-11-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1998,

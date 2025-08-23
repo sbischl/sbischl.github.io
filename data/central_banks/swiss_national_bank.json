@@ -57,9 +57,11 @@
         "academic": 0.27901234567901234,
         "political": 0.012345679012345678
     },
-    "monetary_dominance": 0.6797974475868491,
-    "fiscal_dominance_mean": 0.025224729848815113,
-    "financial_dominance_mean": 0.2949778225643358,
+    "pressures": {
+        "monetary_dominance": 0.6797974475868491,
+        "fiscal_dominance": 0.025224729848815113,
+        "financial_dominance": 0.2949778225643358
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -101,6 +103,62 @@
             "swiss national bank",
             0.1089108910891089
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Walter Schwegler",
+            "beginning_of_term": "1956-06-01",
+            "end_of_term": "1966-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Edwin Stopper",
+            "beginning_of_term": "1966-09-01",
+            "end_of_term": "1974-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Fritz Leutwiler",
+            "beginning_of_term": "1974-05-01",
+            "end_of_term": "1984-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Pierre Languetin",
+            "beginning_of_term": "1985-01-01",
+            "end_of_term": "1988-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Markus Lusser",
+            "beginning_of_term": "1988-05-01",
+            "end_of_term": "1996-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Hans Meyer",
+            "beginning_of_term": "1996-05-01",
+            "end_of_term": "2000-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Jean-Pierre Roth",
+            "beginning_of_term": "2001-01-01",
+            "end_of_term": "2009-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Philipp Hildebrand",
+            "beginning_of_term": "2010-01-01",
+            "end_of_term": "2012-01-09",
+            "acting": false
+        },
+        {
+            "governor": "Thomas J. Jordan",
+            "beginning_of_term": "2012-04-18",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1997,

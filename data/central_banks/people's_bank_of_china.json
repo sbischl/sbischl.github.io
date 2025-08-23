@@ -53,9 +53,11 @@
         "academic": 0.1357142857142857,
         "political": 0.05714285714285714
     },
-    "monetary_dominance": 0.5364734501456523,
-    "fiscal_dominance_mean": 0.10606903385342244,
-    "financial_dominance_mean": 0.35745751600092524,
+    "pressures": {
+        "monetary_dominance": 0.5364734501456523,
+        "fiscal_dominance": 0.10606903385342244,
+        "financial_dominance": 0.35745751600092524
+    },
     "top_topics": [
         [
             "financial stability",
@@ -97,6 +99,68 @@
             "risk management",
             0.08571428571428572
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Hu Lijiao",
+            "beginning_of_term": "1964-10-01",
+            "end_of_term": "1973-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Chen Xiyu",
+            "beginning_of_term": "1973-05-01",
+            "end_of_term": "1978-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Li Baohua",
+            "beginning_of_term": "1978-05-01",
+            "end_of_term": "1982-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Lu Peijian",
+            "beginning_of_term": "1982-05-01",
+            "end_of_term": "1985-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Chen Muhua",
+            "beginning_of_term": "1985-03-01",
+            "end_of_term": "1988-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Li Guixian",
+            "beginning_of_term": "1988-04-01",
+            "end_of_term": "1993-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Zhu Rongji",
+            "beginning_of_term": "1993-07-01",
+            "end_of_term": "1995-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Dai Xianglong",
+            "beginning_of_term": "1995-06-01",
+            "end_of_term": "2002-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Zhou Xiaochuan",
+            "beginning_of_term": "2002-12-28",
+            "end_of_term": "2018-03-19",
+            "acting": false
+        },
+        {
+            "governor": "Yi Gang",
+            "beginning_of_term": "2018-03-19",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1996,

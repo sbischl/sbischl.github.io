@@ -62,9 +62,11 @@
         "central_bank": 0.1625,
         "political": 0.1
     },
-    "monetary_dominance": 0.6158044610515556,
-    "fiscal_dominance_mean": 0.098950595846096,
-    "financial_dominance_mean": 0.28524494310234827,
+    "pressures": {
+        "monetary_dominance": 0.6158044610515556,
+        "fiscal_dominance": 0.098950595846096,
+        "financial_dominance": 0.28524494310234827
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -106,6 +108,44 @@
             "public debt",
             0.06766917293233082
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Guido Carli",
+            "beginning_of_term": "1960-08-18",
+            "end_of_term": "1975-08-18",
+            "acting": false
+        },
+        {
+            "governor": "Paolo Baffi",
+            "beginning_of_term": "1975-08-19",
+            "end_of_term": "1979-10-07",
+            "acting": false
+        },
+        {
+            "governor": "Carlo Azeglio Ciampi",
+            "beginning_of_term": "1979-10-08",
+            "end_of_term": "1993-04-29",
+            "acting": false
+        },
+        {
+            "governor": "Antonio Fazio",
+            "beginning_of_term": "1993-05-04",
+            "end_of_term": "2005-12-20",
+            "acting": false
+        },
+        {
+            "governor": "Mario Draghi",
+            "beginning_of_term": "2005-12-29",
+            "end_of_term": "2011-10-31",
+            "acting": false
+        },
+        {
+            "governor": "Ignazio Visco",
+            "beginning_of_term": "2011-11-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1997,

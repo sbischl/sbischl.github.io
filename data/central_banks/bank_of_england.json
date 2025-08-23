@@ -88,9 +88,11 @@
         "central_bank": 0.04859335038363171,
         "political": 0.023017902813299233
     },
-    "monetary_dominance": 0.6612335927851437,
-    "fiscal_dominance_mean": 0.04567955232795883,
-    "financial_dominance_mean": 0.2930868548868974,
+    "pressures": {
+        "monetary_dominance": 0.6612335927851437,
+        "fiscal_dominance": 0.04567955232795883,
+        "financial_dominance": 0.2930868548868974
+    },
     "top_topics": [
         [
             "financial stability",
@@ -132,6 +134,50 @@
             "financial markets",
             0.06010230179028132
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Leslie Kenneth O'Brien",
+            "beginning_of_term": "1966-01-01",
+            "end_of_term": "1973-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Gordon William Humphreys Richardson",
+            "beginning_of_term": "1973-01-01",
+            "end_of_term": "1983-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Robert Leigh-Pemberton",
+            "beginning_of_term": "1983-01-01",
+            "end_of_term": "1993-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Edward Alan John George",
+            "beginning_of_term": "1993-01-01",
+            "end_of_term": "2003-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Mervyn Allister King",
+            "beginning_of_term": "2003-07-01",
+            "end_of_term": "2013-06-30",
+            "acting": false
+        },
+        {
+            "governor": "Mark Carney",
+            "beginning_of_term": "2013-07-01",
+            "end_of_term": "2020-03-15",
+            "acting": false
+        },
+        {
+            "governor": "Andrew Bailey",
+            "beginning_of_term": "2020-03-16",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1996,

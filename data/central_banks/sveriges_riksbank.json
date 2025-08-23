@@ -67,9 +67,11 @@
         "central_bank": 0.1191919191919192,
         "political": 0.11313131313131314
     },
-    "monetary_dominance": 0.7375099116579469,
-    "fiscal_dominance_mean": 0.03681669176715928,
-    "financial_dominance_mean": 0.2256733965748938,
+    "pressures": {
+        "monetary_dominance": 0.7375099116579469,
+        "fiscal_dominance": 0.03681669176715928,
+        "financial_dominance": 0.2256733965748938
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -111,6 +113,62 @@
             "price stability",
             0.11515151515151514
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Per \u00c5sbrink",
+            "beginning_of_term": "1955-04-01",
+            "end_of_term": "1973-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Krister Wickman",
+            "beginning_of_term": "1973-11-01",
+            "end_of_term": "1976-11-01",
+            "acting": false
+        },
+        {
+            "governor": "Carl Henrik Nordlander",
+            "beginning_of_term": "1976-11-01",
+            "end_of_term": "1979-11-01",
+            "acting": false
+        },
+        {
+            "governor": "Lars Wohlin",
+            "beginning_of_term": "1979-11-01",
+            "end_of_term": "1982-10-01",
+            "acting": false
+        },
+        {
+            "governor": "Bengt Dennis",
+            "beginning_of_term": "1982-10-01",
+            "end_of_term": "1993-12-01",
+            "acting": false
+        },
+        {
+            "governor": "Urban B\u00e4ckstr\u00f6m",
+            "beginning_of_term": "1994-01-01",
+            "end_of_term": "2002-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Lars Heikensten",
+            "beginning_of_term": "2003-01-01",
+            "end_of_term": "2005-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Stefan Ingves",
+            "beginning_of_term": "2006-01-01",
+            "end_of_term": "2022-12-31",
+            "acting": false
+        },
+        {
+            "governor": "Erik Thed\u00e9en",
+            "beginning_of_term": "2023-01-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1987,

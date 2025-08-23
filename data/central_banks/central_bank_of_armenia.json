@@ -17,9 +17,11 @@
     "audiences": {
         "financial_market": 1.0
     },
-    "monetary_dominance": 0.5,
-    "fiscal_dominance_mean": 0.0,
-    "financial_dominance_mean": 0.5,
+    "pressures": {
+        "monetary_dominance": 0.5,
+        "fiscal_dominance": 0.0,
+        "financial_dominance": 0.5
+    },
     "top_topics": [
         [
             "development",
@@ -61,6 +63,38 @@
             "corruption",
             1.0
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Isahak Isahakyan",
+            "beginning_of_term": "1986-01-01",
+            "end_of_term": "1994-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Bagrat Asatryan",
+            "beginning_of_term": "1994-01-01",
+            "end_of_term": "1998-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Tigran Sargsyan",
+            "beginning_of_term": "1998-03-01",
+            "end_of_term": "2008-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Arthur Javadyan",
+            "beginning_of_term": "2008-06-01",
+            "end_of_term": "2020-06-13",
+            "acting": false
+        },
+        {
+            "governor": "Martin Galstyan",
+            "beginning_of_term": "2020-06-13",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2006

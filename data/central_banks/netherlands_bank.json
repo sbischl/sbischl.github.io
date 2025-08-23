@@ -58,9 +58,11 @@
         "central_bank": 0.20772946859903382,
         "political": 0.04830917874396135
     },
-    "monetary_dominance": 0.6405802372951532,
-    "fiscal_dominance_mean": 0.06415148438838436,
-    "financial_dominance_mean": 0.2952682783164624,
+    "pressures": {
+        "monetary_dominance": 0.6405802372951532,
+        "fiscal_dominance": 0.06415148438838436,
+        "financial_dominance": 0.2952682783164624
+    },
     "top_topics": [
         [
             "financial stability",
@@ -102,6 +104,32 @@
             "supervision",
             0.07281553398058252
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Jelle Zijlstra",
+            "beginning_of_term": "1967-05-01",
+            "end_of_term": "1982-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Willem Frederik Duisenberg",
+            "beginning_of_term": "1982-01-01",
+            "end_of_term": "1997-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Nout Wellink",
+            "beginning_of_term": "1997-07-01",
+            "end_of_term": "2011-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Klaas Knot",
+            "beginning_of_term": "2011-07-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1997,

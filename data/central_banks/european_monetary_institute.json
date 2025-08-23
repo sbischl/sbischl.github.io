@@ -18,9 +18,11 @@
         "central_bank": 0.5,
         "academic": 0.5
     },
-    "monetary_dominance": 0.6971090670170828,
-    "fiscal_dominance_mean": 0.24178712220762155,
-    "financial_dominance_mean": 0.06110381077529566,
+    "pressures": {
+        "monetary_dominance": 0.6971090670170828,
+        "fiscal_dominance": 0.24178712220762155,
+        "financial_dominance": 0.06110381077529566
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -63,6 +65,7 @@
             0.5
         ]
     ],
+    "governors": [],
     "year": [
         1997
     ],

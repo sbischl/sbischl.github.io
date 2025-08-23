@@ -59,9 +59,11 @@
         "central_bank": 0.12,
         "political": 0.045
     },
-    "monetary_dominance": 0.6918719287463855,
-    "fiscal_dominance_mean": 0.041621036423283464,
-    "financial_dominance_mean": 0.266507034830331,
+    "pressures": {
+        "monetary_dominance": 0.6918719287463855,
+        "fiscal_dominance": 0.041621036423283464,
+        "financial_dominance": 0.266507034830331
+    },
     "top_topics": [
         [
             "monetary policy",
@@ -103,6 +105,62 @@
             "price stability",
             0.10552763819095477
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Alan Roberts Low",
+            "beginning_of_term": "1967-07-01",
+            "end_of_term": "1977-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Raymond W. R. White",
+            "beginning_of_term": "1977-02-01",
+            "end_of_term": "1982-02-01",
+            "acting": false
+        },
+        {
+            "governor": "Dick L. Wilks",
+            "beginning_of_term": "1982-02-01",
+            "end_of_term": "1984-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Spencer Thomas Russell",
+            "beginning_of_term": "1984-05-01",
+            "end_of_term": "1988-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Donald Thomas Brash",
+            "beginning_of_term": "1988-09-01",
+            "end_of_term": "2002-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Alan Bollard",
+            "beginning_of_term": "2002-09-01",
+            "end_of_term": "2012-09-25",
+            "acting": false
+        },
+        {
+            "governor": "Graeme Wheeler",
+            "beginning_of_term": "2012-09-26",
+            "end_of_term": "2017-09-27",
+            "acting": false
+        },
+        {
+            "governor": "Grant Spencer",
+            "beginning_of_term": "2017-10-01",
+            "end_of_term": "2018-03-01",
+            "acting": false
+        },
+        {
+            "governor": "Adrian Orr",
+            "beginning_of_term": "2018-03-27",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1997,

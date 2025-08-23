@@ -17,9 +17,11 @@
     "audiences": {
         "academic": 1.0
     },
-    "monetary_dominance": 0.8999999999999999,
-    "fiscal_dominance_mean": 0.09999999999999999,
-    "financial_dominance_mean": 0.0,
+    "pressures": {
+        "monetary_dominance": 0.8999999999999999,
+        "fiscal_dominance": 0.09999999999999999,
+        "financial_dominance": 0.0
+    },
     "top_topics": [
         [
             "dollarization",
@@ -61,6 +63,62 @@
             "political decision",
             1.0
         ]
+    ],
+    "governors": [
+        {
+            "governor": "H. Mehran",
+            "beginning_of_term": "1986-01-01",
+            "end_of_term": "1986-03-01",
+            "acting": false
+        },
+        {
+            "governor": "A. J.T. Williams",
+            "beginning_of_term": "1986-01-01",
+            "end_of_term": "1988-01-01",
+            "acting": false
+        },
+        {
+            "governor": "E. den Dunnen",
+            "beginning_of_term": "1988-01-01",
+            "end_of_term": "1991-01-01",
+            "acting": false
+        },
+        {
+            "governor": "A. S. Irausquin",
+            "beginning_of_term": "1991-01-01",
+            "end_of_term": "1995-01-01",
+            "acting": false
+        },
+        {
+            "governor": "J-H. du Marchie Sarvaas",
+            "beginning_of_term": "1995-01-01",
+            "end_of_term": "2000-01-01",
+            "acting": false
+        },
+        {
+            "governor": "A. R. Caram",
+            "beginning_of_term": "2000-01-01",
+            "end_of_term": "2004-01-01",
+            "acting": false
+        },
+        {
+            "governor": "R. Henriquez",
+            "beginning_of_term": "2004-01-01",
+            "end_of_term": "2007-01-01",
+            "acting": false
+        },
+        {
+            "governor": "Hassanali Mehran",
+            "beginning_of_term": "2007-07-01",
+            "end_of_term": "2008-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Jeanette R. Semeleer",
+            "beginning_of_term": "2008-08-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2009

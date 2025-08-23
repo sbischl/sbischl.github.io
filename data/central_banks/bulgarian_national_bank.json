@@ -39,9 +39,11 @@
         "academic": 0.1702127659574468,
         "political": 0.10638297872340426
     },
-    "monetary_dominance": 0.774483686904974,
-    "fiscal_dominance_mean": 0.08271972534522821,
-    "financial_dominance_mean": 0.14279658774979784,
+    "pressures": {
+        "monetary_dominance": 0.774483686904974,
+        "fiscal_dominance": 0.08271972534522821,
+        "financial_dominance": 0.14279658774979784
+    },
     "top_topics": [
         [
             "financial stability",
@@ -83,6 +85,62 @@
             "banking system",
             0.1276595744680851
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Kiril Zarev",
+            "beginning_of_term": "1969-01-05",
+            "end_of_term": "1974-07-07",
+            "acting": false
+        },
+        {
+            "governor": "Veselin Nikiforov",
+            "beginning_of_term": "1974-07-08",
+            "end_of_term": "1984-01-03",
+            "acting": false
+        },
+        {
+            "governor": "Vasil Kolarov",
+            "beginning_of_term": "1984-01-03",
+            "end_of_term": "1989-12-20",
+            "acting": false
+        },
+        {
+            "governor": "Ivan Dragnevski",
+            "beginning_of_term": "1989-12-20",
+            "end_of_term": "1991-01-09",
+            "acting": false
+        },
+        {
+            "governor": "Todor Valchev",
+            "beginning_of_term": "1991-01-09",
+            "end_of_term": "1996-01-24",
+            "acting": false
+        },
+        {
+            "governor": "Lyubomir Filipov",
+            "beginning_of_term": "1996-01-24",
+            "end_of_term": "1997-06-11",
+            "acting": false
+        },
+        {
+            "governor": "Svetoslav Gavriiski",
+            "beginning_of_term": "1997-06-11",
+            "end_of_term": "2003-10-09",
+            "acting": false
+        },
+        {
+            "governor": "Ivan Iskrov",
+            "beginning_of_term": "2003-10-09",
+            "end_of_term": "2015-07-14",
+            "acting": false
+        },
+        {
+            "governor": "Dimitar Radev",
+            "beginning_of_term": "2015-07-15",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2006,

@@ -69,9 +69,11 @@
         "academic": 0.12737642585551331,
         "political": 0.019011406844106463
     },
-    "monetary_dominance": 0.4633902043856623,
-    "fiscal_dominance_mean": 0.02717030840454296,
-    "financial_dominance_mean": 0.5094394872097948,
+    "pressures": {
+        "monetary_dominance": 0.4633902043856623,
+        "fiscal_dominance": 0.02717030840454296,
+        "financial_dominance": 0.5094394872097948
+    },
     "top_topics": [
         [
             "islamic finance",
@@ -113,6 +115,56 @@
             "malaysia",
             0.0779467680608365
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Tun Ismail bin Mohamed Ali",
+            "beginning_of_term": "1962-07-01",
+            "end_of_term": "1980-07-01",
+            "acting": false
+        },
+        {
+            "governor": "Abdul Aziz bin Taha",
+            "beginning_of_term": "1980-07-01",
+            "end_of_term": "1985-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Jaffar bin Hussein",
+            "beginning_of_term": "1985-06-01",
+            "end_of_term": "1994-05-01",
+            "acting": false
+        },
+        {
+            "governor": "Ahmad bin Mohd Don",
+            "beginning_of_term": "1994-05-01",
+            "end_of_term": "1998-08-01",
+            "acting": false
+        },
+        {
+            "governor": "Ali Abul Hassan bin Sulaiman",
+            "beginning_of_term": "1998-09-01",
+            "end_of_term": "2000-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Zeti Akhtar Aziz",
+            "beginning_of_term": "2000-05-01",
+            "end_of_term": "2016-04-01",
+            "acting": false
+        },
+        {
+            "governor": "Muhammad bin Ibrahim",
+            "beginning_of_term": "2016-05-01",
+            "end_of_term": "2018-06-01",
+            "acting": false
+        },
+        {
+            "governor": "Nor Shamsiah binti Mohd Yunus",
+            "beginning_of_term": "2018-07-01",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         1999,

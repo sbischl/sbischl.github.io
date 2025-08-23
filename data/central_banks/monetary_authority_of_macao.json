@@ -28,9 +28,11 @@
         "academic": 0.06896551724137931,
         "political": 0.06896551724137931
     },
-    "monetary_dominance": 0.12840518563712258,
-    "fiscal_dominance_mean": 0.0,
-    "financial_dominance_mean": 0.8715948143628774,
+    "pressures": {
+        "monetary_dominance": 0.12840518563712258,
+        "fiscal_dominance": 0.0,
+        "financial_dominance": 0.8715948143628774
+    },
     "top_topics": [
         [
             "risk management",
@@ -72,6 +74,50 @@
             "economic development",
             0.1724137931034483
         ]
+    ],
+    "governors": [
+        {
+            "governor": "Carlos Alberto Samora Bitoque Vargas Mogo",
+            "beginning_of_term": "1980-01-01",
+            "end_of_term": "1981-07-30",
+            "acting": false
+        },
+        {
+            "governor": "Jos\u00e9 Ant\u00f3nio Igl\u00e9sias da Silva Tom\u00e1s",
+            "beginning_of_term": "1981-09-18",
+            "end_of_term": "1985-03-15",
+            "acting": false
+        },
+        {
+            "governor": "Manuel Alcindo Antunes Frasquilho",
+            "beginning_of_term": "1985-06-20",
+            "end_of_term": "1989-06-19",
+            "acting": false
+        },
+        {
+            "governor": "Jos\u00e9 Carlos Rodrigues Nunes",
+            "beginning_of_term": "1990-07-03",
+            "end_of_term": "1996-10-31",
+            "acting": false
+        },
+        {
+            "governor": "Maria Manuela Morgado Santiago Baptista",
+            "beginning_of_term": "1996-11-18",
+            "end_of_term": "1999-08-18",
+            "acting": false
+        },
+        {
+            "governor": "Teng Lin Seng",
+            "beginning_of_term": "1999-08-26",
+            "end_of_term": "2017-08-25",
+            "acting": false
+        },
+        {
+            "governor": "Chan Sau San",
+            "beginning_of_term": "2017-08-26",
+            "end_of_term": null,
+            "acting": false
+        }
     ],
     "year": [
         2007,
